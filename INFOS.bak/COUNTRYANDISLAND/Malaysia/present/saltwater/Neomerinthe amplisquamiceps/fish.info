@@ -1,0 +1,73 @@
+{
+ 'Common names': 
+                 [
+                  ' Orange scorpionfish (English)', 
+                  ' Depu-kerapu sisik (Malay)', 
+                  ' Scorpionfish (English)', 
+                  ' Depu (Malay)', 
+                  ' Gedempu (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neamp_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Neamp_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=11662&what=species', 
+                 'img-name': 'Neomerinthe_amplisquamiceps__Neamp_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1459759121_162.158.165.30.jpg&w=300', 
+                 'photographer': 'Photo by N.M. Krishna and K. Sujatha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1459759121_162.158.165.30.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neomerinthe_amplisquamiceps__1459759121_162.158.165.30.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476160711_162.158.167.41.jpg&w=300', 
+                 'photographer': 'Photo by N M KRISHNA AND K SUJATHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476160711_162.158.167.41.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neomerinthe_amplisquamiceps__1476160711_162.158.167.41.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Fowler, 1938)', 
+ 'Max length': '16.200000762939 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Scorpaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 11662, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neamp_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Neomerinthe amplisquamiceps', 
+             'id': 11662, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=11662'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=11662'
+          }, 
+ 'eles-seq': 797
+}

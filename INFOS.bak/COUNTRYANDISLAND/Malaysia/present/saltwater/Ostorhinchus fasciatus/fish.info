@@ -1,0 +1,288 @@
+{
+ 'Common names': 
+                 [
+                  ' Broad-banded cardinalfish (English)', 
+                  ' Twostripe cardinal (English)', 
+                  ' Sebekah dwijalur (Malay)', 
+                  ' Sebekah jalur lebar (Malay)', 
+                  ' Cardinalfish (English)', 
+                  ' Four-banded cardinalfish (English)', 
+                  ' Twostripe cardinalfish (English)', 
+                  ' Sebekah (Malay)', 
+                  ' Semangka (Malay)', 
+                  ' Seriding (Malay)', 
+                  ' Serinding (Malay)', 
+                  ' Serodong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apqua_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apqua_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6605&what=species', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apqua_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u0.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apqua_u7.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apqua_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apqua_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apqua_u9.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apqua_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apqua_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u8.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u2.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Apfas_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apfas_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6605&what=species&TotRec=11', 
+                 'img-name': 'Ostorhinchus_fasciatus__Apfas_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fafasci.jpg&w=300', 
+                 'photographer': 'Photo by K.V. Akhilesh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/afasci.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__afasci.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fafsc.jpg&w=300', 
+                 'photographer': 'Photo by K.V. Akhilesh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/afsc.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__afsc.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368930327_182.178.124.40.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368930327_182.178.124.40.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1368930327_182.178.124.40.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430752651_39.50.204.235.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430752651_39.50.204.235.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1430752651_39.50.204.235.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436590498_39.57.120.50.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436590498_39.57.120.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1436590498_39.57.120.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1448343579_202.141.231.138.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1448343579_202.141.231.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1448343579_202.141.231.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1451898705_119.157.160.196.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1451898705_119.157.160.196.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1451898705_119.157.160.196.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1451898726_119.157.160.196.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1451898726_119.157.160.196.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1451898726_119.157.160.196.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481461964_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481461964_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1481461964_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481462048_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481462048_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1481462048_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1433880364_91.76.136.157.jpg&w=300', 
+                 'photographer': 'Photo by Andrey Ryanskiy', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1433880364_91.76.136.157.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_fasciatus__1433880364_91.76.136.157.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(White, 1790)', 
+ 'Max length': '10.3 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6605, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apfas_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ostorhinchus fasciatus', 
+             'id': 6605, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6605'
+            }, 
+ 'Remark': 'Also Ref. 27550.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6605'
+          }, 
+ 'eles-seq': 830
+}

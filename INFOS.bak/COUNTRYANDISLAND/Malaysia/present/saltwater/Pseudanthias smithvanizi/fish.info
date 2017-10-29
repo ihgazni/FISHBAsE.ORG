@@ -1,0 +1,134 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7460&what=species', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_m0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7460&what=species&TotRec=6', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_f0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7460&what=species&TotRec=6', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_f1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_f1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7460&what=species&TotRec=6', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_f1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7460&what=species&TotRec=6', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=7460&what=species&TotRec=6', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpseudanthias-smithvanizi-jj-2-040602.jpg&w=300', 
+                 'photographer': 'Photo by Jeanette Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pseudanthias-smithvanizi-jj-2-040602.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pseudanthias_smithvanizi__pseudanthias-smithvanizi-jj-2-040602.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u3.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7460&what=stamps', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u4.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pssmi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7460&what=stamps&TotRec=2', 
+                 'img-name': 'Pseudanthias_smithvanizi__Pssmi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Randall & Lubbock, 1981)', 
+ 'Max length': '9.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7460, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pssmi_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudanthias smithvanizi', 
+             'id': 7460, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7460'
+            }, 
+ 'Remark': 'Known from Sabah (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7460'
+          }, 
+ 'eles-seq': 1027
+}

@@ -1,0 +1,157 @@
+{
+ 'Common names': 
+                 [
+                  ' Luminous cardinalfish (English)', 
+                  ' Sebekah kaca (Malay)', 
+                  ' Cardinal fish (English)', 
+                  ' Slender cardinalfish (English)', 
+                  ' Sebekah (Malay)', 
+                  ' Sebekah laut (Malay)', 
+                  ' Semangka (Malay)', 
+                  ' Seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5747&what=species', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_f0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rhgra_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhgra_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5747&what=species&TotRec=8', 
+                 'img-name': 'Rhabdamia_gracilis__Rhgra_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1373049517_82.156.224.224.jpg&w=300', 
+                 'photographer': 'Photo by Peter van der Sluijs', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1373049517_82.156.224.224.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhabdamia_gracilis__1373049517_82.156.224.224.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480251426_141.101.98.192.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480251426_141.101.98.192.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhabdamia_gracilis__1480251426_141.101.98.192.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1966-0535_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1966-0535_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1856)', 
+ 'Max length': '6 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5747, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhgra_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rhabdamia gracilis', 
+             'id': 5747, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5747'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5747'
+          }, 
+ 'eles-seq': 1080
+}

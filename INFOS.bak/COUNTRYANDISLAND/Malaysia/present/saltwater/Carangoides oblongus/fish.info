@@ -1,0 +1,105 @@
+{
+ 'Common names': 
+                 [
+                  ' Coachwhip trevally (English)', 
+                  ' Demudok letup-letup (Malay)', 
+                  ' Oblong trevally (English)', 
+                  ' Cermin (Malay)', 
+                  ' Selar letup-letup (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caobl_u1.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caobl_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1908&what=species', 
+                 'img-name': 'Carangoides_oblongus__Caobl_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Caobl_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caobl_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1908&what=species&TotRec=3', 
+                 'img-name': 'Carangoides_oblongus__Caobl_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Caobl_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caobl_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1908&what=species&TotRec=3', 
+                 'img-name': 'Carangoides_oblongus__Caobl_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363881585_59.57.224.125.jpg&w=300', 
+                 'photographer': 'Photo by Mingru Chen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363881585_59.57.224.125.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carangoides_oblongus__1363881585_59.57.224.125.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1377547183_83.237.25.217.jpg&w=300', 
+                 'photographer': 'Photo by Andrey Ryanskiy', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1377547183_83.237.25.217.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carangoides_oblongus__1377547183_83.237.25.217.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367058048_182.178.95.132.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367058048_182.178.95.132.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carangoides_oblongus__1367058048_182.178.95.132.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1833)', 
+ 'Max length': '46 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Carangidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1908, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caobl_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Carangoides oblongus', 
+             'id': 1908, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1908'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1908'
+          }, 
+ 'eles-seq': 183
+}

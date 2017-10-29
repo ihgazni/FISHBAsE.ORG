@@ -1,0 +1,178 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u9.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6671&what=species', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u7.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=164', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u6.jpg', 
+                 'photographer': 'Photo by Yin, Robert', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=237', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u4.jpg', 
+                 'photographer': 'Photo by Baur, J.-C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=237', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u5.jpg', 
+                 'photographer': 'Photo by Baur, J.-C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u8.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=290', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u3.jpg', 
+                 'photographer': 'Photo by Teichmann, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgut_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6671&what=species&TotRec=10', 
+                 'img-name': 'Amblyeleotris_guttata__Amgut_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspottedprawngoby.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spottedprawngoby.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyeleotris_guttata__spottedprawngoby.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspottedprawngob.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spottedprawngob.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyeleotris_guttata__spottedprawngob.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1339841105_86.10.200.84.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1339841105_86.10.200.84.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyeleotris_guttata__1339841105_86.10.200.84.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Fowler, 1938)', 
+ 'Max length': '11 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6671, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgut_u7.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Amblyeleotris guttata', 
+             'id': 6671, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6671'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6671'
+          }, 
+ 'eles-seq': 56
+}

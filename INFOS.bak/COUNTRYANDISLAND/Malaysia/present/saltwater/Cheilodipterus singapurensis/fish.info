@@ -1,0 +1,57 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsin_u1.jpg', 
+                 'photographer': 'Photo by Murdy, E.O./Ferraris, C.J., Jr.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chsin_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5782&what=species', 
+                 'img-name': 'Cheilodipterus_singapurensis__Chsin_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsin_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chsin_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5782&what=species&TotRec=2', 
+                 'img-name': 'Cheilodipterus_singapurensis__Chsin_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1860', 
+ 'Max length': '22 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5782, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsin_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cheilodipterus singapurensis', 
+             'id': 5782, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5782'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5782'
+          }, 
+ 'eles-seq': 261
+}

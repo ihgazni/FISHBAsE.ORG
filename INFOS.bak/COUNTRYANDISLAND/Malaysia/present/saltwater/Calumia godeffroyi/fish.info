@@ -1,0 +1,57 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cagod_m0.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cagod_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=13765&what=species', 
+                 'img-name': 'Calumia_godeffroyi__Cagod_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cagod_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cagod_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=13765&what=species&TotRec=2', 
+                 'img-name': 'Calumia_godeffroyi__Cagod_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Günther, 1877)', 
+ 'Max length': '3.6 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Eleotridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 13765, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cagod_m0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Calumia godeffroyi', 
+             'id': 13765, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=13765'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=13765'
+          }, 
+ 'eles-seq': 168
+}

@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pshet_m0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pshet_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=11620&what=species', 
+                 'img-name': 'Pseudocoris_heteroptera__Pshet_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pshet_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pshet_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=11620&what=species&TotRec=4', 
+                 'img-name': 'Pseudocoris_heteroptera__Pshet_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pshet_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pshet_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=11620&what=species&TotRec=4', 
+                 'img-name': 'Pseudocoris_heteroptera__Pshet_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pshet_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pshet_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=11620&what=species&TotRec=4', 
+                 'img-name': 'Pseudocoris_heteroptera__Pshet_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1857)', 
+ 'Max length': '20 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Labridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 11620, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pshet_m0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudocoris heteroptera', 
+             'id': 11620, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=11620'
+            }, 
+ 'Remark': 'Known from Sabah (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=11620'
+          }, 
+ 'eles-seq': 1036
+}

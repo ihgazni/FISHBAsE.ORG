@@ -1,0 +1,530 @@
+{
+ 'Common names': 
+                 [
+                  ' Painted sweetlips (English)', 
+                  ' Kaci mandiabu (Malay)', 
+                  ' Sweetlip (English)', 
+                  ' Sweetlips (English)', 
+                  ' Beh tau (Malay)', 
+                  ' Besikan (Malay)', 
+                  ' Kaci (Malay)', 
+                  ' Kaci (Malay)', 
+                  ' Mandi abu (Malay)', 
+                  ' Mesikur (Malay)', 
+                  ' Pinang (Malay)', 
+                  ' Tebal bibir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_j2.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4465&what=species', 
+                 'img-name': 'Diagramma_pictum__Dipic_j2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=307', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u3.jpg', 
+                 'photographer': 'Photo by van der Werff, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_j1.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_ud.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u8.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u9.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_ua.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_uc.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u2.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_j0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=15&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=16&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=17&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=18&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=19&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=20&ID=4465&what=species&TotRec=22', 
+                 'img-name': 'Diagramma_pictum__Dipic_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428765680_103.230.105.4.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428765680_103.230.105.4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1428765680_103.230.105.4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpaintedsweetlips.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/paintedsweetlips.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__paintedsweetlips.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpaintedsweetlipssubadult.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/paintedsweetlipssubadult.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__paintedsweetlipssubadult.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscf3114.jpg&w=300', 
+                 'photographer': 'Photo by hitomi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscf3114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__dscf3114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1342723697_41.138.226.42.jpg&w=300', 
+                 'photographer': 'Photo by Marcos A M Pereira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1342723697_41.138.226.42.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1342723697_41.138.226.42.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdipicas.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dipicas.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__dipicas.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdipicgo.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dipicgo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__dipicgo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371884158_182.178.57.199.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371884158_182.178.57.199.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1371884158_182.178.57.199.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371884176_182.178.57.199.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371884176_182.178.57.199.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1371884176_182.178.57.199.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1406827531_39.44.171.156.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1406827531_39.44.171.156.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1406827531_39.44.171.156.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1406827610_39.44.171.80.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1406827610_39.44.171.80.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1406827610_39.44.171.80.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1435946095_39.57.112.249.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1435946095_39.57.112.249.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1435946095_39.57.112.249.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1435946126_39.33.205.107.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1435946126_39.33.205.107.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1435946126_39.33.205.107.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476622790_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476622790_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1476622790_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476622852_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476622852_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1476622852_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdipicrsf.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dipicrsf.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__dipicrsf.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmysterywrasse2.jpg&w=300', 
+                 'photographer': 'Photo by Stephan Pelletier', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/mysterywrasse2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__mysterywrasse2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486528193_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486528193_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__1486528193_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_9455.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_9455.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__fb_9455.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_9465.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_9465.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Diagramma_pictum__fb_9465.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_j0.jpg', 
+                 'photographer': '    Photo by CSIRO  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4465&what=larvegg', 
+                 'img-name': 'Diagramma_pictum__Dipic_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dipic_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dipic_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4465&what=larvegg&TotRec=2', 
+                 'img-name': 'Diagramma_pictum__Dipic_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Thunberg, 1792)', 
+ 'Max length': '100 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Haemulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4465, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dipic_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Diagramma pictum', 
+             'id': 4465, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4465'
+            }, 
+ 'Remark': 'Also Ref. 9987.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4465'
+          }, 
+ 'eles-seq': 378
+}

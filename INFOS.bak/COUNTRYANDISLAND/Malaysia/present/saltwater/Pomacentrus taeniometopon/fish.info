@@ -1,0 +1,60 @@
+{
+ 'Common names': 
+                 [
+                  ' Brackish damsel (English)', 
+                  ' Gombing-tanda payau (Malay)', 
+                  ' Damselfish (English)', 
+                  ' Gombing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Potae_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Potae_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10280&what=species', 
+                 'img-name': 'Pomacentrus_taeniometopon__Potae_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Potae_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Potae_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=10280&what=species&TotRec=2', 
+                 'img-name': 'Pomacentrus_taeniometopon__Potae_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1852', 
+ 'Max length': '12 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10280, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Potae_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomacentrus taeniometopon', 
+             'id': 10280, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10280'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10280'
+          }, 
+ 'eles-seq': 985
+}

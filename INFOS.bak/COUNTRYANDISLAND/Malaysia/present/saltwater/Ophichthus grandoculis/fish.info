@@ -1,0 +1,36 @@
+{
+ 'Common names': 
+                 [
+                  ' Snake-eel (English)', 
+                  ' Belin Pinang (Malay)', 
+                  ' Belut (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cantor, 1849)', 
+ 'Max length': '', 
+ 'Maturity': '', 
+ 'Family': 'Ophichthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ophichthus grandoculis', 
+             'id': 53891, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=53891'
+            }, 
+ 'Remark': 'Type locality: Sea of Pinang [Penang], Malaysia.', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 813
+}

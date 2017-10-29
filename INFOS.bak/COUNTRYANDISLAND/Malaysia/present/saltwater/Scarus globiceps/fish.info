@@ -1,0 +1,151 @@
+{
+ 'Common names': 
+                 [
+                  ' Globehead parrotfish (English)', 
+                  ' Bayan tribaris sisik (Malay)', 
+                  ' Parrotfish (English)', 
+                  ' Bayan (Malay)', 
+                  ' Kalat (Malay)', 
+                  ' Ketarap (Malay)', 
+                  ' Perencong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_m0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4970&what=species', 
+                 'img-name': 'Scarus_globiceps__Scglo_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_f1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_f1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_f1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_m1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_m1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_m1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_u1.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_f0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Scglo_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Scglo_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_u3.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scglo_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=4970&what=species&TotRec=10', 
+                 'img-name': 'Scarus_globiceps__Scglo_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Valenciennes, 1840', 
+ 'Max length': '28 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scaridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4970, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scglo_m0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Scarus globiceps', 
+             'id': 4970, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4970'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4970'
+          }, 
+ 'eles-seq': 1132
+}

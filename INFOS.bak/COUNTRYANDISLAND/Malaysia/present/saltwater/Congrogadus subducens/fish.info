@@ -1,0 +1,124 @@
+{
+ 'Common names': 
+                 [
+                  ' Carpet eel-blenny (English)', 
+                  ' Tilan punai (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=746', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u1.jpg', 
+                 'photographer': 'Photo by Fenner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4419&what=species', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u3.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4419&what=species&TotRec=6', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u4.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4419&what=species&TotRec=6', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4419&what=species&TotRec=6', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cosub_u0.gif', 
+                 'photographer': 'Photo by Günther, A.C.L.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4419&what=species&TotRec=6', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1331', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u2.jpg', 
+                 'photographer': 'Photo by Patterson, R.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4419&what=species&TotRec=6', 
+                 'img-name': 'Congrogadus_subducens__Cosub_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1491949941_162.158.178.167.jpg&w=300', 
+                 'photographer': 'Photo by Giles Winstanley', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1491949941_162.158.178.167.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Congrogadus_subducens__1491949941_162.158.178.167.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cosub_l0.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cosub_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4419&what=larvegg', 
+                 'img-name': 'Congrogadus_subducens__Cosub_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Richardson, 1843)', 
+ 'Max length': '45 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pseudochromidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4419, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cosub_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Congrogadus subducens', 
+             'id': 4419, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4419'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4419'
+          }, 
+ 'eles-seq': 326
+}

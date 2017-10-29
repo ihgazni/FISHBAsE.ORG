@@ -1,0 +1,260 @@
+{
+ 'Common names': 
+                 [
+                  ' Redbelly yellowtail fusilier (English)', 
+                  ' Delah pinang (Malay)', 
+                  ' Fusilier (English)', 
+                  ' Red-belly fusilier (English)', 
+                  ' Yellowtail fusilier (English)', 
+                  ' Anjang-anjang (Malay)', 
+                  ' Bagan (Malay)', 
+                  ' Bangan (Malay)', 
+                  ' Delah (Malay)', 
+                  ' Huan chu (Malay)', 
+                  ' Merah China (Malay)', 
+                  ' Merah cina (Malay)', 
+                  ' Pinang-pinang (Malay)', 
+                  ' Pisang (Malay)', 
+                  ' Pisang-pisang (Malay)', 
+                  ' Selelah (Malay)', 
+                  ' Sulit (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u4.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=919&what=species', 
+                 'img-name': 'Caesio_cuning__Cacun_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u5.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cacun_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cacun_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=919&what=species&TotRec=7', 
+                 'img-name': 'Caesio_cuning__Cacun_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404883120_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404883120_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1404883120_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372845371_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by KANNAN K and  RANJITH L', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372845371_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1372845371_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1473413398_162.158.55.74.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1473413398_162.158.55.74.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1473413398_162.158.55.74.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390093553_80.218.91.186.jpg&w=300', 
+                 'photographer': 'Photo by Piero Malaer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390093553_80.218.91.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1390093553_80.218.91.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469521039_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469521039_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1469521039_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430229235_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430229235_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1430229235_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430229351_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430229351_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1430229351_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fr0120f12.jpg&w=300', 
+                 'photographer': 'Photo by Ken Tucker', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/r0120f12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__r0120f12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcaesio_cuning_pan_phl_copy.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/caesio_cuning_pan_phl_copy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__caesio_cuning_pan_phl_copy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355070739_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355070739_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1355070739_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369708955_182.52.96.15.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369708955_182.52.96.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1369708955_182.52.96.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486527785_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486527785_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Caesio_cuning__1486527785_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1791)', 
+ 'Max length': '60 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Caesionidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 919, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cacun_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Caesio cuning', 
+             'id': 919, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=919'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=919'
+          }, 
+ 'eles-seq': 156
+}

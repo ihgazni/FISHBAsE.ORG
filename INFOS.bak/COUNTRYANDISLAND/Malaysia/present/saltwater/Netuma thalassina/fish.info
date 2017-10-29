@@ -1,0 +1,367 @@
+{
+ 'Common names': 
+                 [
+                  ' Giant sea catfish (English)', 
+                  ' Duri jahan (Malay)', 
+                  ' Catfish (English)', 
+                  ' Marine catfish (English)', 
+                  ' Baguk (Malay)', 
+                  ' Deduri (Malay)', 
+                  ' Duri (Malay)', 
+                  ' Gagok (Malay)', 
+                  ' Goh (Malay)', 
+                  ' Ikan duri (Malay)', 
+                  ' Ikan jan (Malay)', 
+                  ' Jahan (Malay)', 
+                  ' Kucing (Malay)', 
+                  ' Lu keng (Malay)', 
+                  ' Mayung (Malay)', 
+                  ' Otek (Malay)', 
+                  ' Pulutan (Malay)', 
+                  ' Seng hu (Malay)', 
+                  ' Tahi ayam (Malay)', 
+                  ' Teng tau (Malay)', 
+                  ' Utek (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=904', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Artha_u2.jpg', 
+                 'photographer': 'Photo by Hofinger, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10220&what=species', 
+                 'img-name': 'Netuma_thalassina__Artha_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Artha_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=10220&what=species&TotRec=6', 
+                 'img-name': 'Netuma_thalassina__Artha_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Artha_u1.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=10220&what=species&TotRec=6', 
+                 'img-name': 'Netuma_thalassina__Artha_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Artha_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=10220&what=species&TotRec=6', 
+                 'img-name': 'Netuma_thalassina__Artha_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Artha_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=10220&what=species&TotRec=6', 
+                 'img-name': 'Netuma_thalassina__Artha_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Artha_u3.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Artha_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=10220&what=species&TotRec=6', 
+                 'img-name': 'Netuma_thalassina__Artha_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374062299_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374062299_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1374062299_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374062371_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374062371_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1374062371_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374062451_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374062451_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1374062451_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374062513_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374062513_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1374062513_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374062554_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374062554_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1374062554_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375207949_182.178.124.39.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375207949_182.178.124.39.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1375207949_182.178.124.39.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391102725_182.178.79.46.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391102725_182.178.79.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1391102725_182.178.79.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391102739_182.178.79.46.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391102739_182.178.79.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1391102739_182.178.79.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391102783_182.178.79.46.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391102783_182.178.79.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1391102783_182.178.79.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391102823_182.178.79.46.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391102823_182.178.79.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1391102823_182.178.79.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391102906_182.178.79.46.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391102906_182.178.79.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1391102906_182.178.79.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1411729739_111.68.108.50.jpg&w=300', 
+                 'photographer': 'Photo by Noureen Farooq (CEMB) Karachi University', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1411729739_111.68.108.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1411729739_111.68.108.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1411729975_111.68.108.50.jpg&w=300', 
+                 'photographer': 'Photo by Noureen Farooq', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1411729975_111.68.108.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1411729975_111.68.108.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414685090_119.156.13.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414685090_119.156.13.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1414685090_119.156.13.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414685112_119.156.13.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414685112_119.156.13.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1414685112_119.156.13.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1431404958_111.68.108.34.jpg&w=300', 
+                 'photographer': 'Photo by Noureen Farooq', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1431404958_111.68.108.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Netuma_thalassina__1431404958_111.68.108.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ia-5155_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9344_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9344_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9344_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9344_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9345_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9345_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9345_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9345_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9407_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9407_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9407_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00041/ia-9407_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0710_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Rüppell, 1837)', 
+ 'Max length': '185 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Ariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10220, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Artha_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Netuma thalassina', 
+             'id': 10220, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10220'
+            }, 
+ 'Remark': 'Records are most probably misidentifications (Ref. 3876).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10220'
+          }, 
+ 'eles-seq': 803
+}

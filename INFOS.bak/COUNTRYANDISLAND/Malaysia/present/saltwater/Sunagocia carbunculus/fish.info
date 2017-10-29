@@ -1,0 +1,81 @@
+{
+ 'Common names': 
+                 [
+                  ' Papillose flathead (English)', 
+                  ' Baji mata (Malay)', 
+                  ' Flathead (English)', 
+                  ' Baji-baji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2292', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sucar_u0.jpg', 
+                 'photographer': 'Photo by Ryanskiy, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sucar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=15241&what=species', 
+                 'img-name': 'Sunagocia_carbunculus__Sucar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1773', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sucar_u1.jpg', 
+                 'photographer': 'Photo by Henke, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sucar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=15241&what=species&TotRec=3', 
+                 'img-name': 'Sunagocia_carbunculus__Sucar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Eucar_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eucar_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=15241&what=species&TotRec=3', 
+                 'img-name': 'Sunagocia_carbunculus__Eucar_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6875_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6875_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6875_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6875_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1833)', 
+ 'Max length': '40 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Platycephalidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 15241, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sucar_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sunagocia carbunculus', 
+             'id': 15241, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15241'
+            }, 
+ 'Remark': 'Found in Pinang (Ref. 45255).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=15241'
+          }, 
+ 'eles-seq': 1243
+}

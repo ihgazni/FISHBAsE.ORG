@@ -1,0 +1,34 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Anonymous [Bennett], 1830)', 
+ 'Max length': '', 
+ 'Maturity': '', 
+ 'Family': 'Uranoscopidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ichthyscopus malacopterus', 
+             'id': 62129, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=62129'
+            }, 
+ 'Remark': 'Known from Kuching, East Malaysia (Ref. 42788).', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 604
+}

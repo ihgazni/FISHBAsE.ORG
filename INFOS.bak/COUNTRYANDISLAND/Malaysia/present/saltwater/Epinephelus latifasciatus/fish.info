@@ -1,0 +1,328 @@
+{
+ 'Common names': 
+                 [
+                  ' Striped grouper (English)', 
+                  ' Kerapu garis (Malay)', 
+                  ' Banded grouper (English)', 
+                  ' Coral cod (English)', 
+                  ' Grouper (English)', 
+                  ' Reef cod (English)', 
+                  ' Sea perch (English)', 
+                  ' Seabass (English)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_j0.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7350&what=species', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1351', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_f0.jpg', 
+                 'photographer': 'Photo by Ganapathiraju, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1351', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_j1.jpg', 
+                 'photographer': 'Photo by Ganapathiraju, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Eplat_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Eplat_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Eplat_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_u3.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=7350&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404882154_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404882154_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1404882154_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379999025_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379999025_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1379999025_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379999274_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379999274_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1379999274_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379999430_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379999430_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1379999430_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367064951_182.178.95.31.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367064951_182.178.95.31.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1367064951_182.178.95.31.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413908780_39.44.255.177.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413908780_39.44.255.177.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1413908780_39.44.255.177.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413908811_39.44.216.6.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413908811_39.44.216.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1413908811_39.44.216.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1446626141_202.141.231.138.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1446626141_202.141.231.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1446626141_202.141.231.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488689436_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488689436_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1488689436_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488689472_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488689472_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1488689472_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488689527_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488689527_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1488689527_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488689556_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488689556_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_latifasciatus__1488689556_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_j0.jpg', 
+                 'photographer': '    Photo by Iranian Fisheries Research Organization (IFRO)  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7350&what=larvegg', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1351', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_j1.jpg', 
+                 'photographer': '    Photo by Ganapathiraju, P.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7350&what=larvegg&TotRec=3', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Eplat_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eplat_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7350&what=larvegg&TotRec=3', 
+                 'img-name': 'Epinephelus_latifasciatus__Eplat_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Temminck & Schlegel, 1842)', 
+ 'Max length': '171 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7350, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eplat_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Epinephelus latifasciatus', 
+             'id': 7350, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7350'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7350'
+          }, 
+ 'eles-seq': 444
+}

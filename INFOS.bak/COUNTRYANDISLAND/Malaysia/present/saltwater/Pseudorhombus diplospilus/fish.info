@@ -1,0 +1,59 @@
+{
+ 'Common names': 
+                 [
+                  ' Four twin-spot flounder (English)', 
+                  ' Sebelah empat-tanda kembar (Malay)', 
+                  ' Flounder (English)', 
+                  ' Sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psdip_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psdip_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10973&what=species', 
+                 'img-name': 'Pseudorhombus_diplospilus__Psdip_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_diplospilus_1987-110.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_diplospilus_1987-110.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_diplospilus_1999-1005.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_diplospilus_1999-1005.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Norman, 1926', 
+ 'Max length': '40 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Paralichthyidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10973, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psdip_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudorhombus diplospilus', 
+             'id': 10973, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10973'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10973'
+          }, 
+ 'eles-seq': 1046
+}

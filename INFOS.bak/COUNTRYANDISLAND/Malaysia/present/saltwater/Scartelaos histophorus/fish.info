@@ -1,0 +1,127 @@
+{
+ 'Common names': 
+                 [
+                  ' Walking goby (English)', 
+                  ' Belodok layer (Malay)', 
+                  ' Goby (English)', 
+                  ' Belukor (Malay)', 
+                  ' Ubi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1264', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Schis_u3.jpg', 
+                 'photographer': 'Photo by Nip, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Schis_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7487&what=species', 
+                 'img-name': 'Scartelaos_histophorus__Schis_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1377', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Schis_u2.jpg', 
+                 'photographer': 'Photo by Good, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Schis_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7487&what=species&TotRec=5', 
+                 'img-name': 'Scartelaos_histophorus__Schis_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2018', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Schis_u4.jpg', 
+                 'photographer': 'Photo by Bucol, A.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Schis_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7487&what=species&TotRec=5', 
+                 'img-name': 'Scartelaos_histophorus__Schis_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Schis_u5.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Schis_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7487&what=species&TotRec=5', 
+                 'img-name': 'Scartelaos_histophorus__Schis_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Schis_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Schis_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7487&what=species&TotRec=5', 
+                 'img-name': 'Scartelaos_histophorus__Schis_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fscartelaos_histophorus-body.jpg&w=300', 
+                 'photographer': 'Photo by Hayath', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/scartelaos_histophorus-body.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scartelaos_histophorus__scartelaos_histophorus-body.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhistophorus_01.jpg&w=300', 
+                 'photographer': 'Photo by Gianluca Polgar - www.themudskipper.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/histophorus_01.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scartelaos_histophorus__histophorus_01.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1159ps1.jpg&w=300', 
+                 'photographer': 'Photo by Chavalit Vidthayanon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1159ps1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scartelaos_histophorus__1159ps1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1837)', 
+ 'Max length': '14 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7487, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Schis_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Scartelaos histophorus', 
+             'id': 7487, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7487'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7487'
+          }, 
+ 'eles-seq': 1128
+}

@@ -1,0 +1,759 @@
+{
+ 'Common names': 
+                 [
+                  ' Great barracuda (English)', 
+                  ' Alu-alu besar (Malay)', 
+                  ' Alu-alu (Malay)', 
+                  ' Kacang-kacang (Malay)', 
+                  ' Pengaluan (Malay)', 
+                  ' Tenak (Malay)', 
+                  ' Tenok (Malay)', 
+                  ' Titil (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1235&what=species', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_uc.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ud.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ue.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_uh.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_uh.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_uh.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ua.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u1.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u5.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u5.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u5.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u2.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u4.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u4.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spbar_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=15&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ub.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=16&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ug.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ug.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=17&ID=1235&what=species&TotRec=19', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ug.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbarracuda.jpg&w=300', 
+                 'photographer': 'Photo by Louis Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/barracuda.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__barracuda.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraena_barracuda_ch_bel.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraena_barracuda_ch_bel.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraena_barracuda_ch_bel.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraena_barracuda_%2528great_barracuda%2529.jpg&w=300', 
+                 'photographer': 'Photo by Vicki Hendrix - Splashingtime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraena_barracuda_%28great_barracuda%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraena_barracuda_%28great_barracuda%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraena_barracuda_%2528great_barracuda%2529_1.jpg&w=300', 
+                 'photographer': 'Photo by Vicki Hendrix - Splashingtime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraena_barracuda_%28great_barracuda%29_1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraena_barracuda_%28great_barracuda%29_1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraena_barracuda_%2528great_barracuda%2529_2.jpg&w=300', 
+                 'photographer': 'Photo by Vicki Hendrix - Splashingtime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraena_barracuda_%28great_barracuda%29_2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraena_barracuda_%28great_barracuda%29_2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgabon98--104.jpg&w=300', 
+                 'photographer': 'Photo by noyelle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gabon98--104.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__gabon98--104.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379227766_178.119.181.197.jpg&w=300', 
+                 'photographer': 'Photo by noyelle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379227766_178.119.181.197.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1379227766_178.119.181.197.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396857848_204.136.242.10.jpg&w=300', 
+                 'photographer': 'Photo by Hans Wullems', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396857848_204.136.242.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1396857848_204.136.242.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1349700824_117.216.1.103.jpg&w=300', 
+                 'photographer': 'Photo by T.Mohanraj', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1349700824_117.216.1.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1349700824_117.216.1.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgohwithbarracuda.jpg&w=300', 
+                 'photographer': 'Photo by Goh Chung Hun', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gohwithbarracuda.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__gohwithbarracuda.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1393752753_82.61.39.230.jpg&w=300', 
+                 'photographer': 'Photo by De Sanctis Achille', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1393752753_82.61.39.230.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1393752753_82.61.39.230.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1393775252_82.61.39.230.jpg&w=300', 
+                 'photographer': 'Photo by De Sanctis Achille', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1393775252_82.61.39.230.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1393775252_82.61.39.230.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399206485_90.40.254.78.jpg&w=300', 
+                 'photographer': 'Photo by Ehshan NUCKCHADY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399206485_90.40.254.78.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1399206485_90.40.254.78.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbarracudamexico09.jpg&w=300', 
+                 'photographer': 'Photo by Andrea Rizzo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/barracudamexico09.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__barracudamexico09.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1346085417_189.158.65.137.jpg&w=300', 
+                 'photographer': 'Photo by Daniel Villarreal', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1346085417_189.158.65.137.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1346085417_189.158.65.137.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366508105_182.178.98.245.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366508105_182.178.98.245.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1366508105_182.178.98.245.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366508120_182.178.98.245.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366508120_182.178.98.245.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1366508120_182.178.98.245.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480255561_188.114.103.50.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480255561_188.114.103.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1480255561_188.114.103.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraenabarracuda20.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraenabarracuda20.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraenabarracuda20.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspbar1rs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spbar1rs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__spbar1rs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspbarrs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spbarrs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__spbarrs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1347620550_81.47.192.186.jpg&w=300', 
+                 'photographer': 'Photo by Francisco Javier Ballester Calonge', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1347620550_81.47.192.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1347620550_81.47.192.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbarracuda-andaman-islands.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/barracuda-andaman-islands.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__barracuda-andaman-islands.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbarracuda-andaman-islands2.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/barracuda-andaman-islands2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__barracuda-andaman-islands2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbarracuda-andaman-islands3.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/barracuda-andaman-islands3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__barracuda-andaman-islands3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1452748480_94.198.18.55.jpg&w=300', 
+                 'photographer': 'Photo by Markevich A.I.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1452748480_94.198.18.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1452748480_94.198.18.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F207-1_p7212635_sphyraena_barracuda.jpg&w=300', 
+                 'photographer': 'Photo by Joe DE VROE', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/207-1_p7212635_sphyraena_barracuda.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__207-1_p7212635_sphyraena_barracuda.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_3787.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_3787.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__fb_3787.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482314301_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482314301_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1482314301_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482338986_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482338986_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__1482338986_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyraenabarracuda-greatbarracudajuvenile.jpg&w=300', 
+                 'photographer': 'Photo by Val Kells', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyraenabarracuda-greatbarracudajuvenile.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyraena_barracuda__sphyraenabarracuda-greatbarracudajuvenile.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i1992-0978_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i1992-0978_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p3head.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p3head.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p2dorsalfin.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p2dorsalfin.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p1dorsalfin.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00058/ia-8414_p1dorsalfin.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ui.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_ui.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1235&what=stamps', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_ui.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_uj.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_uj.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1235&what=stamps&TotRec=6', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_uj.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u7.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1235&what=stamps&TotRec=6', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u8.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1235&what=stamps&TotRec=6', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=485', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u9.jpg', 
+                 'photographer': '    Photo by Bottini, P.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1235&what=stamps&TotRec=6', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_u6.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spbar_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1235&what=stamps&TotRec=6', 
+                 'img-name': 'Sphyraena_barracuda__Spbar_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Edwards, 1771)', 
+ 'Max length': '200 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Sphyraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1235, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spbar_ud.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sphyraena barracuda', 
+             'id': 1235, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1235'
+            }, 
+ 'Remark': 'Sold in Sabah (Sandakan) markets (Ref. 27550).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1235'
+          }, 
+ 'eles-seq': 1214
+}

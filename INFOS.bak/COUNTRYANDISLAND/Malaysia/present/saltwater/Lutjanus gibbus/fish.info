@@ -1,0 +1,293 @@
+{
+ 'Common names': 
+                 [
+                  ' Humpback red snapper (English)', 
+                  ' Merah barahan (Malay)', 
+                  ' Paddletail (English)', 
+                  ' Snapper (English)', 
+                  ' Barah-barahan (Malay)', 
+                  ' Ikan merah (Malay)', 
+                  ' Jenahak (Malay)', 
+                  ' Jenahak (Malay)', 
+                  ' Jenehak (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Temenggung (Malay)', 
+                  ' Ungar (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=265&what=species', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_j1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u0.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u4.jpg', 
+                 'photographer': 'Photo by Murdy, E.O./Ferraris, C.J., Jr.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lugib_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lugib_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_j0.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lugib_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=265&what=species&TotRec=11', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1424282416_217.120.237.5.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1424282416_217.120.237.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__1424282416_217.120.237.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhumpbackredsnappe.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/humpbackredsnappe.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__humpbackredsnappe.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flugib.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lugib.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__lugib.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhumpbackredsnapper.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/humpbackredsnapper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__humpbackredsnapper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_3694.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_3694.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__fb_3694.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flutjanus_gibbus.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lutjanus_gibbus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__lutjanus_gibbus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481546636_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481546636_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__1481546636_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442065506_197.225.114.248.jpg&w=300', 
+                 'photographer': 'Photo by preetam', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442065506_197.225.114.248.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__1442065506_197.225.114.248.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1472167376_108.162.219.94.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1472167376_108.162.219.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_gibbus__1472167376_108.162.219.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2217', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2217', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u6.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=265&what=stamps', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lugib_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lugib_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=265&what=larvegg', 
+                 'img-name': 'Lutjanus_gibbus__Lugib_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '50 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 265, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lugib_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lutjanus gibbus', 
+             'id': 265, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=265'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=265'
+          }, 
+ 'eles-seq': 699
+}

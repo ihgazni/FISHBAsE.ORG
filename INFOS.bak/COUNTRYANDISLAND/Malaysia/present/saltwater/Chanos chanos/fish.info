@@ -1,0 +1,410 @@
+{
+ 'Common names': 
+                 [
+                  ' Bagas (Malay)', 
+                  ' Bandang (Malay)', 
+                  ' Bangus (Malay)', 
+                  ' Belanak sembawa (Malay)', 
+                  ' Jangas (Malay)', 
+                  ' Pisang-pisang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u5.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=80&what=species', 
+                 'img-name': 'Chanos_chanos__Chcha_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_ub.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=479', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u3.jpg', 
+                 'photographer': 'Photo by Lovshin, L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=835', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u4.jpg', 
+                 'photographer': 'Photo by Meyer, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_j0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_b0.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_b0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_b0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_b1.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_b1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=80&what=species&TotRec=12', 
+                 'img-name': 'Chanos_chanos__Chcha_b1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5255x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5255x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__img_5255x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404804206_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404804206_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1404804206_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1431032371_190.26.107.185.jpg&w=300', 
+                 'photographer': 'Photo by Felipe Ladino, Fundacion Malpelo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1431032371_190.26.107.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1431032371_190.26.107.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmilk_fish_world_record_iusa_2002..jpg&w=300', 
+                 'photographer': 'Photo by Alexander Marc', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/milk_fish_world_record_iusa_2002..jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__milk_fish_world_record_iusa_2002..jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1362405158_124.124.120.94.jpg&w=300', 
+                 'photographer': 'Photo by Kudus Kadharsha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1362405158_124.124.120.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1362405158_124.124.120.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchcha1go.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chcha1go.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__chcha1go.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366558986_182.178.41.162.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366558986_182.178.41.162.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1366558986_182.178.41.162.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396171880_39.44.3.194.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396171880_39.44.3.194.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1396171880_39.44.3.194.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413563784_39.44.51.75.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413563784_39.44.51.75.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1413563784_39.44.51.75.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413563803_39.44.80.205.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413563803_39.44.80.205.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__1413563803_39.44.80.205.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_1568.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_1568.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chanos_chanos__fb_1568.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-3625_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-3625_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-3626_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-3626_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1989-0670_r2m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1989-0670_r2m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1989-0670_r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1989-0670_r1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/i1989-0670-p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/i1989-0670-p1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/i1989-0670-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/i1989-0670-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00020/ia-9743_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00020/ia-9743_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/ia-9829_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/ia-9829_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_e0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_e0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=80&what=larvegg', 
+                 'img-name': 'Chanos_chanos__Chcha_e0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_l0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_l1.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_l1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_l1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_l2.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_l2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_l2.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_l3.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_l3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_l3.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_j0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chcha_l4.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chcha_l4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=80&what=larvegg&TotRec=7', 
+                 'img-name': 'Chanos_chanos__Chcha_l4.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '180 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Chanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 80, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chcha_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chanos chanos', 
+             'id': 80, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=80'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=80'
+          }, 
+ 'eles-seq': 251
+}

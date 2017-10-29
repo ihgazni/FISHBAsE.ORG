@@ -1,0 +1,153 @@
+{
+ 'Common names': 
+                 [
+                  ' Wavy-lined grouper (English)', 
+                  ' Kerapu garis alun (Malay)', 
+                  ' Brown-lined rock cod (English)', 
+                  ' Coral cod (English)', 
+                  ' Grouper (English)', 
+                  ' Midwater grouper (English)', 
+                  ' Seabass (English)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epund_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epund_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6476&what=species', 
+                 'img-name': 'Epinephelus_undulosus__Epund_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epund_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epund_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6476&what=species&TotRec=5', 
+                 'img-name': 'Epinephelus_undulosus__Epund_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epund_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epund_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6476&what=species&TotRec=5', 
+                 'img-name': 'Epinephelus_undulosus__Epund_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epund_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epund_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6476&what=species&TotRec=5', 
+                 'img-name': 'Epinephelus_undulosus__Epund_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Epund_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epund_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6476&what=species&TotRec=5', 
+                 'img-name': 'Epinephelus_undulosus__Epund_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1380081458_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1380081458_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_undulosus__1380081458_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1380081664_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1380081664_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_undulosus__1380081664_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1380081775_14.139.82.124.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and KVL Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1380081775_14.139.82.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_undulosus__1380081775_14.139.82.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwavylinedgrouper.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/wavylinedgrouper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_undulosus__wavylinedgrouper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwavylinedgroupe.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/wavylinedgroupe.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_undulosus__wavylinedgroupe.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Quoy & Gaimard, 1824)', 
+ 'Max length': '120 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6476, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epund_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Epinephelus undulosus', 
+             'id': 6476, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6476'
+            }, 
+ 'Remark': 'In Sarawak.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6476'
+          }, 
+ 'eles-seq': 453
+}

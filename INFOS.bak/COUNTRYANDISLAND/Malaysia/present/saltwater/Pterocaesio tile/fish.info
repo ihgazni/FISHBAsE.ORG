@@ -1,0 +1,181 @@
+{
+ 'Common names': 
+                 [
+                  ' Dark-banded fusilier (English)', 
+                  ' Sulit jalur hitam (Malay)', 
+                  ' Fusilier (English)', 
+                  ' Anjang-anjang (Malay)', 
+                  ' Delah (Malay)', 
+                  ' Delah karang (Malay)', 
+                  ' Jalur-jalur (Malay)', 
+                  ' Pinang-pinang (Malay)', 
+                  ' Pisang-pisang (Malay)', 
+                  ' Sulit (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u3.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=939&what=species', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u5.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u0.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pttil_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pttil_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pttil_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=939&what=species&TotRec=8', 
+                 'img-name': 'Pterocaesio_tile__Pttil_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430227568_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430227568_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pterocaesio_tile__1430227568_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdark-bandedfusilier.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dark-bandedfusilier.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pterocaesio_tile__dark-bandedfusilier.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpterocaesio_tile.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pterocaesio_tile.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pterocaesio_tile__pterocaesio_tile.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361887633_82.20.1.24.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361887633_82.20.1.24.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pterocaesio_tile__1361887633_82.20.1.24.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=667', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=667', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1830)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Caesionidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 939, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pttil_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pterocaesio tile', 
+             'id': 939, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=939'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=939'
+          }, 
+ 'eles-seq': 1063
+}

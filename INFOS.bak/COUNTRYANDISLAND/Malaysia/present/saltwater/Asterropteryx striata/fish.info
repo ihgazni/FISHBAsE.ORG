@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Asstr_u0.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Asstr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=58618&what=species', 
+                 'img-name': 'Asterropteryx_striata__Asstr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Asstr_u2.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Asstr_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=58618&what=species&TotRec=2', 
+                 'img-name': 'Asterropteryx_striata__Asstr_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fstripedgoby.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/stripedgoby.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Asterropteryx_striata__stripedgoby.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480523153_141.101.98.192.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480523153_141.101.98.192.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Asterropteryx_striata__1480523153_141.101.98.192.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Allen & Munday, 1995', 
+ 'Max length': '3 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 58618, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Asstr_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Asterropteryx striata', 
+             'id': 58618, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=58618'
+            }, 
+ 'Remark': 'Sabah, Malaysia (Ref 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=58618'
+          }, 
+ 'eles-seq': 115
+}

@@ -1,0 +1,138 @@
+{
+ 'Common names': 
+                 [
+                  ' Northern scorpionfish (English)', 
+                  ' Depu-kerapu karang (Malay)', 
+                  ' Depu (Malay)', 
+                  ' Gedempu (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scpic_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scpic_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8296&what=species', 
+                 'img-name': 'Parascorpaena_picta__Scpic_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1377', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Papic_u5.jpg', 
+                 'photographer': 'Photo by Good, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Papic_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8296&what=species&TotRec=5', 
+                 'img-name': 'Parascorpaena_picta__Papic_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scpic_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scpic_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8296&what=species&TotRec=5', 
+                 'img-name': 'Parascorpaena_picta__Scpic_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Scpic_u0.gif', 
+                 'photographer': 'Photo by Günther, A.C.L.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scpic_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8296&what=species&TotRec=5', 
+                 'img-name': 'Parascorpaena_picta__Scpic_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Papic_u3.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Papic_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8296&what=species&TotRec=5', 
+                 'img-name': 'Parascorpaena_picta__Papic_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1459764191_162.158.165.30.jpg&w=300', 
+                 'photographer': 'Photo by V.A.Iswarya Deepti and K. Sujatha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1459764191_162.158.165.30.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Parascorpaena_picta__1459764191_162.158.165.30.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1477722622_162.158.166.143.jpg&w=300', 
+                 'photographer': 'Photo by Dr. NARANJI MUDDULA KRISHNA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1477722622_162.158.166.143.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Parascorpaena_picta__1477722622_162.158.166.143.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480261986_141.101.98.192.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480261986_141.101.98.192.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Parascorpaena_picta__1480261986_141.101.98.192.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480262013_141.101.98.192.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480262013_141.101.98.192.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Parascorpaena_picta__1480262013_141.101.98.192.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1829)', 
+ 'Max length': '16 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scorpaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8296, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scpic_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Parascorpaena picta', 
+             'id': 8296, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8296'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8296'
+          }, 
+ 'eles-seq': 887
+}

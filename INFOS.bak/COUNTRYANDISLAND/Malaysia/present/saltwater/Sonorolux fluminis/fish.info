@@ -1,0 +1,36 @@
+{
+ 'Common names': 
+                 [
+                  ' Estuary croaker (English)', 
+                  ' Gelama muara (Malay)', 
+                  ' Gelama (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Trewavas, 1977', 
+ 'Max length': '8 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sonorolux fluminis', 
+             'id': 15479, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15479'
+            }, 
+ 'Remark': 'Sarawak.', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 1211
+}

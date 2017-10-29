@@ -1,0 +1,330 @@
+{
+ 'Common names': 
+                 [
+                  ' Convict surgeonfish (English)', 
+                  ' Debam belang (Malay)', 
+                  ' Surgeonfish (English)', 
+                  ' Barat-barat (Malay)', 
+                  ' Debam (Malay)', 
+                  ' Dengkis (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1260&what=species', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1351', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_f0.jpg', 
+                 'photographer': 'Photo by Ganapathiraju, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u0.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Actri_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u8.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1260&what=species&TotRec=8', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486942712_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486942712_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1486942712_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486942829_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486942829_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1486942829_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc02354.jpg&w=300', 
+                 'photographer': 'Photo by April Cordova & Ricky Tyquiengco', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc02354.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__dsc02354.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404102021_38.99.243.46.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404102021_38.99.243.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1404102021_38.99.243.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fconvictsurgeonfish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/convictsurgeonfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__convictsurgeonfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_8317.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_8317.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__fb_8317.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facanthurus_triostegus.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acanthurus_triostegus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__acanthurus_triostegus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423728034_86.205.193.183.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Claude Jamoulle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423728034_86.205.193.183.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1423728034_86.205.193.183.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facanthurustriostegusfishbase.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acanthurustriostegusfishbase.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__acanthurustriostegusfishbase.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facanthurustriostegusfishbaseatnight.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acanthurustriostegusfishbaseatnight.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__acanthurustriostegusfishbaseatnight.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facanthurustriostegusjuvfishbase.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acanthurustriostegusjuvfishbase.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__acanthurustriostegusjuvfishbase.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facanthurustriostegusfbpostlarva.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acanthurustriostegusfbpostlarva.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__acanthurustriostegusfbpostlarva.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486942584_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486942584_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1486942584_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486942650_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486942650_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1486942650_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486942781_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486942781_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1486942781_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1409466178_117.194.33.40.jpg&w=300', 
+                 'photographer': 'Photo by G. Shaktivel', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1409466178_117.194.33.40.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthurus_triostegus__1409466178_117.194.33.40.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/P00055.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/P00055.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00010/i1990-0661_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00010/i1990-0661_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1807_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1807_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1001', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u2.jpg', 
+                 'photographer': '    Photo by Karachle, P.K.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Actri_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1260&what=stamps', 
+                 'img-name': 'Acanthurus_triostegus__Actri_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '27 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Acanthuridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1260, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Actri_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Acanthurus triostegus', 
+             'id': 1260, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1260'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1260'
+          }, 
+ 'eles-seq': 24
+}

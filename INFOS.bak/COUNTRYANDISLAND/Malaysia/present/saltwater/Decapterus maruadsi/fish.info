@@ -1,0 +1,112 @@
+{
+ 'Common names': 
+                 [
+                  ' Japanese scad (English)', 
+                  ' Selayang mata besar (Malay)', 
+                  ' Round scad (English)', 
+                  ' Scad (English)', 
+                  ' Basung (Malay)', 
+                  ' Curut (Malay)', 
+                  ' Sadin (Malay)', 
+                  ' Sardin (Malay)', 
+                  ' Selar (Malay)', 
+                  ' Selayang (Malay)', 
+                  ' Teow kheng (Malay)', 
+                  ' Tumoh (Bajau) (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Demar_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Demar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1939&what=species', 
+                 'img-name': 'Decapterus_maruadsi__Demar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=122', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Demar_u3.jpg', 
+                 'photographer': 'Photo by Williams, J.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Demar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1939&what=species&TotRec=4', 
+                 'img-name': 'Decapterus_maruadsi__Demar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=11', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Demar_u0.gif', 
+                 'photographer': 'Photo by Olson-Ringby, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Demar_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1939&what=species&TotRec=4', 
+                 'img-name': 'Decapterus_maruadsi__Demar_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Demar_u2.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Demar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1939&what=species&TotRec=4', 
+                 'img-name': 'Decapterus_maruadsi__Demar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363880821_59.57.224.125.jpg&w=300', 
+                 'photographer': 'Photo by Mingru Chen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363880821_59.57.224.125.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Decapterus_maruadsi__1363880821_59.57.224.125.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscn0560.jpg&w=300', 
+                 'photographer': 'Photo by Bob Chia', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscn0560.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Decapterus_maruadsi__dscn0560.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Temminck & Schlegel, 1843)', 
+ 'Max length': '23  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Carangidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1939, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Demar_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Decapterus maruadsi', 
+             'id': 1939, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1939'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1939'
+          }, 
+ 'eles-seq': 369
+}

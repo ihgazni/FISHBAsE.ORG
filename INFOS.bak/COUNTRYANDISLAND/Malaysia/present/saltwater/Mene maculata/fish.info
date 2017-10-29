@@ -1,0 +1,241 @@
+{
+ 'Common names': 
+                 [
+                  ' Moonfish (English)', 
+                  ' Kapak (Malay)', 
+                  ' Razor trevally (English)', 
+                  ' Cermin (Malay)', 
+                  ' Gedabang (Malay)', 
+                  ' Golok kasut (Malay)', 
+                  ' Kedabang (Malay)', 
+                  ' Kekek gedabang (Malay)', 
+                  ' Kekek jawa (Malay)', 
+                  ' Kekek labu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Memac_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Memac_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=390&what=species', 
+                 'img-name': 'Mene_maculata__Memac_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Memac_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Memac_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=390&what=species&TotRec=4', 
+                 'img-name': 'Mene_maculata__Memac_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Memac_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Memac_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=390&what=species&TotRec=4', 
+                 'img-name': 'Mene_maculata__Memac_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Memac_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Memac_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=390&what=species&TotRec=4', 
+                 'img-name': 'Mene_maculata__Memac_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmenemaculata.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/menemaculata.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__menemaculata.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442651127_14.139.185.226.jpg&w=300', 
+                 'photographer': 'Photo by Eldho.p.s', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442651127_14.139.185.226.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1442651127_14.139.185.226.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1473923740_162.158.167.41.jpg&w=300', 
+                 'photographer': 'Photo by Dr. B. K. Mahapatra', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1473923740_162.158.167.41.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1473923740_162.158.167.41.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489735056_162.158.155.112.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489735056_162.158.155.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1489735056_162.158.155.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1435153902_114.121.157.51.jpg&w=300', 
+                 'photographer': 'Photo by Dimas Angga Hedianto', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1435153902_114.121.157.51.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1435153902_114.121.157.51.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367037725_182.178.16.188.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367037725_182.178.16.188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1367037725_182.178.16.188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430935281_39.50.154.30.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430935281_39.50.154.30.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1430935281_39.50.154.30.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430935310_39.44.153.112.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430935310_39.44.153.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1430935310_39.44.153.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430935336_39.50.154.30.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430935336_39.50.154.30.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1430935336_39.50.154.30.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476623808_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476623808_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1476623808_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5549.jpg&w=300', 
+                 'photographer': 'Photo by Tine Kinn Kvamme', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5549.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__img_5549.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5554.jpg&w=300', 
+                 'photographer': 'Photo by Tine Kinn Kvamme', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5554.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__img_5554.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486626636_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang (Andaman Coastal Research Station for Development, Faculty of Fisheries, Kasetsart University)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486626636_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Mene_maculata__1486626636_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2189', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2189', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2223', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2223', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '24 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Menidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 390, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Memac_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Mene maculata', 
+             'id': 390, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=390'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=390'
+          }, 
+ 'eles-seq': 727
+}

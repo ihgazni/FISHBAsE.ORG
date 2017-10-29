@@ -1,0 +1,191 @@
+{
+ 'Common names': 
+                 [
+                  ' Fan-bellied leatherjacket (English)', 
+                  ' Barat-barat kipas (Malay)', 
+                  ' Centre board leatherjacket (English)', 
+                  ' Filefish (English)', 
+                  ' Leatherjacket (English)', 
+                  ' Barat-barat (Malay)', 
+                  ' Ikan lembu (Malay)', 
+                  ' Kerosok (Malay)', 
+                  ' Kerosok padi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u1.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7976&what=species', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1541', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_j0.jpg', 
+                 'photographer': 'Photo by Maddern, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1541', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u5.jpg', 
+                 'photographer': 'Photo by Maddern, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u2.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u4.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1099', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u3.jpg', 
+                 'photographer': 'Photo by Chua, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1917', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u6.jpg', 
+                 'photographer': 'Photo by Liu, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=129', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mochi_u0.gif', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mochi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=7976&what=species&TotRec=9', 
+                 'img-name': 'Monacanthus_chinensis__Mochi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00461.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00461.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Monacanthus_chinensis__dsc00461.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0982.jpg&w=300', 
+                 'photographer': 'Photo by Weinstein, S', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0982.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Monacanthus_chinensis__img_0982.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404893623_202.185.32.3.jpg&w=300', 
+                 'photographer': 'Photo by Lukman Hakim Bin Razali', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404893623_202.185.32.3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Monacanthus_chinensis__1404893623_202.185.32.3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486613649_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486613649_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Monacanthus_chinensis__1486613649_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1179', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1179', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Osbeck, 1765)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Monacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7976, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mochi_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Monacanthus chinensis', 
+             'id': 7976, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7976'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7976'
+          }, 
+ 'eles-seq': 734
+}

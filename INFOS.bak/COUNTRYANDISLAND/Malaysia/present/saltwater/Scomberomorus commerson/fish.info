@@ -1,0 +1,507 @@
+{
+ 'Common names': 
+                 [
+                  ' Narrow-barred Spanish mackerel (English)', 
+                  ' Tenggiri batang (Malay)', 
+                  ' Barred spanish mackerel (English)', 
+                  ' Narrow-striped king mackerel (English)', 
+                  ' Spanish mackerel (English)', 
+                  ' Dengkeh (Malay)', 
+                  ' Iyot (Malay)', 
+                  ' Lamading (Malay)', 
+                  ' Luding (Malay)', 
+                  ' Tenggiri (Malay)', 
+                  ' Tenggiri bunga (Malay)', 
+                  ' Tenggiri dengkek (Malay)', 
+                  ' Tenggiri papan (Malay)', 
+                  ' Tohok (Malay)', 
+                  ' Tohok dengkek (Malay)', 
+                  ' Tohok langgi (Malay)', 
+                  ' Tohok langi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=121&what=species', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_ue.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=997', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_uf.jpg', 
+                 'photographer': 'Photo by Passfield, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_uf.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_uf.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_ug.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_ug.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_ug.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_ua.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sccom_u4.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u4.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sccom_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=121&what=species&TotRec=11', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdirkhartogislandau.jpg&w=300', 
+                 'photographer': 'Photo by Andrea Rizzo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dirkhartogislandau.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__dirkhartogislandau.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1351573374_119.225.240.17.jpg&w=300', 
+                 'photographer': 'Photo by jamie scott', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1351573374_119.225.240.17.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1351573374_119.225.240.17.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434665448_140.253.155.220.jpg&w=300', 
+                 'photographer': 'Photo by Mick Haywood', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434665448_140.253.155.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1434665448_140.253.155.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404900853_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404900853_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1404900853_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0188.jpg&w=300', 
+                 'photographer': 'Photo by johan de vlieger', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__img_0188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrow-barred-spanish-mackerel-1.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrow-barred-spanish-mackerel-1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrow-barred-spanish-mackerel-1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrow-barred-spanish-mackerel-2.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrow-barred-spanish-mackerel-2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrow-barred-spanish-mackerel-2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrow-barred-spanish-mackerel-3.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrow-barred-spanish-mackerel-3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrow-barred-spanish-mackerel-3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrowbarredspanishmackerel.jpg&w=300', 
+                 'photographer': 'Photo by Bryan Doty', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrowbarredspanishmackerel.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrowbarredspanishmackerel.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffishing072.jpg&w=300', 
+                 'photographer': 'Photo by Thomas Schreiber', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fishing072.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__fishing072.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423410034_178.82.220.22.jpg&w=300', 
+                 'photographer': 'Photo by Piero Malaer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423410034_178.82.220.22.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1423410034_178.82.220.22.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366549505_5.201.235.166.jpg&w=300', 
+                 'photographer': 'Photo by javadbasereh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366549505_5.201.235.166.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1366549505_5.201.235.166.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1386861666_78.221.205.242.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1386861666_78.221.205.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1386861666_78.221.205.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343348536_183.78.97.202.jpg&w=300', 
+                 'photographer': 'Photo by krooangler', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343348536_183.78.97.202.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1343348536_183.78.97.202.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367385335_182.178.101.148.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367385335_182.178.101.148.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1367385335_182.178.101.148.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327605_39.44.203.211.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327605_39.44.203.211.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327605_39.44.203.211.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327619_39.44.203.211.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327619_39.44.203.211.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327619_39.44.203.211.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327736_39.44.203.211.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327736_39.44.203.211.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327736_39.44.203.211.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327750_39.50.233.79.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327750_39.50.233.79.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327750_39.50.233.79.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327805_39.50.233.79.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327805_39.50.233.79.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327805_39.50.233.79.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1416327821_39.50.233.79.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1416327821_39.50.233.79.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1416327821_39.50.233.79.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1990_south_china_sea%252C_palawan.jpg&w=300', 
+                 'photographer': 'Photo by Samuel Miclat', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1990_south_china_sea%2C_palawan.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1990_south_china_sea%2C_palawan.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsccomrs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sccomrs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__sccomrs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fkanaadsaudi.jpg&w=300', 
+                 'photographer': 'Photo by Ray Angelo B. Satorre', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/kanaadsaudi.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__kanaadsaudi.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc04816a.jpg&w=300', 
+                 'photographer': 'Photo by Ray Satorre', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc04816a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__dsc04816a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrow-barred-spanish-mackerel-4.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrow-barred-spanish-mackerel-4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrow-barred-spanish-mackerel-4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarrow-barred-spanish-mackerel-6.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narrow-barred-spanish-mackerel-6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__narrow-barred-spanish-mackerel-6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343888458_83.110.229.146.jpg&w=300', 
+                 'photographer': 'Photo by Desmond Lobo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343888458_83.110.229.146.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1343888458_83.110.229.146.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374406558_217.165.232.136.jpg&w=300', 
+                 'photographer': 'Photo by Adnan Saeed', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374406558_217.165.232.136.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_commerson__1374406558_217.165.232.136.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=375', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=375', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_uc.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sccom_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=121&what=stamps', 
+                 'img-name': 'Scomberomorus_commerson__Sccom_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Lacepède, 1800)', 
+ 'Max length': '245 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scombridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 121, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sccom_ue.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Scomberomorus commerson', 
+             'id': 121, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=121'
+            }, 
+ 'Remark': 'Also Ref. 27550.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=121'
+          }, 
+ 'eles-seq': 1161
+}

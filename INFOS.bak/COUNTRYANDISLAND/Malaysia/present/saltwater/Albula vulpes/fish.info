@@ -1,0 +1,425 @@
+{
+ 'Common names': 
+                 [
+                  ' Bonefish (English)', 
+                  ' Bandang bulat (Malay)', 
+                  ' Banang (Malay)', 
+                  ' Banang bulat daun (Malay)', 
+                  ' Bandang curut (Malay)', 
+                  ' Bulat daun (Malay)', 
+                  ' Ikan pisang (Malay)', 
+                  ' Pepisang (Malay)', 
+                  ' Pisang-pisang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_ua.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=228&what=species', 
+                 'img-name': 'Albula_vulpes__Alvul_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=726', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u4.jpg', 
+                 'photographer': 'Photo by Camrrubi, J.-F.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_j0.jpg', 
+                 'photographer': 'Photo by Freitas, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1665', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_ud.jpg', 
+                 'photographer': 'Photo by Gerhardinger, L.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u7.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=542', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u8.jpg', 
+                 'photographer': 'Photo by Jessen, C.Q.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=739', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u5.jpg', 
+                 'photographer': 'Photo by Jimenez Prado, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=741', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u9.jpg', 
+                 'photographer': 'Photo by Duarte, L.O.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alvul_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alvul_u2.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=228&what=species&TotRec=11', 
+                 'img-name': 'Albula_vulpes__Alvul_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falbulavulpesraphaelmacieira.jpg&w=300', 
+                 'photographer': 'Photo by Raphael M. Macieira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/albulavulpesraphaelmacieira.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__albulavulpesraphaelmacieira.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbonefish1.jpg&w=300', 
+                 'photographer': 'Photo by Andy Pearson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/bonefish1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__bonefish1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbonefishbonaire.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/bonefishbonaire.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__bonefishbonaire.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falbulavulpes.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/albulavulpes.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__albulavulpes.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1347070394_76.65.199.169.jpg&w=300', 
+                 'photographer': 'Photo by Robert Eakins', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1347070394_76.65.199.169.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__1347070394_76.65.199.169.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsimilan-bonefish.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/similan-bonefish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__similan-bonefish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsimilan-bonefish2.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/similan-bonefish2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__similan-bonefish2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbonefish.jpg&w=300', 
+                 'photographer': 'Photo by Andy Pearson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/bonefish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__bonefish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382711233_164.51.20.71.jpg&w=300', 
+                 'photographer': 'Photo by Amanda B. Smith, Florida Fish and Wildlife Research Institute, Fisheries Independent Monitoring Program', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382711233_164.51.20.71.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Albula_vulpes__1382711233_164.51.20.71.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3584-r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3584-r1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3585-r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3585-r1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00066/i0000_3586_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00066/i0000_3586_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r3m(dessus).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r3m(dessus).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r2m(queue).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r2m(queue).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r1m(tête).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3586-r1m(tête).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00066/i0000-3587_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00066/i0000-3587_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r3m(têtedorsoventral).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r3m(têtedorsoventral).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r2m(queue).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r2m(queue).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r1m(têtelaterale).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3587-r1m(têtelaterale).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r3m(queue).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r3m(queue).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r2m(corps).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r2m(corps).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r1m(tête).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-3593-r1m(tête).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1900-0268_rn-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1900-0268_rn-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1913-0084_rn-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1913-0084_rn-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1950-0027_rn-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1950-0027_rn-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-3718_rn-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-3718_rn-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_ug.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_ug.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=228&what=stamps', 
+                 'img-name': 'Albula_vulpes__Alvul_ug.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u1.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=228&what=stamps&TotRec=5', 
+                 'img-name': 'Albula_vulpes__Alvul_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=288', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u2.jpg', 
+                 'photographer': '    Photo by Hilbrands, A.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=228&what=stamps&TotRec=5', 
+                 'img-name': 'Albula_vulpes__Alvul_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=87', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u3.jpg', 
+                 'photographer': '    Photo by Atanacio, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=228&what=stamps&TotRec=5', 
+                 'img-name': 'Albula_vulpes__Alvul_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u6.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=228&what=stamps&TotRec=5', 
+                 'img-name': 'Albula_vulpes__Alvul_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=763', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_l0.jpg', 
+                 'photographer': '    Photo by Sazima, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_l0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=228&what=larvegg', 
+                 'img-name': 'Albula_vulpes__Alvul_l0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_j0.jpg', 
+                 'photographer': '    Photo by Freitas, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alvul_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=228&what=larvegg&TotRec=2', 
+                 'img-name': 'Albula_vulpes__Alvul_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '100 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Albulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 228, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alvul_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Albula vulpes', 
+             'id': 228, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=228'
+            }, 
+ 'Remark': 'Known from Penang (Ref. 1632).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=228'
+          }, 
+ 'eles-seq': 40
+}

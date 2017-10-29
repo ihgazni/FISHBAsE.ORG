@@ -1,0 +1,48 @@
+{
+ 'Common names': 
+                 [
+                  ' Dragonet (English)', 
+                  ' Bebaji jalur jingga (Malay)', 
+                  ' Bebaji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syalt_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syalt_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10608&what=species', 
+                 'img-name': 'Synchiropus_altivelis__Syalt_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Temminck & Schlegel, 1845)', 
+ 'Max length': '17 SL (male) , 13 SL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Callionymidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10608, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syalt_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Synchiropus altivelis', 
+             'id': 10608, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10608'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10608'
+          }, 
+ 'eles-seq': 1247
+}

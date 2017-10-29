@@ -1,0 +1,47 @@
+{
+ 'Common names': 
+                 [
+                  ' Hooded triplefin (English)', 
+                  ' Tribleni belang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hecap_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hecap_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8502&what=species', 
+                 'img-name': 'Helcogramma_capidata__Hecap_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Rosenblatt, 1960', 
+ 'Max length': '4.1 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Tripterygiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8502, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hecap_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Helcogramma capidata', 
+             'id': 8502, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8502'
+            }, 
+ 'Remark': 'Known from Sabah (Ref. 27223, 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8502'
+          }, 
+ 'eles-seq': 545
+}

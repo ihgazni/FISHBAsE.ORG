@@ -1,0 +1,305 @@
+{
+ 'Common names': 
+                 [
+                  ' Snowflake moray (English)', 
+                  ' Belut-laut belang (Malay)', 
+                  ' Belut (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5388&what=species', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ecneb_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ecneb_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecneb_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5388&what=species&TotRec=7', 
+                 'img-name': 'Echidna_nebulosa__Ecneb_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F%25C2%25B9%25C3%258F%25C2%25A4%25C3%25B9_8532.jpg&w=300', 
+                 'photographer': 'Photo by H.M. Chen and K.H. Loh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/%C2%B9%C3%8F%C2%A4%C3%B9_8532.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__%C2%B9%C3%8F%C2%A4%C3%B9_8532.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwwwdsc01475.jpg&w=300', 
+                 'photographer': 'Photo by PLANTARD, Laurent', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/wwwdsc01475.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__wwwdsc01475.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F20090523_asan_beach%252Cguam_enebulosa.jpg&w=300', 
+                 'photographer': 'Photo by Lindsey Kramer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/20090523_asan_beach%2Cguam_enebulosa.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__20090523_asan_beach%2Cguam_enebulosa.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fechidnanebulosao.j.brettbali.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/echidnanebulosao.j.brettbali.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__echidnanebulosao.j.brettbali.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482402231_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482402231_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__1482402231_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482402327_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482402327_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__1482402327_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fechidnanebulosa02402p8280064.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/echidnanebulosa02402p8280064.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__echidnanebulosa02402p8280064.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481803484_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481803484_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__1481803484_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481806171_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481806171_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__1481806171_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423906742_86.205.193.183.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Claude Jamoulle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423906742_86.205.193.183.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__1423906742_86.205.193.183.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fechidna-nebulosa-jj-0004-010608.jpg&w=300', 
+                 'photographer': 'Photo by Jeanette Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/echidna-nebulosa-jj-0004-010608.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__echidna-nebulosa-jj-0004-010608.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsnowflake-moray-eel.jpg&w=300', 
+                 'photographer': 'Photo by Todd Richins', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/snowflake-moray-eel.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__snowflake-moray-eel.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fechidnanebolusafishbase2.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/echidnanebolusafishbase2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__echidnanebolusafishbase2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fechidnanebulosafishbase1.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Bourjon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/echidnanebulosafishbase1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__echidnanebulosafishbase1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fecneb.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ecneb.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__ecneb.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnebulosa.jpg&w=300', 
+                 'photographer': 'Photo by Juan Carlos Palau D', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/nebulosa.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echidna_nebulosa__nebulosa.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1804_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1804_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1824_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/i2005-1824_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/ib-2381_r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/ib-2381_r1m.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Ahl, 1789)', 
+ 'Max length': '100 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5388, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecneb_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Echidna nebulosa', 
+             'id': 5388, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5388'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5388'
+          }, 
+ 'eles-seq': 400
+}

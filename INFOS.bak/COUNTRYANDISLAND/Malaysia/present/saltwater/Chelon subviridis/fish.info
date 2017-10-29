@@ -1,0 +1,227 @@
+{
+ 'Common names': 
+                 [
+                  ' Greenback mullet (English)', 
+                  ' Belanak anding (Malay)', 
+                  ' Greenback grey mullet (English)', 
+                  ' Grey mullet (English)', 
+                  ' Mullet (English)', 
+                  ' Andang (Malay)', 
+                  ' Anding (Malay)', 
+                  ' Belanak (Malay)', 
+                  ' Belanak bakau (Malay)', 
+                  ' Belanak rapang (Malay)', 
+                  ' Belanak serong ekor (Malay)', 
+                  ' Kambura (Bajau) (Malay)', 
+                  ' Kedera (Malay)', 
+                  ' Kemurak (Malay)', 
+                  ' Loban (Malay)', 
+                  ' Rampang (Malay)', 
+                  ' Serong (Malay)', 
+                  ' Serong ekor (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsub_u0.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chsub_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4819&what=species', 
+                 'img-name': 'Chelon_subviridis__Chsub_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsub_u1.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chsub_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Chsub_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lisub_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lisub_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lisub_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lisub_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lisub_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lisub_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lisub_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lisub_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Lisub_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsub_u2.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chsub_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=4819&what=species&TotRec=10', 
+                 'img-name': 'Chelon_subviridis__Chsub_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402124577_103.230.107.26.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402124577_103.230.107.26.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelon_subviridis__1402124577_103.230.107.26.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscn0265.jpg&w=300', 
+                 'photographer': 'Photo by Mr. Sudesh D. Rathod', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscn0265.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelon_subviridis__dscn0265.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1381392601_80.191.248.35.jpg&w=300', 
+                 'photographer': 'Photo by Seyed ahmad reza Hashemi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1381392601_80.191.248.35.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelon_subviridis__1381392601_80.191.248.35.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1354249921_182.52.97.161.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1354249921_182.52.97.161.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelon_subviridis__1354249921_182.52.97.161.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357202772_182.52.96.108.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357202772_182.52.96.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelon_subviridis__1357202772_182.52.96.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/i1990-0132_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/i1990-0132_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/ia-3634_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/ia-3634_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1836)', 
+ 'Max length': '30  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Mugilidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4819, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chsub_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chelon subviridis', 
+             'id': 4819, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4819'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4819'
+          }, 
+ 'eles-seq': 273
+}

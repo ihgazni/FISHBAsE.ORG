@@ -1,0 +1,59 @@
+{
+ 'Common names': 
+                 [
+                  ' Manyspotted leatherjacket (English)', 
+                  ' Barat-barat bebintik (Malay)', 
+                  ' Barat-barat (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thtes_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thtes_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8302&what=species', 
+                 'img-name': 'Thamnaconus_tessellatus__Thtes_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thtes_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thtes_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8302&what=species&TotRec=2', 
+                 'img-name': 'Thamnaconus_tessellatus__Thtes_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Günther, 1880)', 
+ 'Max length': '22 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Monacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8302, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thtes_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thamnaconus tessellatus', 
+             'id': 8302, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8302'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8302'
+          }, 
+ 'eles-seq': 1284
+}

@@ -1,0 +1,148 @@
+{
+ 'Common names': 
+                 [
+                  ' Grey sharpnose shark (English)', 
+                  ' Yu muncung minyak (Malay)', 
+                  ' Sharpnose shark (English)', 
+                  ' Yu minyak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2306', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rholi_u0.jpg', 
+                 'photographer': 'Photo by Osmany, H.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rholi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=902&what=species', 
+                 'img-name': 'Rhizoprionodon_oligolinx__Rholi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rholi_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rholi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=902&what=species&TotRec=2', 
+                 'img-name': 'Rhizoprionodon_oligolinx__Rholi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frhizoprionodonoligolinx.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan with Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rhizoprionodonoligolinx.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__rhizoprionodonoligolinx.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frhizoprionodonoligolinx-1.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan with Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rhizoprionodonoligolinx-1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__rhizoprionodonoligolinx-1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365265887_182.178.63.144.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365265887_182.178.63.144.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1365265887_182.178.63.144.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382067135_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382067135_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1382067135_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382067169_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382067169_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1382067169_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382067216_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382067216_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1382067216_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382067255_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382067255_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1382067255_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382067285_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382067285_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhizoprionodon_oligolinx__1382067285_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Springer, 1964', 
+ 'Max length': ', 70 TL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Carcharhinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 902, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rholi_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rhizoprionodon oligolinx', 
+             'id': 902, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=902'
+            }, 
+ 'Remark': 'Also Ref. 244, 9997.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=902'
+          }, 
+ 'eles-seq': 1091
+}

@@ -1,0 +1,238 @@
+{
+ 'Common names': 
+                 [
+                  ' Milkspotted puffer (English)', 
+                  ' Buntal susu (Malay)', 
+                  ' Marbled toads (English)', 
+                  ' Pufferfish (English)', 
+                  ' Buntal (Malay)', 
+                  ' Buntal bako (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6610&what=species', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u3.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u6.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1351', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_m0.jpg', 
+                 'photographer': 'Photo by Ganapathiraju, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1644', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u7.jpg', 
+                 'photographer': 'Photo by Tran, H.H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1695', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u8.jpg', 
+                 'photographer': 'Photo by Sreekantha', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u9.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chpat_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_ua.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpat_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=6610&what=species&TotRec=13', 
+                 'img-name': 'Chelonodon_patoca__Chpat_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1351856342_2.9.192.149.jpg&w=300', 
+                 'photographer': 'Photo by Pierre de Chabannes', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1351856342_2.9.192.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelonodon_patoca__1351856342_2.9.192.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343586078_2.184.242.173.jpg&w=300', 
+                 'photographer': 'Photo by Parviz Tavakoli Kolour', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343586078_2.184.242.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelonodon_patoca__1343586078_2.184.242.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367642157_182.178.14.246.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367642157_182.178.14.246.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelonodon_patoca__1367642157_182.178.14.246.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367642194_182.178.14.246.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367642194_182.178.14.246.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelonodon_patoca__1367642194_182.178.14.246.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1358150479_182.52.96.160.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1358150479_182.52.96.160.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chelonodon_patoca__1358150479_182.52.96.160.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '38 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Tetraodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6610, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpat_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chelonodon patoca', 
+             'id': 6610, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6610'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6610'
+          }, 
+ 'eles-seq': 274
+}

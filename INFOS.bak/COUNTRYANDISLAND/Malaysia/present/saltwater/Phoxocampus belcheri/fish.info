@@ -1,0 +1,71 @@
+{
+ 'Common names': 
+                 [
+                  ' Rock pipefish (English)', 
+                  ' Undok-undok batu (Malay)', 
+                  ' Pipefish (English)', 
+                  ' Undok-undok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Phbel_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Phbel_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7742&what=species', 
+                 'img-name': 'Phoxocampus_belcheri__Phbel_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Phbel_m0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Phbel_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7742&what=species&TotRec=3', 
+                 'img-name': 'Phoxocampus_belcheri__Phbel_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Phbel_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Phbel_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7742&what=species&TotRec=3', 
+                 'img-name': 'Phoxocampus_belcheri__Phbel_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Kaup, 1856)', 
+ 'Max length': '8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7742, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Phbel_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Phoxocampus belcheri', 
+             'id': 7742, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7742'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7742'
+          }, 
+ 'eles-seq': 929
+}

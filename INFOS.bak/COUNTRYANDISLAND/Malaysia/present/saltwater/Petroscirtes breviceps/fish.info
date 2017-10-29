@@ -1,0 +1,157 @@
+{
+ 'Common names': 
+                 [
+                  ' Striped poison-fang blenny mimic (English)', 
+                  ' Bleni jalur (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u2.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6073&what=species', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1143', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u3.jpg', 
+                 'photographer': 'Photo by Adams, M.J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u6.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u5.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pebre_m1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_m1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_m1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pebre_m0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pebre_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6073&what=species&TotRec=8', 
+                 'img-name': 'Petroscirtes_breviceps__Pebre_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpoisonfangblenny.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/poisonfangblenny.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Petroscirtes_breviceps__poisonfangblenny.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpetroscirtesbreviceps01598p1050191.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/petroscirtesbreviceps01598p1050191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Petroscirtes_breviceps__petroscirtesbreviceps01598p1050191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpetroscirtesbreviceps03171p2180095.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/petroscirtesbreviceps03171p2180095.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Petroscirtes_breviceps__petroscirtesbreviceps03171p2180095.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1836)', 
+ 'Max length': '13 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Blenniidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6073, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pebre_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Petroscirtes breviceps', 
+             'id': 6073, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6073'
+            }, 
+ 'Remark': 'Based on Photo by J.E. Randall.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6073'
+          }, 
+ 'eles-seq': 924
+}

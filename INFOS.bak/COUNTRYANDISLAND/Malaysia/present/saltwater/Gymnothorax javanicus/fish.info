@@ -1,0 +1,245 @@
+{
+ 'Common names': 
+                 [
+                  ' Giant moray (English)', 
+                  ' Belut-laut gergasi (Malay)', 
+                  ' Moray eel (English)', 
+                  ' Belut (Malay)', 
+                  ' Belut gergasi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u2.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6380&what=species', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u3.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=872', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u4.jpg', 
+                 'photographer': 'Photo by Carvalho Filho, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1669', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u6.jpg', 
+                 'photographer': 'Photo by Pais, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1952', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u7.jpg', 
+                 'photographer': 'Photo by AC Tropical Fish', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u5.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyjav_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6380&what=species&TotRec=8', 
+                 'img-name': 'Gymnothorax_javanicus__Gyjav_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscf8198m2.jpg&w=300', 
+                 'photographer': 'Photo by Clare', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscf8198m2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__dscf8198m2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmora.jpg&w=300', 
+                 'photographer': 'Photo by Waldemar Vidal', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/mora.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__mora.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1389554938_80.218.91.186.jpg&w=300', 
+                 'photographer': 'Photo by Piero Malaer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1389554938_80.218.91.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__1389554938_80.218.91.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgymnothoraxjavanicus01119p7210027.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gymnothoraxjavanicus01119p7210027.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__gymnothoraxjavanicus01119p7210027.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481311097_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481311097_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__1481311097_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481791927_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481791927_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__1481791927_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482318160_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482318160_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__1482318160_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481545554_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481545554_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_javanicus__1481545554_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1878', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1878', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1879', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1879', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=359', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=359', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2678', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2678', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2679', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2679', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2680', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2680', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1859)', 
+ 'Max length': '300  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6380, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyjav_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gymnothorax javanicus', 
+             'id': 6380, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6380'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6380'
+          }, 
+ 'eles-seq': 521
+}

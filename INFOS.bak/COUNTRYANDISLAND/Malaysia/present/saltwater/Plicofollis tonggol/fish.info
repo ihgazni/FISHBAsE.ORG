@@ -1,0 +1,65 @@
+{
+ 'Common names': 
+                 [
+                  ' Roughback sea catfish (English)', 
+                  ' Duri kasar (Malay)', 
+                  ' Catfish (English)', 
+                  ' Marine catfish (English)', 
+                  ' Duri (Malay)', 
+                  ' Mayung utik (Malay)', 
+                  ' Pulutan (Malay)', 
+                  ' Utek (Malay)', 
+                  ' Utik (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plton_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plton_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1286&what=species', 
+                 'img-name': 'Plicofollis_tonggol__Plton_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Arcro_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arcro_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1286&what=species&TotRec=2', 
+                 'img-name': 'Plicofollis_tonggol__Arcro_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1846)', 
+ 'Max length': '40 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1286, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plton_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Plicofollis tonggol', 
+             'id': 1286, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1286'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1286'
+          }, 
+ 'eles-seq': 964
+}

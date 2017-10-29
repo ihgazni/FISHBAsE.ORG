@@ -1,0 +1,138 @@
+{
+ 'Common names': 
+                 [
+                  ' Moustached thryssa (English)', 
+                  ' Kasai tanda (Malay)', 
+                  ' Bakok (Malay)', 
+                  ' Bakok daun (Malay)', 
+                  ' Bakok minyak (Malay)', 
+                  ' Bangkok (Malay)', 
+                  ' Besin (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Bulu ayam (Malay)', 
+                  ' Empirang (Malay)', 
+                  ' Jemedi (Malay)', 
+                  ' Kasai (Malay)', 
+                  ' Kasai minyak (Malay)', 
+                  ' Kasi-kasi (Malay)', 
+                  ' Mempinis (Malay)', 
+                  ' Pirang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thmys_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thmys_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=594&what=species', 
+                 'img-name': 'Thryssa_mystax__Thmys_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1645', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thmys_u1.jpg', 
+                 'photographer': 'Photo by Sen, S.K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thmys_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=594&what=species&TotRec=3', 
+                 'img-name': 'Thryssa_mystax__Thmys_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thmys_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thmys_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=594&what=species&TotRec=3', 
+                 'img-name': 'Thryssa_mystax__Thmys_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375352898_210.212.232.209.jpg&w=300', 
+                 'photographer': 'Photo by Molly Varghese', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375352898_210.212.232.209.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_mystax__1375352898_210.212.232.209.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434607663_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434607663_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_mystax__1434607663_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434608210_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434608210_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_mystax__1434608210_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366803425_182.178.87.174.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366803425_182.178.87.174.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_mystax__1366803425_182.178.87.174.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366803437_182.178.87.174.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366803437_182.178.87.174.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_mystax__1366803437_182.178.87.174.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '20.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 594, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thmys_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thryssa mystax', 
+             'id': 594, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=594'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=594'
+          }, 
+ 'eles-seq': 1289
+}

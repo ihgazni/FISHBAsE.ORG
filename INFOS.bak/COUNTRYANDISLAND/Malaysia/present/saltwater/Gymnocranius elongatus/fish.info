@@ -1,0 +1,85 @@
+{
+ 'Common names': 
+                 [
+                  ' Forktail large-eye bream (English)', 
+                  ' Mempasir ekor cabang (Malay)', 
+                  ' Large-eye bream (English)', 
+                  ' Bara (Malay)', 
+                  ' Bebara (Malay)', 
+                  ' Kapas-kapas laut (Malay)', 
+                  ' Mempasir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyelo_u2.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyelo_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8084&what=species', 
+                 'img-name': 'Gymnocranius_elongatus__Gyelo_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyelo_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyelo_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8084&what=species&TotRec=4', 
+                 'img-name': 'Gymnocranius_elongatus__Gyelo_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gyelo_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyelo_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8084&what=species&TotRec=4', 
+                 'img-name': 'Gymnocranius_elongatus__Gyelo_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyelo_u1.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyelo_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8084&what=species&TotRec=4', 
+                 'img-name': 'Gymnocranius_elongatus__Gyelo_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Senta, 1973', 
+ 'Max length': '35 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lethrinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8084, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyelo_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gymnocranius elongatus', 
+             'id': 8084, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8084'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8084'
+          }, 
+ 'eles-seq': 510
+}

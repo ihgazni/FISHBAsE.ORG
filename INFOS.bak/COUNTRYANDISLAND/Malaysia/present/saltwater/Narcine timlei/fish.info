@@ -1,0 +1,115 @@
+{
+ 'Common names': 
+                 [
+                  ' Blackspotted numbfish (English)', 
+                  ' Pari-karan ampai (Malay)', 
+                  ' Black-spotted electric ray (English)', 
+                  ' Brown-spotted electric ray (English)', 
+                  ' Numbfish (English)', 
+                  ' Spotted electric ray (English)', 
+                  ' Spotted numbfish (English)', 
+                  ' Karas (Malay)', 
+                  ' Kebas (Malay)', 
+                  ' Pari ampai (Malay)', 
+                  ' Pari karan (Malay)', 
+                  ' Pari karas (Malay)', 
+                  ' Pari kebas (Malay)', 
+                  ' Pari letrik (Malay)', 
+                  ' Pari serban (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1675', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Natim_u1.jpg', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Natim_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8206&what=species', 
+                 'img-name': 'Narcine_timlei__Natim_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Naind_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Naind_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8206&what=species&TotRec=4', 
+                 'img-name': 'Narcine_timlei__Naind_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Natim_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Natim_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8206&what=species&TotRec=4', 
+                 'img-name': 'Narcine_timlei__Natim_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Natim_u0.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Natim_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8206&what=species&TotRec=4', 
+                 'img-name': 'Narcine_timlei__Natim_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarcinetimlei.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narcinetimlei.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Narcine_timlei__narcinetimlei.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnarcinetimlei-a.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/narcinetimlei-a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Narcine_timlei__narcinetimlei-a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Narcinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8206, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Natim_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Narcine timlei', 
+             'id': 8206, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8206'
+            }, 
+ 'Remark': 'Reported as', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8206'
+          }, 
+ 'eles-seq': 753
+}

@@ -1,0 +1,60 @@
+{
+ 'Common names': 
+                 [
+                  " Abe's flyingfish (English)", 
+                  ' Terbang terbang (Malay)', 
+                  ' Flyingfish (English)', 
+                  ' Ikan terbang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u1.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chabe_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=15316&what=species', 
+                 'img-name': 'Cheilopogon_abei__Chabe_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u2.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chabe_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=15316&what=species&TotRec=2', 
+                 'img-name': 'Cheilopogon_abei__Chabe_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Parin, 1996', 
+ 'Max length': '22 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Exocoetidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 15316, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cheilopogon abei', 
+             'id': 15316, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15316'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=15316'
+          }, 
+ 'eles-seq': 263
+}

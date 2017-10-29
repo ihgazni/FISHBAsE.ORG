@@ -1,0 +1,213 @@
+{
+ 'Common names': 
+                 [
+                  ' Staghorn damselfish (English)', 
+                  ' Bombin karang (Malay)', 
+                  ' Damselfish (English)', 
+                  ' Bombin (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u5.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5477&what=species', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1143', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u6.jpg', 
+                 'photographer': 'Photo by Adams, M.J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2081', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u7.jpg', 
+                 'photographer': 'Photo by Malaer, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u8.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=11', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Amcur_u0.gif', 
+                 'photographer': 'Photo by Olson-Ringby, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amcur_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5477&what=species&TotRec=9', 
+                 'img-name': 'Amblyglyphidodon_curacao__Amcur_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1349309817_67.49.174.50.jpg&w=300', 
+                 'photographer': 'Photo by Douglas R Miller', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1349309817_67.49.174.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__1349309817_67.49.174.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fstaghorndamsel.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/staghorndamsel.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__staghorndamsel.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fstaghorndamse.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/staghorndamse.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__staghorndamse.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469546441_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469546441_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__1469546441_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486420131_108.162.229.6.jpg&w=300', 
+                 'photographer': 'Photo by Francois Libert', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486420131_108.162.229.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__1486420131_108.162.229.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Famblyglyphididon-curacao-k01-9403.jpg&w=300', 
+                 'photographer': 'Photo by Scott Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/amblyglyphididon-curacao-k01-9403.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amblyglyphidodon_curacao__amblyglyphididon-curacao-k01-9403.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000060.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000060.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1432', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1432', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1787)', 
+ 'Max length': '11 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5477, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amcur_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Amblyglyphidodon curacao', 
+             'id': 5477, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5477'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5477'
+          }, 
+ 'eles-seq': 63
+}

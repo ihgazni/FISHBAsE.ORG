@@ -1,0 +1,105 @@
+{
+ 'Common names': 
+                 [
+                  ' Short-bodied pipefish (English)', 
+                  ' Undok-undok tenggiling (Malay)', 
+                  ' Pipefish (English)', 
+                  ' Undok-undok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2017', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chbra_u6.jpg', 
+                 'photographer': 'Photo by Johnson, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chbra_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5958&what=species', 
+                 'img-name': 'Choeroichthys_brachysoma__Chbra_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chbra_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chbra_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5958&what=species&TotRec=4', 
+                 'img-name': 'Choeroichthys_brachysoma__Chbra_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chbra_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chbra_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5958&what=species&TotRec=4', 
+                 'img-name': 'Choeroichthys_brachysoma__Chbra_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chbra_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chbra_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5958&what=species&TotRec=4', 
+                 'img-name': 'Choeroichthys_brachysoma__Chbra_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00026/i0000-6037_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00026/i0000-6037_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1855)', 
+ 'Max length': '7 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5958, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chbra_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Choeroichthys brachysoma', 
+             'id': 5958, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5958'
+            }, 
+ 'Remark': 'Recorded from Mabul (Ref. 48635).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5958'
+          }, 
+ 'eles-seq': 290
+}

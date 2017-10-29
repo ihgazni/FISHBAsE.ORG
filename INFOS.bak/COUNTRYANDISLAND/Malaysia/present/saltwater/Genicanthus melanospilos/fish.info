@@ -1,0 +1,158 @@
+{
+ 'Common names': 
+                 [
+                  ' Spotbreast angelfish (English)', 
+                  ' Gombing-taring karang (Malay)', 
+                  ' Gombing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1508', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_f0.jpg', 
+                 'photographer': 'Photo by Dubosc, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8710&what=species', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1508', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_m0.jpg', 
+                 'photographer': 'Photo by Dubosc, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_f1.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_f1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_f1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_m1.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_m1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_m1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1431', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_u4.jpg', 
+                 'photographer': 'Photo by AquaNet', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gemel_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=8710&what=species&TotRec=9', 
+                 'img-name': 'Genicanthus_melanospilos__Gemel_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspotbreastangelfish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spotbreastangelfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Genicanthus_melanospilos__spotbreastangelfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_LernaeD9.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_LernaeD9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=8710&pic=LernaeD9.jpg', 
+                 'img-name': 'Genicanthus_melanospilos__tn_LernaeD9.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1857)', 
+ 'Max length': '18 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8710, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gemel_f0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Genicanthus melanospilos', 
+             'id': 8710, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8710'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8710'
+          }, 
+ 'eles-seq': 484
+}

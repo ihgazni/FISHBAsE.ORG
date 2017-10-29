@@ -1,0 +1,174 @@
+{
+ 'Common names': 
+                 [
+                  ' Flat needlefish (English)', 
+                  ' Todak nipis (Malay)', 
+                  ' Garfish (English)', 
+                  ' Needlefish (English)', 
+                  ' Banang (Malay)', 
+                  ' Chair chiam (Malay)', 
+                  ' Jolong-jolong (Malay)', 
+                  ' Todak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=241', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Abhia_u1.jpg', 
+                 'photographer': 'Photo by Mackinson, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=972&what=species', 
+                 'img-name': 'Ablennes_hians__Abhia_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1972', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Abhia_u2.jpg', 
+                 'photographer': 'Photo by Johnson, L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=268', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Abhia_u0.jpg', 
+                 'photographer': 'Photo by Flescher, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Abhia_m0.jpg', 
+                 'photographer': 'Photo by Freitas, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Abhia_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Abhia_j0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Abhia_j1.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_j1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=972&what=species&TotRec=7', 
+                 'img-name': 'Ablennes_hians__Abhia_j1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3123.jpg&w=300', 
+                 'photographer': 'Photo by Susan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3123.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ablennes_hians__img_3123.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3134.jpg&w=300', 
+                 'photographer': 'Photo by Susan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3134.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ablennes_hians__img_3134.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365915516_182.178.95.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365915516_182.178.95.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ablennes_hians__1365915516_182.178.95.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Abhia_j0.gif', 
+                 'photographer': 'Photo by Ueberschär, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=972&what=larvegg', 
+                 'img-name': 'Ablennes_hians__Abhia_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Abhia_j1.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Abhia_j1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=972&what=larvegg&TotRec=2', 
+                 'img-name': 'Ablennes_hians__Abhia_j1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1846)', 
+ 'Max length': '100 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Belonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 972, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Abhia_m0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ablennes hians', 
+             'id': 972, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=972'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=972'
+          }, 
+ 'eles-seq': 2
+}

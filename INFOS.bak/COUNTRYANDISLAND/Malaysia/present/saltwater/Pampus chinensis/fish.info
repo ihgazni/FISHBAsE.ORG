@@ -1,0 +1,190 @@
+{
+ 'Common names': 
+                 [
+                  ' Chinese silver pomfret (English)', 
+                  ' Bawal tambak (Malay)', 
+                  ' Butterfish (English)', 
+                  ' Pomfret (English)', 
+                  ' Silver pomfret (English)', 
+                  ' Bawal ketambak (Malay)', 
+                  ' Duai puteh (Malay)', 
+                  ' Dueh bujang (Malay)', 
+                  ' Dueh puteh (Malay)', 
+                  ' Dueh putih (Malay)', 
+                  ' Dueh tambak (Malay)', 
+                  ' Kilat (Malay)', 
+                  ' Tau tae (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u1.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8187&what=species', 
+                 'img-name': 'Pampus_chinensis__Pachi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1065', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u0.jpg', 
+                 'photographer': 'Photo by Aqua Trade International', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1462', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u2.jpg', 
+                 'photographer': 'Photo by Assadi, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1917', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u5.jpg', 
+                 'photographer': 'Photo by Liu, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1917', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u6.jpg', 
+                 'photographer': 'Photo by Liu, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1714', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u4.jpg', 
+                 'photographer': 'Photo by Rahman, A.K.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pachi_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=577', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u3.jpg', 
+                 'photographer': 'Photo by Yau, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pachi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=8187&what=species&TotRec=8', 
+                 'img-name': 'Pampus_chinensis__Pachi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3582.jpg&w=300', 
+                 'photographer': 'Photo by Sachinandan Dutta', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3582.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_chinensis__img_3582.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366993592_182.178.16.188.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366993592_182.178.16.188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_chinensis__1366993592_182.178.16.188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1420821964_39.44.142.164.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1420821964_39.44.142.164.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_chinensis__1420821964_39.44.142.164.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1429725446_39.50.187.157.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1429725446_39.50.187.157.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_chinensis__1429725446_39.50.187.157.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1429725476_39.50.187.157.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1429725476_39.50.187.157.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_chinensis__1429725476_39.50.187.157.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Euphrasen, 1788)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Stromateidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8187, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pachi_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pampus chinensis', 
+             'id': 8187, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8187'
+            }, 
+ 'Remark': 'Also Ref. 11230.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8187'
+          }, 
+ 'eles-seq': 856
+}

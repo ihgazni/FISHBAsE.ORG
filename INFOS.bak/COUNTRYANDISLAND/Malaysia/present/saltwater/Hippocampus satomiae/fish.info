@@ -1,0 +1,55 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1773', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hipon_u1.jpg', 
+                 'photographer': 'Photo by Henke, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hipon_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=64802&what=species', 
+                 'img-name': 'Hippocampus_satomiae__Hipon_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Lourie & Kuiter, 2008', 
+ 'Max length': '1.4 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 64802, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hipon_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus satomiae', 
+             'id': 64802, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=64802'
+            }, 
+ 'Remark': 'Sabah, Malaysia (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=64802'
+          }, 
+ 'eles-seq': 589
+}

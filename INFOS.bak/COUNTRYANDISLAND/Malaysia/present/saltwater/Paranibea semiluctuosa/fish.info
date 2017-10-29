@@ -1,0 +1,120 @@
+{
+ 'Common names': 
+                 [
+                  ' Half-mourning croaker (English)', 
+                  ' Gelama kelam (Malay)', 
+                  ' Croaker (English)', 
+                  ' Gelama (Malay)', 
+                  ' Gelama papan (Malay)', 
+                  ' Jarau (Malay)', 
+                  ' San gaa (Malay)', 
+                  ' Sarm gae (Malay)', 
+                  ' Tengkerong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pasem_u0.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pasem_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8311&what=species', 
+                 'img-name': 'Paranibea_semiluctuosa__Pasem_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pasem_u1.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pasem_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8311&what=species&TotRec=3', 
+                 'img-name': 'Paranibea_semiluctuosa__Pasem_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pasem_u2.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pasem_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8311&what=species&TotRec=3', 
+                 'img-name': 'Paranibea_semiluctuosa__Pasem_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1420543616_202.4.173.52.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1420543616_202.4.173.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Paranibea_semiluctuosa__1420543616_202.4.173.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364061120_182.178.105.118.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364061120_182.178.105.118.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Paranibea_semiluctuosa__1364061120_182.178.105.118.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371844559_182.178.111.131.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371844559_182.178.111.131.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Paranibea_semiluctuosa__1371844559_182.178.111.131.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371844574_182.178.111.131.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371844574_182.178.111.131.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Paranibea_semiluctuosa__1371844574_182.178.111.131.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1830)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8311, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pasem_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Paranibea semiluctuosa', 
+             'id': 8311, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8311'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8311'
+          }, 
+ 'eles-seq': 875
+}

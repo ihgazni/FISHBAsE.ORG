@@ -1,0 +1,49 @@
+{
+ 'Common names': 
+                 [
+                  ' Malabar glassy perchlet (English)', 
+                  ' Seriding kilat Malabar (Malay)', 
+                  ' Pridin (Malay)', 
+                  ' Seriding putih (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=670', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amdus_u0.jpg', 
+                 'photographer': 'Photo by Keith, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amdus_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=9899&what=species', 
+                 'img-name': 'Ambassis_dussumieri__Amdus_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Cuvier, 1828', 
+ 'Max length': '10 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ambassidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 9899, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amdus_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ambassis dussumieri', 
+             'id': 9899, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=9899'
+            }, 
+ 'Remark': 'Also Ref. 4833.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=9899'
+          }, 
+ 'eles-seq': 52
+}

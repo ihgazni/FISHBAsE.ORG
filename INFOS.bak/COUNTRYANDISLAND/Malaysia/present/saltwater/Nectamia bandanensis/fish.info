@@ -1,0 +1,148 @@
+{
+ 'Common names': 
+                 [
+                  ' Bigeye cardinalfish (English)', 
+                  ' Sebekah mata besar (Malay)', 
+                  ' Sebekah (Malay)', 
+                  ' Seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5763&what=species', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neban_u4.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Neban_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Neban_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1113', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Apban_j0.gif', 
+                 'photographer': 'Photo by Prakash Vincent, S.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apban_u6.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5763&what=species&TotRec=8', 
+                 'img-name': 'Nectamia_bandanensis__Apban_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcardbanda640a.jpg&w=300', 
+                 'photographer': 'Photo by David Kuehn', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cardbanda640a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Nectamia_bandanensis__cardbanda640a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1113', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Apban_j0.gif', 
+                 'photographer': 'Photo by Prakash Vincent, S.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apban_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5763&what=larvegg', 
+                 'img-name': 'Nectamia_bandanensis__Apban_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1854)', 
+ 'Max length': '10 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5763, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neban_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nectamia bandanensis', 
+             'id': 5763, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5763'
+            }, 
+ 'Remark': 'Based on Photo by J.E. Randall.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5763'
+          }, 
+ 'eles-seq': 766
+}

@@ -1,0 +1,37 @@
+{
+ 'Common names': 
+                 [
+                  ' Tubemouth whipray (English)', 
+                  ' Pari mulut tajam (Malay)', 
+                  ' Stingray (English)', 
+                  ' Pari (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Manjaji-Matsumoto & Last, 2006', 
+ 'Max length': '49.200000762939 WD (male) , 100 WD (female)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Himantura lobistoma', 
+             'id': 63391, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=63391'
+            }, 
+ 'Remark': 'Type locality, Bintulu, Sarawak, SMEC 369 (holotype of', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 575
+}

@@ -1,0 +1,115 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poade_j0.jpg', 
+                 'photographer': 'Photo by Froese, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poade_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12476&what=species', 
+                 'img-name': 'Pomacentrus_adelus__Poade_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2575', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poade_j1.jpg', 
+                 'photographer': 'Photo by Du, J.-G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poade_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12476&what=species&TotRec=3', 
+                 'img-name': 'Pomacentrus_adelus__Poade_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poade_u0.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poade_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=12476&what=species&TotRec=3', 
+                 'img-name': 'Pomacentrus_adelus__Poade_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpoade1.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/poade1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacentrus_adelus__poade1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fobscuredamsel.jpg&w=300', 
+                 'photographer': 'Photo by J.E. Thirkill', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/obscuredamsel.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacentrus_adelus__obscuredamsel.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000004.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000004.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000004.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000004.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000006.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000006.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000006-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000006-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000170-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000170-1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Allen, 1991', 
+ 'Max length': '8.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12476, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poade_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomacentrus adelus', 
+             'id': 12476, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12476'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12476'
+          }, 
+ 'eles-seq': 977
+}

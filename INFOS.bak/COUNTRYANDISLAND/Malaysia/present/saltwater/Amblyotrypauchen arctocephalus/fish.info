@@ -1,0 +1,34 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Alcock, 1890)', 
+ 'Max length': '', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Amblyotrypauchen arctocephalus', 
+             'id': 59255, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59255'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 67
+}

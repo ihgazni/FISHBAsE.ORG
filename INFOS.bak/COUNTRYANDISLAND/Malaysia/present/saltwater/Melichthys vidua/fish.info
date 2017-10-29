@@ -1,0 +1,227 @@
+{
+ 'Common names': 
+                 [
+                  ' Pinktail triggerfish (English)', 
+                  ' Jebong ekor ros (Malay)', 
+                  ' Leatherjacket (English)', 
+                  ' Triggerfish (English)', 
+                  ' Ayam laut (Malay)', 
+                  ' Jebong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u4.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5838&what=species', 
+                 'img-name': 'Melichthys_vidua__Mevid_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=474', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u3.jpg', 
+                 'photographer': 'Photo by Marsden, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mevid_u0.gif', 
+                 'photographer': 'Photo by Günther, A.C.L.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mevid_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mevid_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5838&what=species&TotRec=7', 
+                 'img-name': 'Melichthys_vidua__Mevid_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341853540_89.244.88.249.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Joerg Vierke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341853540_89.244.88.249.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__1341853540_89.244.88.249.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpinktaitriggerl.jpg&w=300', 
+                 'photographer': 'Photo by Bryan Doty', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pinktaitriggerl.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__pinktaitriggerl.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpinktailtriggerfis.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pinktailtriggerfis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__pinktailtriggerfis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpinktailtriggerfi.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pinktailtriggerfi.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__pinktailtriggerfi.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1458732998_36.69.211.227.jpg&w=300', 
+                 'photographer': 'Photo by Ahmad Zahid', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1458732998_36.69.211.227.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__1458732998_36.69.211.227.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469678794_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469678794_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__1469678794_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480998742_162.158.166.47.jpg&w=300', 
+                 'photographer': 'Photo by Andreas Hary Muljadi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480998742_162.158.166.47.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__1480998742_162.158.166.47.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmelichthys_viuda_gil_phl_copy.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/melichthys_viuda_gil_phl_copy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__melichthys_viuda_gil_phl_copy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1495214293_162.158.91.175.jpg&w=300', 
+                 'photographer': 'Photo by Nikolay Morozov', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1495214293_162.158.91.175.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Melichthys_vidua__1495214293_162.158.91.175.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u2.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mevid_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5838&what=stamps', 
+                 'img-name': 'Melichthys_vidua__Mevid_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Richardson, 1845)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Balistidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5838, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mevid_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Melichthys vidua', 
+             'id': 5838, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5838'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5838'
+          }, 
+ 'eles-seq': 726
+}

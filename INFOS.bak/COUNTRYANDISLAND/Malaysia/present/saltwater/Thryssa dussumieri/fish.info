@@ -1,0 +1,108 @@
+{
+ 'Common names': 
+                 [
+                  " Dussumier's thryssa (English)", 
+                  ' Kasai daun (Malay)', 
+                  ' Moustached thryssa (English)', 
+                  ' Thryssa (English)', 
+                  ' Bakok (Malay)', 
+                  ' Bakok daun (Malay)', 
+                  ' Bakok minyak (Malay)', 
+                  ' Bangkok (Malay)', 
+                  ' Besin (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Empirang (Malay)', 
+                  ' Garang-garang (Brunei) (Malay)', 
+                  ' Jemedi (Malay)', 
+                  ' Kasai (Malay)', 
+                  ' Kasai minyak (Malay)', 
+                  ' Kasi-kasi (Malay)', 
+                  ' Mempinis (Malay)', 
+                  ' Pirang (Malay)', 
+                  ' Pusu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thdus_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thdus_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=586&what=species', 
+                 'img-name': 'Thryssa_dussumieri__Thdus_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thdus_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thdus_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=586&what=species&TotRec=2', 
+                 'img-name': 'Thryssa_dussumieri__Thdus_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365094858_182.178.90.41.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365094858_182.178.90.41.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_dussumieri__1365094858_182.178.90.41.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421942219_39.44.95.27.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421942219_39.44.95.27.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_dussumieri__1421942219_39.44.95.27.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421942246_39.44.95.27.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421942246_39.44.95.27.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_dussumieri__1421942246_39.44.95.27.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1848)', 
+ 'Max length': '11 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 586, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thdus_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thryssa dussumieri', 
+             'id': 586, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=586'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=586'
+          }, 
+ 'eles-seq': 1286
+}

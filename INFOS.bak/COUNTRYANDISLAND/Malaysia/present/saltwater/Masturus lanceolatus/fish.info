@@ -1,0 +1,148 @@
+{
+ 'Common names': 
+                 [
+                  ' Sharptail mola (English)', 
+                  ' Matahari ekor (Malay)', 
+                  ' Sunfish (English)', 
+                  ' Trunkfish (English)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=800', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Malan_u0.jpg', 
+                 'photographer': 'Photo by Almoneda, R.S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10207&what=species', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Malan_u1.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=10207&what=species&TotRec=6', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Malan_u2.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=10207&what=species&TotRec=6', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1684', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Malan_u3.jpg', 
+                 'photographer': 'Photo by Bryan, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=10207&what=species&TotRec=6', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Malan_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=10207&what=species&TotRec=6', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=811', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Malan_u1.gif', 
+                 'photographer': 'Photo by NMFS/PIRO Observer Programs', 
+                 'img-url': 'http://www.fishbase.us/images/species/Malan_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=10207&what=species&TotRec=6', 
+                 'img-name': 'Masturus_lanceolatus__Malan_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmasturus.jpg&w=300', 
+                 'photographer': 'Photo by Santiago Montealegre-Quijano', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/masturus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Masturus_lanceolatus__masturus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1352284048_210.212.232.209.jpg&w=300', 
+                 'photographer': 'Photo by Sijo Paul, Dinesh Kumar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1352284048_210.212.232.209.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Masturus_lanceolatus__1352284048_210.212.232.209.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1473324894_162.158.54.31.jpg&w=300', 
+                 'photographer': 'Photo by Dr. NARANJI MUDDULA KRISHNA AND GOVINDA RAO VELAMALA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1473324894_162.158.54.31.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Masturus_lanceolatus__1473324894_162.158.54.31.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1474886836_162.158.161.149.jpg&w=300', 
+                 'photographer': 'Photo by Kannan K', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1474886836_162.158.161.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Masturus_lanceolatus__1474886836_162.158.161.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Liénard, 1840)', 
+ 'Max length': '195 SL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Molidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10207, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Malan_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Masturus lanceolatus', 
+             'id': 10207, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10207'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10207'
+          }, 
+ 'eles-seq': 719
+}

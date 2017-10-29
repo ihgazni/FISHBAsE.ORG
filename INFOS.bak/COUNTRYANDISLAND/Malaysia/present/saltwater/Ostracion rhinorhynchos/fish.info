@@ -1,0 +1,133 @@
+{
+ 'Common names': 
+                 [
+                  ' Horn-nosed boxfish (English)', 
+                  ' Kaban muncung (Malay)', 
+                  ' Boxfish (English)', 
+                  ' Cowfish (English)', 
+                  ' Trunkfish (English)', 
+                  ' Buntal batu (Malay)', 
+                  ' Buntal kotak (Malay)', 
+                  ' Buntal panjang (Malay)', 
+                  ' Buntal peti (Malay)', 
+                  ' Ikan lembu (Malay)', 
+                  ' Lelembu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=264', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osnas_u0.jpg', 
+                 'photographer': 'Photo by Kochzius, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osnas_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8288&what=species', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osnas_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osrhi_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osrhi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8288&what=species&TotRec=6', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osrhi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osrhi_u3.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osrhi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8288&what=species&TotRec=6', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osrhi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osrhi_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osrhi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8288&what=species&TotRec=6', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osrhi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osrhi_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osrhi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8288&what=species&TotRec=6', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osrhi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Osrhi_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Osrhi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=8288&what=species&TotRec=6', 
+                 'img-name': 'Ostracion_rhinorhynchos__Osrhi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1459949335_141.101.99.85.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1459949335_141.101.99.85.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostracion_rhinorhynchos__1459949335_141.101.99.85.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1459955424_141.101.99.85.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1459955424_141.101.99.85.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostracion_rhinorhynchos__1459955424_141.101.99.85.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1851', 
+ 'Max length': '35 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Ostraciidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8288, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Osrhi_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ostracion rhinorhynchos', 
+             'id': 8288, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8288'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8288'
+          }, 
+ 'eles-seq': 845
+}

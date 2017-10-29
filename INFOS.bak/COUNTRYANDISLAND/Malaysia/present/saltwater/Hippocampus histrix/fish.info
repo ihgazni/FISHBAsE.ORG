@@ -1,0 +1,292 @@
+{
+ 'Common names': 
+                 [
+                  ' Thorny seahorse (English)', 
+                  ' Kuda laut duri (Malay)', 
+                  ' Seahorse (English)', 
+                  ' Korek telinga (Malay)', 
+                  ' Kuda laut (Malay)', 
+                  ' Kuda-kuda (Malay)', 
+                  ' Tangkur kuda (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=303', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hikud_u8.jpg', 
+                 'photographer': 'Photo by Bailly, N.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hikud_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5954&what=species', 
+                 'img-name': 'Hippocampus_histrix__Hikud_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=303', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hikud_u9.jpg', 
+                 'photographer': 'Photo by Bailly, N.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hikud_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hikud_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_u1.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_u9.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_ua.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_f0.jpg', 
+                 'photographer': 'Photo by Lourie, S.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hihis_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hihis_u3.gif', 
+                 'photographer': 'Photo by Richardson, Laurence J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=5954&what=species&TotRec=10', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippocampus-histrix.jpg&w=300', 
+                 'photographer': 'Photo by Teresa Zuberbuhler', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippocampus-histrix.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_histrix__hippocampus-histrix.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippocampushystrix%2528thornyseahorse%2529dumaguete_wm.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippocampushystrix%28thornyseahorse%29dumaguete_wm.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_histrix__hippocampushystrix%28thornyseahorse%29dumaguete_wm.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1337334604_202.123.56.189.jpg&w=300', 
+                 'photographer': 'Photo by Nicolas Bailly', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1337334604_202.123.56.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_histrix__1337334604_202.123.56.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1337334764_202.123.56.189.jpg&w=300', 
+                 'photographer': 'Photo by Nicolas Bailly', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1337334764_202.123.56.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_histrix__1337334764_202.123.56.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1403', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1403', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=237', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_u6.jpg', 
+                 'photographer': '    Photo by Baur, J.-C.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hihis_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5954&what=stamps', 
+                 'img-name': 'Hippocampus_histrix__Hihis_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Kaup, 1856', 
+ 'Max length': '17 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5954, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hihis_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus histrix', 
+             'id': 5954, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5954'
+            }, 
+ 'Remark': 'Penang.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5954'
+          }, 
+ 'eles-seq': 587
+}

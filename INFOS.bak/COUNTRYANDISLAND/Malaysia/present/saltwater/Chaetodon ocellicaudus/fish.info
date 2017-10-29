@@ -1,0 +1,131 @@
+{
+ 'Common names': 
+                 [
+                  ' Spot-tail butterflyfish (English)', 
+                  ' Bagang ekor tanda (Malay)', 
+                  ' Butterflyfish (English)', 
+                  ' Spot-tail (English)', 
+                  ' Bagang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choce_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Choce_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5569&what=species', 
+                 'img-name': 'Chaetodon_ocellicaudus__Choce_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choce_j0.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Choce_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5569&what=species&TotRec=3', 
+                 'img-name': 'Chaetodon_ocellicaudus__Choce_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choce_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Choce_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5569&what=species&TotRec=3', 
+                 'img-name': 'Chaetodon_ocellicaudus__Choce_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469521969_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469521969_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_ocellicaudus__1469521969_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchaetodon_ocellicaudus_img_0028.jpg&w=300', 
+                 'photographer': 'Photo by Nicolas Bailly', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chaetodon_ocellicaudus_img_0028.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_ocellicaudus__chaetodon_ocellicaudus_img_0028.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1354819061_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1354819061_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_ocellicaudus__1354819061_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1354819138_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1354819138_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_ocellicaudus__1354819138_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-9914-p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-9914-p1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-9914-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-9914-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=8', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=8', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Cuvier, 1831', 
+ 'Max length': '15 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Chaetodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5569, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choce_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chaetodon ocellicaudus', 
+             'id': 5569, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5569'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5569'
+          }, 
+ 'eles-seq': 242
+}

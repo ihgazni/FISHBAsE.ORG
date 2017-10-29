@@ -1,0 +1,135 @@
+{
+ 'Common names': 
+                 [
+                  ' Longnose trevally (English)', 
+                  ' Demudok muncung (Malay)', 
+                  ' Amberjack (English)', 
+                  ' Horse mackerel (English)', 
+                  ' Jack (English)', 
+                  ' Pompano (English)', 
+                  ' Scad (English)', 
+                  ' Trevally (English)', 
+                  ' Cermin (Malay)', 
+                  ' Puteh (Malay)', 
+                  ' Rambai (Malay)', 
+                  ' Rambai landeh (Malay)', 
+                  ' Sagai (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4441&what=species', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4441&what=species&TotRec=6', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4441&what=species&TotRec=6', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cachr_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4441&what=species&TotRec=6', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_b1.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_b1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4441&what=species&TotRec=6', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_b1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_b0.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cachr_b0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4441&what=species&TotRec=6', 
+                 'img-name': 'Carangoides_chrysophrys__Cachr_b0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423842077_217.120.237.5.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423842077_217.120.237.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carangoides_chrysophrys__1423842077_217.120.237.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcarangoideschrysophrys.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/carangoideschrysophrys.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carangoides_chrysophrys__carangoideschrysophrys.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1833)', 
+ 'Max length': '72 TL (mixed)', 
+ 'Maturity': '', 
+ 'Family': 'Carangidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4441, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cachr_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Carangoides chrysophrys', 
+             'id': 4441, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4441'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4441'
+          }, 
+ 'eles-seq': 174
+}

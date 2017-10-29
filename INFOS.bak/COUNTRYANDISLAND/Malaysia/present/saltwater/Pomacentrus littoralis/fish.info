@@ -1,0 +1,57 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2476', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Polit_u0.jpg', 
+                 'photographer': 'Photo by Bajol, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Polit_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12493&what=species', 
+                 'img-name': 'Pomacentrus_littoralis__Polit_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2476', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Polit_u1.jpg', 
+                 'photographer': 'Photo by Bajol, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Polit_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12493&what=species&TotRec=2', 
+                 'img-name': 'Pomacentrus_littoralis__Polit_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Cuvier, 1830', 
+ 'Max length': '10.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12493, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Polit_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomacentrus littoralis', 
+             'id': 12493, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12493'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12493'
+          }, 
+ 'eles-seq': 982
+}

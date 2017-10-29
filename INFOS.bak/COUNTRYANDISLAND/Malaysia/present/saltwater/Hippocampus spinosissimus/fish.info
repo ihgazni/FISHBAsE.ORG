@@ -1,0 +1,158 @@
+{
+ 'Common names': 
+                 [
+                  ' Hedgehog seahorse (English)', 
+                  ' Kuda laut landak (Malay)', 
+                  ' Seahorse (English)', 
+                  ' Undok-undok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_u3.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25974&what=species', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_u4.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=25974&what=species&TotRec=6', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_u6.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=25974&what=species&TotRec=6', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_m0.jpg', 
+                 'photographer': 'Photo by Lourie, S.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=25974&what=species&TotRec=6', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hispi_u1.gif', 
+                 'photographer': 'Photo by Richardson, Laurence J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=25974&what=species&TotRec=6', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_u5.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hispi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=25974&what=species&TotRec=6', 
+                 'img-name': 'Hippocampus_spinosissimus__Hispi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Weber, 1913', 
+ 'Max length': '17.2 OT (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25974, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hispi_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus spinosissimus', 
+             'id': 25974, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25974'
+            }, 
+ 'Remark': 'Penang.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25974'
+          }, 
+ 'eles-seq': 590
+}

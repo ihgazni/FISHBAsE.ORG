@@ -1,0 +1,51 @@
+{
+ 'Common names': 
+                 [
+                  ' Dwarf flathead (English)', 
+                  ' Baji tirus (Malay)', 
+                  ' Elates ransonnetii (English)', 
+                  ' Flathead (English)', 
+                  ' Lance flathead (English)', 
+                  ' Baji-baji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Elran_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Elran_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6637&what=species', 
+                 'img-name': 'Elates_ransonnettii__Elran_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Steindachner, 1876)', 
+ 'Max length': '19 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Platycephalidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6637, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Elran_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Elates ransonnettii', 
+             'id': 6637, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6637'
+            }, 
+ 'Remark': 'Museum: Off Sarawak, Borneo, HUMZ 109564-109565 (Ref. 29003).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6637'
+          }, 
+ 'eles-seq': 411
+}

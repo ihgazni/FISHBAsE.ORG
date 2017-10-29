@@ -1,0 +1,250 @@
+{
+ 'Common names': 
+                 [
+                  ' Chocolate hind (English)', 
+                  ' Kerapu belang perang (Malay)', 
+                  ' Blue-lined coral cod (English)', 
+                  ' Boenacki grouper (English)', 
+                  ' Brown-banded coral cod (English)', 
+                  ' Brown-banded grouper (English)', 
+                  ' Brown-barred grouper (English)', 
+                  ' Coral trout (English)', 
+                  ' Sea bass (English)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu kertang (Malay)', 
+                  ' Kerapu tenggarong (Malay)', 
+                  ' Kerapu tenggarong (Malay)', 
+                  ' Tenggarong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u0.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6444&what=species', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u6.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u9.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_j0.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=641', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u8.jpg', 
+                 'photographer': 'Photo by Chan, T.T.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ceboe_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ceboe_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=6444&what=species&TotRec=12', 
+                 'img-name': 'Cephalopholis_boenak__Ceboe_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcephalopholis_boenak_allento.jpg&w=300', 
+                 'photographer': 'Photo by Allen W.L. To', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cephalopholis_boenak_allento.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cephalopholis_boenak__cephalopholis_boenak_allento.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379750102_117.207.247.239.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha and K.V.L. Shrikanya Rao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379750102_117.207.247.239.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cephalopholis_boenak__1379750102_117.207.247.239.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480532323_141.101.98.192.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480532323_141.101.98.192.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cephalopholis_boenak__1480532323_141.101.98.192.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481547193_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481547193_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cephalopholis_boenak__1481547193_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcephalopholis_boenak_pan_phl.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cephalopholis_boenak_pan_phl.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cephalopholis_boenak__cephalopholis_boenak_pan_phl.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000096.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000096.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1575', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1575', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1577', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1577', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1790)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6444, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ceboe_u9.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cephalopholis boenak', 
+             'id': 6444, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6444'
+            }, 
+ 'Remark': 'Museum: BPBM 21933 (Ref. 4787).  Also Ref. 5222.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6444'
+          }, 
+ 'eles-seq': 217
+}

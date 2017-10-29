@@ -1,0 +1,129 @@
+{
+ 'Common names': 
+                 [
+                  ' Blue-spotted pipefish (English)', 
+                  ' Undok-undok bintik biru (Malay)', 
+                  ' Pipefish (English)', 
+                  ' Korek telinga (Malay)', 
+                  ' Kuda laut (Malay)', 
+                  ' Tangkur kuda (Malay)', 
+                  ' Undok-undok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicya_u2.jpg', 
+                 'photographer': 'Photo by Erdmann, M.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicya_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7728&what=species', 
+                 'img-name': 'Hippichthys_cyanospilos__Hicya_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicya_u3.jpg', 
+                 'photographer': 'Photo by Erdmann, M.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicya_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7728&what=species&TotRec=5', 
+                 'img-name': 'Hippichthys_cyanospilos__Hicya_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicya_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicya_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7728&what=species&TotRec=5', 
+                 'img-name': 'Hippichthys_cyanospilos__Hicya_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hicya_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicya_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7728&what=species&TotRec=5', 
+                 'img-name': 'Hippichthys_cyanospilos__Hicya_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicya_u0.jpg', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicya_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7728&what=species&TotRec=5', 
+                 'img-name': 'Hippichthys_cyanospilos__Hicya_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippichthys_cyanospilus_fb.jpg&w=300', 
+                 'photographer': 'Photo by SimFish', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippichthys_cyanospilus_fb.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippichthys_cyanospilos__hippichthys_cyanospilus_fb.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippichthys_cyanospilus_fb2.jpg&w=300', 
+                 'photographer': 'Photo by SimFish', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippichthys_cyanospilus_fb2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippichthys_cyanospilos__hippichthys_cyanospilus_fb2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippichthyscyanospilus.jpg&w=300', 
+                 'photographer': 'Photo by Carlos Faria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippichthyscyanospilus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippichthys_cyanospilos__hippichthyscyanospilus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1854)', 
+ 'Max length': '16 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7728, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicya_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippichthys cyanospilos', 
+             'id': 7728, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7728'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7728'
+          }, 
+ 'eles-seq': 582
+}

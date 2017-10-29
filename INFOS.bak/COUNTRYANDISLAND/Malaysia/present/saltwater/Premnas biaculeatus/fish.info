@@ -1,0 +1,186 @@
+{
+ 'Common names': 
+                 [
+                  ' Spinecheek anemonefish (English)', 
+                  ' Inggu pipi duri (Malay)', 
+                  ' Damselfish (English)', 
+                  ' Gombing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6632&what=species', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_f0.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u5.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1909', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u7.jpg', 
+                 'photographer': 'Photo by Honeycutt, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amoce_j0.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amoce_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Amoce_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6632&what=species&TotRec=7', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpremnas-biaculeatus-s02-9404.jpg&w=300', 
+                 'photographer': 'Photo by Scott Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/premnas-biaculeatus-s02-9404.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Premnas_biaculeatus__premnas-biaculeatus-s02-9404.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspinecheekanemonefis.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spinecheekanemonefis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Premnas_biaculeatus__spinecheekanemonefis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fspinecheekanemonefish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/spinecheekanemonefish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Premnas_biaculeatus__spinecheekanemonefish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469673317_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469673317_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Premnas_biaculeatus__1469673317_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=452', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=452', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=87', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u3.jpg', 
+                 'photographer': '    Photo by Sanchez, D.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prbia_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6632&what=stamps', 
+                 'img-name': 'Premnas_biaculeatus__Prbia_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_UronemD2.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_UronemD2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=6632&pic=UronemD2.jpg', 
+                 'img-name': 'Premnas_biaculeatus__tn_UronemD2.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1790)', 
+ 'Max length': '17 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6632, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prbia_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Premnas biaculeatus', 
+             'id': 6632, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6632'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6632'
+          }, 
+ 'eles-seq': 995
+}

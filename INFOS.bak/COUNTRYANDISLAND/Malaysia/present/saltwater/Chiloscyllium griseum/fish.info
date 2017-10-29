@@ -1,0 +1,206 @@
+{
+ 'Common names': 
+                 [
+                  ' Grey bambooshark (English)', 
+                  ' Yu-cicak gempal (Malay)', 
+                  ' Ridge-back bambooshark (English)', 
+                  ' Kau suar (Malay)', 
+                  ' Yu bodoh (Malay)', 
+                  ' Yu pasir (Malay)', 
+                  ' Yu tokeh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chgri_u0.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chgri_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4304&what=species', 
+                 'img-name': 'Chiloscyllium_griseum__Chgri_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chgri_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chgri_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4304&what=species&TotRec=3', 
+                 'img-name': 'Chiloscyllium_griseum__Chgri_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chgri_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chgri_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4304&what=species&TotRec=3', 
+                 'img-name': 'Chiloscyllium_griseum__Chgri_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchiloscylliumgriseum.jpg&w=300', 
+                 'photographer': 'Photo by Bineesh. K. K', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chiloscylliumgriseum.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__chiloscylliumgriseum.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchilo.jpg&w=300', 
+                 'photographer': 'Photo by R. Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chilo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__chilo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480330339_162.158.58.156.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Mahesh V', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480330339_162.158.58.156.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1480330339_162.158.58.156.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367515401_182.178.87.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367515401_182.178.87.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1367515401_182.178.87.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367515417_182.178.87.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367515417_182.178.87.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1367515417_182.178.87.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367515430_182.178.87.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367515430_182.178.87.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1367515430_182.178.87.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367515514_182.178.87.173.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367515514_182.178.87.173.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1367515514_182.178.87.173.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516332_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516332_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1469516332_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516249_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516249_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1469516249_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516191_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516191_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__1469516191_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc-griseum01.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c-griseum01.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__c-griseum01.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc-griseum17.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c-griseum17.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_griseum__c-griseum17.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Müller & Henle, 1838', 
+ 'Max length': '59.5 TL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Hemiscylliidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4304, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chgri_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chiloscyllium griseum', 
+             'id': 4304, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4304'
+            }, 
+ 'Remark': 'Also Ref. 13575, 43278.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4304'
+          }, 
+ 'eles-seq': 275
+}

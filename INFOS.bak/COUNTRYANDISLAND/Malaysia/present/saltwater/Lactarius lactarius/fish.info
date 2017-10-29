@@ -1,0 +1,255 @@
+{
+ 'Common names': 
+                 [
+                  ' False trevally (English)', 
+                  ' Shrumbu (Malay)', 
+                  ' Big-jaw jumper (English)', 
+                  ' Milk trevally (English)', 
+                  ' Silvery lactarid (English)', 
+                  ' Whitefish (English)', 
+                  ' Kapas (Malay)', 
+                  ' Kelapa-kelapa (Malay)', 
+                  ' Kelina pisang (Malay)', 
+                  ' Lami-lami (Malay)', 
+                  ' Lelemah (Malay)', 
+                  ' Lemah (Malay)', 
+                  ' Lemak (Malay)', 
+                  ' Lemoh (Malay)', 
+                  ' Lemuk (Malay)', 
+                  ' Selemah (Malay)', 
+                  ' Selembu (Malay)', 
+                  ' Selembus (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lalac_u2.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lalac_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=363&what=species', 
+                 'img-name': 'Lactarius_lactarius__Lalac_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1917', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lalac_u3.jpg', 
+                 'photographer': 'Photo by Liu, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lalac_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=363&what=species&TotRec=5', 
+                 'img-name': 'Lactarius_lactarius__Lalac_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lalac_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lalac_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=363&what=species&TotRec=5', 
+                 'img-name': 'Lactarius_lactarius__Lalac_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lalac_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lalac_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=363&what=species&TotRec=5', 
+                 'img-name': 'Lactarius_lactarius__Lalac_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lalac_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lalac_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=363&what=species&TotRec=5', 
+                 'img-name': 'Lactarius_lactarius__Lalac_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flactariuslactar.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lactariuslactar.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__lactariuslactar.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc01977.jpg&w=300', 
+                 'photographer': 'Photo by Shankaragouda', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc01977.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__dsc01977.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434610033_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434610033_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1434610033_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434610354_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434610354_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1434610354_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1438083364_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit Kumar Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1438083364_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1438083364_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366990747_182.178.16.188.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366990747_182.178.16.188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1366990747_182.178.16.188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367078697_182.178.80.166.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367078697_182.178.80.166.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1367078697_182.178.80.166.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372167872_182.178.100.20.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372167872_182.178.100.20.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1372167872_182.178.100.20.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372167885_182.178.100.20.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372167885_182.178.100.20.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1372167885_182.178.100.20.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480692687_188.114.103.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480692687_188.114.103.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1480692687_188.114.103.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480692797_188.114.103.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480692797_188.114.103.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1480692797_188.114.103.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486526920_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486526920_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1486526920_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486544306_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486544306_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lactarius_lactarius__1486544306_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-6687.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-6687.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lactariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 363, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lalac_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lactarius lactarius', 
+             'id': 363, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=363'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=363'
+          }, 
+ 'eles-seq': 644
+}

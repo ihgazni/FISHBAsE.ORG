@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Goqui_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Goqui_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=23663&what=species', 
+                 'img-name': 'Gobiopsis_quinquecincta__Goqui_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Smith, 1931)', 
+ 'Max length': '4.6 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 23663, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Goqui_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gobiopsis quinquecincta', 
+             'id': 23663, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=23663'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=23663'
+          }, 
+ 'eles-seq': 500
+}

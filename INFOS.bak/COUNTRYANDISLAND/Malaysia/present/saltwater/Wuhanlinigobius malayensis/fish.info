@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2467', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Wumal_m0.jpg', 
+                 'photographer': 'Photo by Huang, S.-P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Wumal_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=67295&what=species', 
+                 'img-name': 'Wuhanlinigobius_malayensis__Wumal_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Huang, Zeehan & Chen, 2013', 
+ 'Max length': '3.3099999427795 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 67295, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Wumal_m0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Wuhanlinigobius malayensis', 
+             'id': 67295, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=67295'
+            }, 
+ 'Remark': 'Type locality.  Known from Matang and Sungai Haji Dorani (Ref. 94983).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=67295'
+          }, 
+ 'eles-seq': 1342
+}

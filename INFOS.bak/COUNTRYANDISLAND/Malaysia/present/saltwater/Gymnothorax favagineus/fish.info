@@ -1,0 +1,266 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5391&what=species', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u5.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u6.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gyfav_u3.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gyfav_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gyfav_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gyfav_u2.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gyfav_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=5391&what=species&TotRec=10', 
+                 'img-name': 'Gymnothorax_favagineus__Gyfav_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00747.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00747.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__dsc00747.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhoneycomb_guraidhoo_corner_19-07-2009.jpg&w=300', 
+                 'photographer': 'Photo by Javio', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/honeycomb_guraidhoo_corner_19-07-2009.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__honeycomb_guraidhoo_corner_19-07-2009.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1351151628_69.86.20.150.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1351151628_69.86.20.150.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__1351151628_69.86.20.150.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481792344_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481792344_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__1481792344_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481801022_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481801022_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__1481801022_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmurenatalisay.jpg&w=300', 
+                 'photographer': 'Photo by Nijssen. G', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/murenatalisay.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__murenatalisay.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1406437876_202.123.56.125.jpg&w=300', 
+                 'photographer': 'Photo by Miguel Tonnies', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1406437876_202.123.56.125.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__1406437876_202.123.56.125.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1406438052_202.123.56.125.jpg&w=300', 
+                 'photographer': 'Photo by Miguel Tonnies', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1406438052_202.123.56.125.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__1406438052_202.123.56.125.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgymnothorax_favagineus_mahe2010_9266_v.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gymnothorax_favagineus_mahe2010_9266_v.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__gymnothorax_favagineus_mahe2010_9266_v.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgymnothorax_favagineus_mahe2010_9268_v.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gymnothorax_favagineus_mahe2010_9268_v.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__gymnothorax_favagineus_mahe2010_9268_v.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhoneycomb.jpg&w=300', 
+                 'photographer': 'Photo by David Butcher', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/honeycomb.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_favagineus__honeycomb.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bloch & Schneider, 1801', 
+ 'Max length': '300 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5391, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gyfav_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gymnothorax favagineus', 
+             'id': 5391, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5391'
+            }, 
+ 'Remark': 'Sabah, Malaysia (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5391'
+          }, 
+ 'eles-seq': 517
+}

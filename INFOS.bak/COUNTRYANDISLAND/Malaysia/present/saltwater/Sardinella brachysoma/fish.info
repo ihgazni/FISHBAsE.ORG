@@ -1,0 +1,87 @@
+{
+ 'Common names': 
+                 [
+                  ' Deepbody sardinella (English)', 
+                  ' Tamban-sisik pipih (Malay)', 
+                  ' Indian herring (English)', 
+                  ' Sardine (English)', 
+                  ' Tamban (Malay)', 
+                  ' Tamban bujur (Malay)', 
+                  ' Tamban lopek (Malay)', 
+                  ' Tamban pipih (Malay)', 
+                  ' Tamban sisik (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sabra_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sabra_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1504&what=species', 
+                 'img-name': 'Sardinella_brachysoma__Sabra_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1065', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sabra_u7.jpg', 
+                 'photographer': 'Photo by Aqua Trade International', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sabra_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1504&what=species&TotRec=4', 
+                 'img-name': 'Sardinella_brachysoma__Sabra_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sabra_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sabra_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1504&what=species&TotRec=4', 
+                 'img-name': 'Sardinella_brachysoma__Sabra_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sabra_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sabra_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1504&what=species&TotRec=4', 
+                 'img-name': 'Sardinella_brachysoma__Sabra_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1852', 
+ 'Max length': '13 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Clupeidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1504, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sabra_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sardinella brachysoma', 
+             'id': 1504, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1504'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1504'
+          }, 
+ 'eles-seq': 1110
+}

@@ -1,0 +1,131 @@
+{
+ 'Common names': 
+                 [
+                  ' Pineconefish (English)', 
+                  ' Nenas (Malay)', 
+                  ' Knightfish (English)', 
+                  ' Pineapplefish (English)', 
+                  ' Soldierfish (English)', 
+                  ' Ikan jepan (Malay)', 
+                  ' Ikan jepun (Malay)', 
+                  ' Jepun (Malay)', 
+                  ' Setonggang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8183&what=species', 
+                 'img-name': 'Monocentris_japonica__Mojap_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u4.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u3.jpg', 
+                 'photographer': 'Photo by Chaim Kropach', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mojap_u2.gif', 
+                 'photographer': 'Photo by Günther, A.C.L.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mojap_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mojap_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=8183&what=species&TotRec=7', 
+                 'img-name': 'Monocentris_japonica__Mojap_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1409110536_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ronald DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1409110536_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Monocentris_japonica__1409110536_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Houttuyn, 1782)', 
+ 'Max length': '13.2 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Monocentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8183, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mojap_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Monocentris japonica', 
+             'id': 8183, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8183'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8183'
+          }, 
+ 'eles-seq': 735
+}

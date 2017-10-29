@@ -1,0 +1,742 @@
+{
+ 'Common names': 
+                 [
+                  ' Whale shark (English)', 
+                  ' Yu paus (Malay)', 
+                  ' Kappo suar (Malay)', 
+                  ' Punki suar (Malay)', 
+                  ' Yu cicak (Malay)', 
+                  ' Yu katak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2077', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_uc.jpg', 
+                 'photographer': 'Photo by Lavan, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2081&what=species', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_ud.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=560', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u5.jpg', 
+                 'photographer': 'Photo by Postberg, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=560', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u7.jpg', 
+                 'photographer': 'Photo by Postberg, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=560', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u8.jpg', 
+                 'photographer': 'Photo by Postberg, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=560', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u9.jpg', 
+                 'photographer': 'Photo by Postberg, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1462', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_m0.jpg', 
+                 'photographer': 'Photo by Assadi, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j2.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j3.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rhtyp_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rhtyp_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=525', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u1.jpg', 
+                 'photographer': 'Photo by Lowry, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=525', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u4.jpg', 
+                 'photographer': 'Photo by Lowry, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1462', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_m1.jpg', 
+                 'photographer': 'Photo by Assadi, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_m1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_m1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1462', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_m2.jpg', 
+                 'photographer': 'Photo by Assadi, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_m2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_m2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j0.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j1.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=15&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_ue.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=16&ID=2081&what=species&TotRec=18', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364747917_94.134.48.132.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Joerg Vierke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364747917_94.134.48.132.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1364747917_94.134.48.132.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc_5727a.jpg&w=300', 
+                 'photographer': 'Photo by Claudio Michael Volckcer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc_5727a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__dsc_5727a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws11.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws11.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws11.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws12.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws2.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws5.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws6.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws7.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws7.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws7.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fws8.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ws8.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__ws8.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frhincodontypus.jpg&w=300', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rhincodontypus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__rhincodontypus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fr.typus.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/r.typus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__r.typus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1467783575_162.158.54.24.jpg&w=300', 
+                 'photographer': 'Photo by M. Vasantharajan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1467783575_162.158.54.24.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1467783575_162.158.54.24.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1467785659_162.158.54.23.jpg&w=300', 
+                 'photographer': 'Photo by G. Rajesh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1467785659_162.158.54.23.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1467785659_162.158.54.23.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487061616_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487061616_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1487061616_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487061926_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487061926_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1487061926_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487062289_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487062289_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1487062289_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487062451_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487062451_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1487062451_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357143380_58.153.223.250.jpg&w=300', 
+                 'photographer': 'Photo by Uncovery', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357143380_58.153.223.250.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1357143380_58.153.223.250.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357143414_58.153.223.250.jpg&w=300', 
+                 'photographer': 'Photo by Uncovery', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357143414_58.153.223.250.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1357143414_58.153.223.250.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhi_whale_shark.jpg&w=300', 
+                 'photographer': 'Photo by Hilario Itriago', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hi_whale_shark.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__hi_whale_shark.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368962492_39.44.15.241.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368962492_39.44.15.241.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1368962492_39.44.15.241.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368962506_39.44.15.241.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368962506_39.44.15.241.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1368962506_39.44.15.241.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368962515_39.44.15.241.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368962515_39.44.15.241.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1368962515_39.44.15.241.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410250076_118.103.236.195.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410250076_118.103.236.195.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1410250076_118.103.236.195.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410250290_118.103.236.195.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410250290_118.103.236.195.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1410250290_118.103.236.195.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frincodontypus.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rincodontypus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__rincodontypus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frhiniodontypus.jpg&w=300', 
+                 'photographer': 'Photo by Jose Apolin - Selacologia Peruana', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rhiniodontypus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__rhiniodontypus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frhincodon_typus_tub_phl.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rhincodon_typus_tub_phl.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__rhincodon_typus_tub_phl.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpicture5.jpg&w=300', 
+                 'photographer': 'Photo by Dalal Al-Abdulrazzak', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/picture5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__picture5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpicture6.jpg&w=300', 
+                 'photographer': 'Photo by Dalal Al-Abdulrazzak', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/picture6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__picture6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481551744_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481551744_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhincodon_typus__1481551744_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=48', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=48', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1475', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_ua.jpg', 
+                 'photographer': '    Photo by Saravanan, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2081&what=stamps', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u0.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2081&what=stamps&TotRec=5', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u2.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=2081&what=stamps&TotRec=5', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u3.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=2081&what=stamps&TotRec=5', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_u6.jpg', 
+                 'photographer': '    Photo by Fabres, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=2081&what=stamps&TotRec=5', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j2.jpg', 
+                 'photographer': '    Photo by Khan, M.M.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2081&what=larvegg', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j2.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_j3.jpg', 
+                 'photographer': '    Photo by Khan, M.M.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_j3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2081&what=larvegg&TotRec=2', 
+                 'img-name': 'Rhincodon_typus__Rhtyp_j3.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Smith, 1828', 
+ 'Max length': '2140 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Rhincodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 2081, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtyp_ud.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rhincodon typus', 
+             'id': 2081, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=2081'
+            }, 
+ 'Remark': 'Also Ref. 13571, 27550, 43278.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=2081'
+          }, 
+ 'eles-seq': 1084
+}

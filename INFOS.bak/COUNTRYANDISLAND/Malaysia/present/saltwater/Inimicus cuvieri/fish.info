@@ -1,0 +1,49 @@
+{
+ 'Common names': 
+                 [
+                  ' Demon stinger (English)', 
+                  ' Depu-kala lembing (Malay)', 
+                  ' Depu (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Incuv_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Incuv_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10637&what=species', 
+                 'img-name': 'Inimicus_cuvieri__Incuv_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Gray, 1835)', 
+ 'Max length': '24 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Synanceiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10637, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Incuv_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Inimicus cuvieri', 
+             'id': 10637, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10637'
+            }, 
+ 'Remark': 'Including Sarawak (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10637'
+          }, 
+ 'eles-seq': 614
+}

@@ -1,0 +1,289 @@
+{
+ 'Common names': 
+                 [
+                  ' Orangelined cardinalfish (English)', 
+                  ' Sebekah kelar jingga (Malay)', 
+                  ' Cardinalfish (English)', 
+                  ' Sebekah (Malay)', 
+                  ' Semangka (Malay)', 
+                  ' Seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5776&what=species', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u8.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u9.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_ua.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Arfuc_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arfuc_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=5776&what=species&TotRec=12', 
+                 'img-name': 'Taeniamia_fucata__Arfuc_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1468545710_141.101.104.30.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1468545710_141.101.104.30.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__1468545710_141.101.104.30.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357055366_94.194.222.178.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357055366_94.194.222.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__1357055366_94.194.222.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Farchamia_fucata.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/archamia_fucata.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__archamia_fucata.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361360858_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361360858_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__1361360858_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361360878_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361360878_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__1361360878_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0951.jpg&w=300', 
+                 'photographer': 'Photo by J.E. Thirkill', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0951.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__img_0951.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Forangelinedcardinalfish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/orangelinedcardinalfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_fucata__orangelinedcardinalfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_rn2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_rn2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1966-0126_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1977-0830_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1977-0830_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1990-0742_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i1990-0742_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1506', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1506', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2727', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2727', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cantor, 1849)', 
+ 'Max length': '10 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5776, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arfuc_u8.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Taeniamia fucata', 
+             'id': 5776, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5776'
+            }, 
+ 'Remark': 'Type locality: Pinang (Ref. 48635). Based on Photo by J.E. Randall.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5776'
+          }, 
+ 'eles-seq': 1256
+}

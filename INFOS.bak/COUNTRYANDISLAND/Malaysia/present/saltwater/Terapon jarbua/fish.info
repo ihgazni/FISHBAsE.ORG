@@ -1,0 +1,360 @@
+{
+ 'Common names': 
+                 [
+                  ' Jarbua terapon (English)', 
+                  ' Kerong jalur (Malay)', 
+                  ' Crescent perch (English)', 
+                  ' Croaker (English)', 
+                  ' Grunter (English)', 
+                  ' Small-scaled terapon (English)', 
+                  ' Tiger perch (English)', 
+                  ' Bagat (Malay)', 
+                  ' Gelama (Malay)', 
+                  ' Gendang-gendang (Malay)', 
+                  ' Kelong-kelong (Malay)', 
+                  ' Kerong-kerong (Malay)', 
+                  ' Kirong-kirong (Malay)', 
+                  ' Mengkerong (Malay)', 
+                  ' Rumpak (Malay)', 
+                  ' San gaa (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4458&what=species', 
+                 'img-name': 'Terapon_jarbua__Tejar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u0.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Tejar_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Tejar_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tejar_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=4458&what=species&TotRec=10', 
+                 'img-name': 'Terapon_jarbua__Tejar_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fterapon_jarbua.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/terapon_jarbua.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__terapon_jarbua.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fterajarbua.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/terajarbua.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__terajarbua.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487764477_162.158.155.112.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487764477_162.158.155.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1487764477_162.158.155.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365524167_182.178.44.237.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365524167_182.178.44.237.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1365524167_182.178.44.237.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410019512_39.50.164.105.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410019512_39.50.164.105.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1410019512_39.50.164.105.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410019548_39.50.164.105.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410019548_39.50.164.105.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1410019548_39.50.164.105.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430847013_39.50.204.235.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430847013_39.50.204.235.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1430847013_39.50.204.235.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430847060_39.50.204.235.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430847060_39.50.204.235.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1430847060_39.50.204.235.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476631220_162.158.30.12.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476631220_162.158.30.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1476631220_162.158.30.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355804056_182.52.96.78.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355804056_182.52.96.78.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1355804056_182.52.96.78.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369794299_182.52.96.191.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369794299_182.52.96.191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1369794299_182.52.96.191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486538004_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486538004_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1486538004_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_2575.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_2575.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__fb_2575.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_8833.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_8833.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__fb_8833.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1483986574_162.158.234.108.jpg&w=300', 
+                 'photographer': 'Photo by Pierre Benoey', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1483986574_162.158.234.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Terapon_jarbua__1483986574_162.158.234.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_4.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909_2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/0000-7909.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2202', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2202', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2222', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2222', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2914', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2914', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '36 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Terapontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4458, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tejar_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Terapon jarbua', 
+             'id': 4458, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4458'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).  Based on Photo by J.E. Randall. Sipadan Island (Ref. 28620).  Remark: and', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4458'
+          }, 
+ 'eles-seq': 1271
+}

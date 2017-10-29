@@ -1,0 +1,187 @@
+{
+ 'Common names': 
+                 [
+                  ' Ochre-striped cardinalfish (English)', 
+                  ' Sebekah jalur perang (Malay)', 
+                  ' Split-banded cardinalfish (English)', 
+                  ' Sebekah (Malay)', 
+                  ' Seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcom_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5769&what=species', 
+                 'img-name': 'Ostorhinchus_compressus__Apcom_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcom_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5769&what=species&TotRec=5', 
+                 'img-name': 'Ostorhinchus_compressus__Apcom_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcom_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5769&what=species&TotRec=5', 
+                 'img-name': 'Ostorhinchus_compressus__Apcom_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcom_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5769&what=species&TotRec=5', 
+                 'img-name': 'Ostorhinchus_compressus__Apcom_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcom_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5769&what=species&TotRec=5', 
+                 'img-name': 'Ostorhinchus_compressus__Apcom_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsplitbandedcardinalfish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/splitbandedcardinalfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__splitbandedcardinalfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsplitbandedcardinalfish2.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/splitbandedcardinalfish2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__splitbandedcardinalfish2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469519724_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469519724_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__1469519724_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1356941027_94.194.222.178.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1356941027_94.194.222.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__1356941027_94.194.222.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1356941108_94.194.222.178.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1356941108_94.194.222.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__1356941108_94.194.222.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1449933234_121.114.137.245.jpg&w=300', 
+                 'photographer': 'Photo by SHIINA Masato', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1449933234_121.114.137.245.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__1449933234_121.114.137.245.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fapcom.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/apcom.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__apcom.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399788775_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ronald DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399788775_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ostorhinchus_compressus__1399788775_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000081-3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000081-3.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Smith & Radcliffe, 1911)', 
+ 'Max length': '12 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5769, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcom_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ostorhinchus compressus', 
+             'id': 5769, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5769'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5769'
+          }, 
+ 'eles-seq': 828
+}

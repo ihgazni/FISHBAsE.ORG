@@ -1,0 +1,215 @@
+{
+ 'Common names': 
+                 [
+                  ' Sixbar wrasse (English)', 
+                  ' Nuri belang (Malay)', 
+                  ' Moon wrasse (English)', 
+                  ' Parrotfish (English)', 
+                  ' Six-banded wrasse (English)', 
+                  ' Wrasse (English)', 
+                  ' Bayan (Malay)', 
+                  ' Bechok (Malay)', 
+                  ' Ketarap (Malay)', 
+                  ' Nila-nila (Malay)', 
+                  ' Nuri (Malay)', 
+                  ' Tokak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thhar_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thhar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5643&what=species', 
+                 'img-name': 'Thalassoma_hardwicke__Thhar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2575', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thhar_u1.jpg', 
+                 'photographer': 'Photo by Du, J.-G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thhar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5643&what=species&TotRec=3', 
+                 'img-name': 'Thalassoma_hardwicke__Thhar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thhar_m0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thhar_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5643&what=species&TotRec=3', 
+                 'img-name': 'Thalassoma_hardwicke__Thhar_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1456403695_217.120.237.5.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1456403695_217.120.237.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1456403695_217.120.237.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1342576123_24.185.16.14.jpg&w=300', 
+                 'photographer': 'Photo by Paul Asman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1342576123_24.185.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1342576123_24.185.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthhar.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thhar.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__thhar.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthalassoma_hardwicke.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thalassoma_hardwicke.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__thalassoma_hardwicke.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthalassoma_hardwicke_2.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thalassoma_hardwicke_2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__thalassoma_hardwicke_2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361449633_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361449633_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1361449633_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361449684_86.28.236.182.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361449684_86.28.236.182.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1361449684_86.28.236.182.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390243513_77.101.36.94.jpg&w=300', 
+                 'photographer': 'Photo by Nicola Buckle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390243513_77.101.36.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1390243513_77.101.36.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430164143_95.242.249.217.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430164143_95.242.249.217.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1430164143_95.242.249.217.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1433881454_2.238.54.39.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1433881454_2.238.54.39.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1433881454_2.238.54.39.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1395615322_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1395615322_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thalassoma_hardwicke__1395615322_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/ia-9193-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/ia-9193-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/ia-9194-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/ia-9194-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/ia-9194-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00001/ia-9194-p1h.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bennett, 1830)', 
+ 'Max length': '20 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Labridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5643, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thhar_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thalassoma hardwicke', 
+             'id': 5643, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5643'
+            }, 
+ 'Remark': 'Also Ref. 4789.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5643'
+          }, 
+ 'eles-seq': 1277
+}

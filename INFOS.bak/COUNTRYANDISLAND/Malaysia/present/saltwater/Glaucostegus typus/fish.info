@@ -1,0 +1,115 @@
+{
+ 'Common names': 
+                 [
+                  ' Giant shovelnose ray (English)', 
+                  ' Pari-kemejan muncung pendek (Malay)', 
+                  ' Common shovelnose ray (English)', 
+                  ' Yu cemangi (Malay)', 
+                  ' Yu kemejan (Malay)', 
+                  ' Yu kia-kia (Malay)', 
+                  ' Yu pari (Malay)', 
+                  ' Yu pengajam (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gltyp_u0.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gltyp_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12577&what=species', 
+                 'img-name': 'Glaucostegus_typus__Gltyp_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rhtyp_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtyp_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12577&what=species&TotRec=2', 
+                 'img-name': 'Glaucostegus_typus__Rhtyp_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00564x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00564x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Glaucostegus_typus__dsc00564x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384240808_182.52.68.11.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Vachira SODOP', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384240808_182.52.68.11.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Glaucostegus_typus__1384240808_182.52.68.11.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384241834_182.52.68.11.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Vachira SODOP', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384241834_182.52.68.11.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Glaucostegus_typus__1384241834_182.52.68.11.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Anonymous [Bennett], 1830)', 
+ 'Max length': '260 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Rhinobatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12577, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gltyp_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Glaucostegus typus', 
+             'id': 12577, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12577'
+            }, 
+ 'Remark': 'Recorded during 1999-2004 study (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12577'
+          }, 
+ 'eles-seq': 491
+}

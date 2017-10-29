@@ -1,0 +1,431 @@
+{
+ 'Common names': 
+                 [
+                  ' Great hammerhead (English)', 
+                  ' Yu-tukul parang (Malay)', 
+                  ' Jerong tenggiri (Malay)', 
+                  ' Kad suar (Malay)', 
+                  ' Yu bengkong (Malay)', 
+                  ' Yu jerung (Malay)', 
+                  ' Yu mata jauh (Malay)', 
+                  ' Yu palang (Malay)', 
+                  ' Yu parang (Malay)', 
+                  ' Yu sambaran (Malay)', 
+                  ' Yu sanggul (Malay)', 
+                  ' Yu sanggul lintang (Malay)', 
+                  ' Yu tanduk (Malay)', 
+                  ' Yu tukul (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2202', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u6.jpg', 
+                 'photographer': 'Photo by Murch, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=914&what=species', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1831', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u5.jpg', 
+                 'photographer': 'Photo by NOAA\\NMFS\\Mississippi Laboratory', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=914&what=species&TotRec=6', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spmok_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=914&what=species&TotRec=6', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Spmok_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=914&what=species&TotRec=6', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=784', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u1.jpg', 
+                 'photographer': 'Photo by Windsor Nature Discovery', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=914&what=species&TotRec=6', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1071', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u3.jpg', 
+                 'photographer': 'Photo by Robertson, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=914&what=species&TotRec=6', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhammershark.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hammershark.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__hammershark.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1467392282_108.162.219.175.jpg&w=300', 
+                 'photographer': 'Photo by Epic Diving', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1467392282_108.162.219.175.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1467392282_108.162.219.175.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrna_mokarran.jpg&w=300', 
+                 'photographer': 'Photo by Sphyrna mokarran', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrna_mokarran.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrna_mokarran.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrna_mokarran1.jpg&w=300', 
+                 'photographer': 'Photo by Grupo Javeriano de Investigaci', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrna_mokarran1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrna_mokarran1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1337935555_118.173.81.101.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1337935555_118.173.81.101.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1337935555_118.173.81.101.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368942034_182.178.70.27.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368942034_182.178.70.27.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1368942034_182.178.70.27.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397920862_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397920862_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397920862_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397920907_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397920907_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397920907_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397920968_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397920968_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397920968_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921016_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921016_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921016_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921055_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921055_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921055_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921119_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921119_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921119_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921201_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921201_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921201_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921294_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921294_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921294_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397921403_39.44.168.185.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397921403_39.44.168.185.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__1397921403_39.44.168.185.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrnamokarran1.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrnamokarran1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrnamokarran1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrnamokarran2.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrnamokarran2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrnamokarran2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrnamokarran3.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrnamokarran3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrnamokarran3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsphyrnamokarran4.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sphyrnamokarran4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sphyrna_mokarran__sphyrnamokarran4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=988', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=988', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u0.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=914&what=stamps', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u2.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Spmok_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=914&what=stamps&TotRec=2', 
+                 'img-name': 'Sphyrna_mokarran__Spmok_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Rüppell, 1837)', 
+ 'Max length': '610 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Sphyrnidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 914, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Spmok_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sphyrna mokarran', 
+             'id': 914, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=914'
+            }, 
+ 'Remark': 'Also Ref. 244.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=914'
+          }, 
+ 'eles-seq': 1222
+}

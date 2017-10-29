@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ruexc_u0.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ruexc_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7988&what=species', 
+                 'img-name': 'Rudarius_excelsus__Ruexc_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Hutchins, 1977', 
+ 'Max length': '2.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Monacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7988, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ruexc_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rudarius excelsus', 
+             'id': 7988, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7988'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7988'
+          }, 
+ 'eles-seq': 1099
+}

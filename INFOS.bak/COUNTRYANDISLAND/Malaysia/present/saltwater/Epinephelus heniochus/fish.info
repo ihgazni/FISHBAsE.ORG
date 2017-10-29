@@ -1,0 +1,105 @@
+{
+ 'Common names': 
+                 [
+                  ' Bridled grouper (English)', 
+                  ' Kerapu kertas (Malay)', 
+                  ' Coral cod (English)', 
+                  ' Grouper (English)', 
+                  ' Reef cod (English)', 
+                  ' Seabass (English)', 
+                  ' Three-lined rock cod (English)', 
+                  ' Kerapu (Malay)', 
+                  ' Kertang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ephen_u1.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ephen_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7347&what=species', 
+                 'img-name': 'Epinephelus_heniochus__Ephen_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ephen_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ephen_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7347&what=species&TotRec=3', 
+                 'img-name': 'Epinephelus_heniochus__Ephen_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ephen_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ephen_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7347&what=species&TotRec=3', 
+                 'img-name': 'Epinephelus_heniochus__Ephen_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379924127_117.198.151.233.jpg&w=300', 
+                 'photographer': 'Photo by Sujatha Kandula and K.V.L. Shrikanya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379924127_117.198.151.233.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_heniochus__1379924127_117.198.151.233.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Fowler, 1904', 
+ 'Max length': '35 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7347, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ephen_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Epinephelus heniochus', 
+             'id': 7347, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7347'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7347'
+          }, 
+ 'eles-seq': 442
+}

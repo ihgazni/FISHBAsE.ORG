@@ -1,0 +1,63 @@
+{
+ 'Common names': 
+                 [
+                  ' Yellow-spotted skate (English)', 
+                  ' Pari-raja Belanda (Malay)', 
+                  ' Holland skate (English)', 
+                  ' Skate (English)', 
+                  ' Thorn-back ray (English)', 
+                  ' Pari (Malay)', 
+                  ' Pari belanda (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Okhol_u0.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Okhol_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4585&what=species', 
+                 'img-name': 'Okamejei_hollandi__Okhol_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480411165_172.68.107.103.jpg&w=300', 
+                 'photographer': 'Photo by Chaovalit Vitthayanoon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480411165_172.68.107.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Okamejei_hollandi__1480411165_172.68.107.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Jordan & Richardson, 1909)', 
+ 'Max length': '42 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Rajidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4585, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Okhol_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Okamejei hollandi', 
+             'id': 4585, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4585'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4585'
+          }, 
+ 'eles-seq': 809
+}

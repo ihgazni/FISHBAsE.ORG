@@ -1,0 +1,153 @@
+{
+ 'Common names': 
+                 [
+                  ' Crocodile fish (English)', 
+                  ' Baji karang (Malay)', 
+                  ' Giant flathead (English)', 
+                  ' Baji-baji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12826&what=species', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u2.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u4.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1909', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u5.jpg', 
+                 'photographer': 'Photo by Honeycutt, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=264', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u1.jpg', 
+                 'photographer': 'Photo by Kochzius, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_j0.jpg', 
+                 'photographer': 'Photo by Murdy, E.O./Ferraris, C.J., Jr.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u6.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u3.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=12826&what=species&TotRec=8', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcymbacephalus_beauforti_%2528crocodilefish%2529.jpg&w=300', 
+                 'photographer': 'Photo by Daryl Ho/SplashingTime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cymbacephalus_beauforti_%28crocodilefish%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cymbacephalus_beauforti__cymbacephalus_beauforti_%28crocodilefish%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1809', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1809', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_j0.jpg', 
+                 'photographer': '    Photo by Murdy, E.O./Ferraris, C.J., Jr.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cybea_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12826&what=larvegg', 
+                 'img-name': 'Cymbacephalus_beauforti__Cybea_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Knapp, 1973)', 
+ 'Max length': '50 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Platycephalidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12826, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cybea_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cymbacephalus beauforti', 
+             'id': 12826, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12826'
+            }, 
+ 'Remark': 'Northern tip of Borneo. Also Ref. 48635.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12826'
+          }, 
+ 'eles-seq': 344
+}

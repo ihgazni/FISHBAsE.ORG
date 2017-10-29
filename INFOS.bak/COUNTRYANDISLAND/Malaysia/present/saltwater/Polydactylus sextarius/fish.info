@@ -1,0 +1,140 @@
+{
+ 'Common names': 
+                 [
+                  ' Blackspot threadfin (English)', 
+                  ' Senangin buih tanda (Malay)', 
+                  ' Blackspot six-thread tasselfish (English)', 
+                  ' Tasselfish (English)', 
+                  ' Threadfin (English)', 
+                  ' Bee ngor (Malay)', 
+                  ' Benong (Malay)', 
+                  ' Gubal (Malay)', 
+                  ' Kurau (Malay)', 
+                  ' Kurau pipih (Malay)', 
+                  ' Lelaoh tanah (Malay)', 
+                  ' Lelauh tanda (Malay)', 
+                  ' Malong (Malay)', 
+                  ' Mancong (Malay)', 
+                  ' Senangin (Malay)', 
+                  ' Senangin buih (Malay)', 
+                  ' Senangin buis (Malay)', 
+                  ' Senohong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Posex_u3.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Posex_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4470&what=species', 
+                 'img-name': 'Polydactylus_sextarius__Posex_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Posex_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Posex_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4470&what=species&TotRec=4', 
+                 'img-name': 'Polydactylus_sextarius__Posex_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Posex_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Posex_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4470&what=species&TotRec=4', 
+                 'img-name': 'Polydactylus_sextarius__Posex_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Posex_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Posex_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4470&what=species&TotRec=4', 
+                 'img-name': 'Polydactylus_sextarius__Posex_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1405140748_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1405140748_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Polydactylus_sextarius__1405140748_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428767887_103.230.105.16.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428767887_103.230.105.16.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Polydactylus_sextarius__1428767887_103.230.105.16.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428768086_103.230.105.16.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428768086_103.230.105.16.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Polydactylus_sextarius__1428768086_103.230.105.16.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363284603_91.99.86.61.jpg&w=300', 
+                 'photographer': 'Photo by Milad Maniat', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363284603_91.99.86.61.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Polydactylus_sextarius__1363284603_91.99.86.61.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Polynemidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4470, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Posex_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Polydactylus sextarius', 
+             'id': 4470, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4470'
+            }, 
+ 'Remark': 'Known from western Malaysia (Ref. 9685).  Collected from the Kuala Kedah fish market; Pinang Island; and, Sarawak, Kalimantan (Ref. 40958).  Highly esteemed as a food fish in the country (Ref. 27550).  Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4470'
+          }, 
+ 'eles-seq': 971
+}

@@ -1,0 +1,361 @@
+{
+ 'Common names': 
+                 [
+                  ' Indian spiny turbot (English)', 
+                  ' Togok (Malay)', 
+                  ' Halibut (English)', 
+                  ' Indian halibut (English)', 
+                  ' Spiny turbot (English)', 
+                  ' Chor kau (Malay)', 
+                  ' Jaring (Malay)', 
+                  ' Kar kau (Malay)', 
+                  ' Lidah (Malay)', 
+                  ' Pila-pila (Malay)', 
+                  ' Sebelah (Malay)', 
+                  ' Sebelah jarring (Malay)', 
+                  ' Sisa nabi (Malay)', 
+                  ' Tipo (Malay)', 
+                  ' Togok sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1675', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u3.jpg', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=513&what=species', 
+                 'img-name': 'Psettodes_erumei__Pseru_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1675', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u4.jpg', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u0.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_b0.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_b0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_b0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_b1.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_b1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=513&what=species&TotRec=9', 
+                 'img-name': 'Psettodes_erumei__Pseru_b1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp.eru.jpg&w=300', 
+                 'photographer': 'Photo by K.V. Akhilesh & K.K. Bineesh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p.eru.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__p.eru.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404798141_210.212.251.114.jpg&w=300', 
+                 'photographer': 'Photo by R.saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404798141_210.212.251.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1404798141_210.212.251.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1493098015_162.158.167.122.jpg&w=300', 
+                 'photographer': 'Photo by Debasish Mahapatro and Subodh Kumar Karna', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1493098015_162.158.167.122.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1493098015_162.158.167.122.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1493198280_162.158.165.90.jpg&w=300', 
+                 'photographer': 'Photo by Debasish Mahapatro, Subodh Kumar Karna, Subhrendu Sekhar Mishra and S.K. Mohanty', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1493198280_162.158.165.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1493198280_162.158.165.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366280659_182.178.77.189.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366280659_182.178.77.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1366280659_182.178.77.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366562330_182.178.41.162.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366562330_182.178.41.162.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1366562330_182.178.41.162.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399181021_182.178.19.253.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399181021_182.178.19.253.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1399181021_182.178.19.253.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399181034_182.178.19.253.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399181034_182.178.19.253.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1399181034_182.178.19.253.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1408864806_39.44.32.222.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1408864806_39.44.32.222.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1408864806_39.44.32.222.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1408864829_39.44.67.50.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1408864829_39.44.67.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1408864829_39.44.67.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1408864870_39.44.67.50.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1408864870_39.44.67.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1408864870_39.44.67.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487997183_188.114.102.180.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487997183_188.114.102.180.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1487997183_188.114.102.180.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487997203_188.114.102.180.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487997203_188.114.102.180.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Psettodes_erumei__1487997203_188.114.102.180.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tSAfish151.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tSAfish151.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tSAfish152.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tSAfish152.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM28508.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM28508.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u2.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=513&what=stamps', 
+                 'img-name': 'Psettodes_erumei__Pseru_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=295', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_PhilomD0.jpg', 
+                 'photographer': '      Photo by Möller, H.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_PhilomD0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=513&pic=PhilomD0.jpg', 
+                 'img-name': 'Psettodes_erumei__tn_PhilomD0.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_l0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=513&what=larvegg', 
+                 'img-name': 'Psettodes_erumei__Pseru_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_l1.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_l1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=513&what=larvegg&TotRec=3', 
+                 'img-name': 'Psettodes_erumei__Pseru_l1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pseru_l2.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pseru_l2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=513&what=larvegg&TotRec=3', 
+                 'img-name': 'Psettodes_erumei__Pseru_l2.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '64  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Psettodidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 513, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pseru_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Psettodes erumei', 
+             'id': 513, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=513'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=513'
+          }, 
+ 'eles-seq': 1021
+}

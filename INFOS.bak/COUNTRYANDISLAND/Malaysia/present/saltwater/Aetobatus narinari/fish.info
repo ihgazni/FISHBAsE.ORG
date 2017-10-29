@@ -1,0 +1,607 @@
+{
+ 'Common names': 
+                 [
+                  ' Spotted eagle ray (English)', 
+                  ' Pari-lang bintik putih (Malay)', 
+                  ' Bonnet skate (English)', 
+                  ' Duckbil ray (English)', 
+                  ' Duckbill ray (English)', 
+                  ' Eagle ray (English)', 
+                  ' Lang spotted eagle ray (English)', 
+                  ' Spotted duckbilled ray (English)', 
+                  ' White-spotted eagle ray (English)', 
+                  ' Pari ayam (Malay)', 
+                  ' Pari helang (Malay)', 
+                  ' Pari lang (Malay)', 
+                  ' Pari lang lalat (Malay)', 
+                  ' Pari lung (Malay)', 
+                  ' Pari manok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u6.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1250&what=species', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u9.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u3.jpg', 
+                 'photographer': 'Photo by Bartlett, N.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=173', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u4.jpg', 
+                 'photographer': 'Photo by Venier, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=681', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u5.jpg', 
+                 'photographer': 'Photo by Béarez, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u7.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=998', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u8.jpg', 
+                 'photographer': 'Photo by Vaske Jr., T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=190', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Aenar_m0.gif', 
+                 'photographer': 'Photo by Figueiredo, J.L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Aenar_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1250&what=species&TotRec=10', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1495954602_162.158.230.28.jpg&w=300', 
+                 'photographer': 'Photo by Fernando Aldo Bulhoes Brandao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1495954602_162.158.230.28.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1495954602_162.158.230.28.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpb093015.jpg&w=300', 
+                 'photographer': 'Photo by Juan Diego Gaitan Espitia', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pb093015.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__pb093015.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343097937_24.185.16.14.jpg&w=300', 
+                 'photographer': 'Photo by Paul Asman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343097937_24.185.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1343097937_24.185.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343097990_24.185.16.14.jpg&w=300', 
+                 'photographer': 'Photo by Paul Asman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343097990_24.185.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1343097990_24.185.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484633390_162.158.50.66.jpg&w=300', 
+                 'photographer': 'Photo by Miriam Paul Sreeram, Sujit Sundaram & J. R. Dias', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484633390_162.158.50.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1484633390_162.158.50.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpa090085kopie4.jpg&w=300', 
+                 'photographer': 'Photo by De Voogt, S.A.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pa090085kopie4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__pa090085kopie4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482227100_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482227100_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1482227100_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1020415.jpg&w=300', 
+                 'photographer': 'Photo by Remco van Reeuwijk', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1020415.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__p1020415.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366562965_182.178.41.162.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366562965_182.178.41.162.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1366562965_182.178.41.162.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756205_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756205_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756205_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756250_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756250_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756250_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756270_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756270_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756270_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756286_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756286_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756286_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756301_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756301_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756301_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756339_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756339_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756339_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756354_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756354_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756354_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371756567_182.178.14.103.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371756567_182.178.14.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1371756567_182.178.14.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faetobatus_narinari_mahe2010_9375_ok_.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aetobatus_narinari_mahe2010_9375_ok_.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__aetobatus_narinari_mahe2010_9375_ok_.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faetobatus_narinari_praslin2010_8289_ok_.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aetobatus_narinari_praslin2010_8289_ok_.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__aetobatus_narinari_praslin2010_8289_ok_.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faetobatus_narinari_praslin2010_8291_v.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aetobatus_narinari_praslin2010_8291_v.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__aetobatus_narinari_praslin2010_8291_v.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faetobatus_narinari_stpierre2010_8353_ok__.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aetobatus_narinari_stpierre2010_8353_ok__.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__aetobatus_narinari_stpierre2010_8353_ok__.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faetobatus_narinari_stpierre2010_8354_ok__.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aetobatus_narinari_stpierre2010_8354_ok__.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__aetobatus_narinari_stpierre2010_8354_ok__.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_5701.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_5701.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__fb_5701.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_9589z.jpg&w=300', 
+                 'photographer': 'Photo by Christoph Hofinger', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_9589z.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__img_9589z.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469819877_141.101.92.168.jpg&w=300', 
+                 'photographer': 'Photo by Oswald Klingler', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469819877_141.101.92.168.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1469819877_141.101.92.168.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1485982189_108.162.212.253.jpg&w=300', 
+                 'photographer': 'Photo by Elizabeth Huey', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1485982189_108.162.212.253.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__1485982189_108.162.212.253.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpic_0383.jpg&w=300', 
+                 'photographer': 'Photo by Douglas R Miller', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pic_0383.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__pic_0383.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fangel1.jpg&w=300', 
+                 'photographer': 'Photo by Jim Newhard', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/angel1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__angel1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fanarinari.jpg&w=300', 
+                 'photographer': 'Photo by Rafael Tavares', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/anarinari.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__anarinari.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchuchopintadooriginal.jpg&w=300', 
+                 'photographer': 'Photo by Alejandro Tagliafico', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chuchopintadooriginal.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aetobatus_narinari__chuchopintadooriginal.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=989', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=989', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3076', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3076', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2669', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2669', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u0.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1250&what=stamps', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u2.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Aenar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1250&what=stamps&TotRec=2', 
+                 'img-name': 'Aetobatus_narinari__Aenar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Euphrasen, 1790)', 
+ 'Max length': '880 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Myliobatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1250, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Aenar_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Aetobatus narinari', 
+             'id': 1250, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1250'
+            }, 
+ 'Remark': 'Recorded during the 1994-2004 study (Ref. 53392).  Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1250'
+          }, 
+ 'eles-seq': 34
+}

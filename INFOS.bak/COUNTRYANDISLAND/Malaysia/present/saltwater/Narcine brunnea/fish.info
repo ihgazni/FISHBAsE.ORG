@@ -1,0 +1,65 @@
+{
+ 'Common names': 
+                 [
+                  ' Brown numbfish (English)', 
+                  ' Pari-karan perang (Malay)', 
+                  ' Brown electric ray (English)', 
+                  ' Electric ray (English)', 
+                  ' Numbfish (English)', 
+                  ' Pari karan (Malay)', 
+                  ' Pari kebas (Malay)', 
+                  ' Pari letrik (Malay)', 
+                  ' Pari serban (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2008', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nabru_u0.jpg', 
+                 'photographer': 'Photo by A. Biju Kumar', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nabru_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=15444&what=species', 
+                 'img-name': 'Narcine_brunnea__Nabru_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Nabru_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nabru_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=15444&what=species&TotRec=2', 
+                 'img-name': 'Narcine_brunnea__Nabru_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Annandale, 1909', 
+ 'Max length': '22 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Narcinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 15444, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nabru_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Narcine brunnea', 
+             'id': 15444, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15444'
+            }, 
+ 'Remark': 'Occurs in Selangor.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=15444'
+          }, 
+ 'eles-seq': 752
+}

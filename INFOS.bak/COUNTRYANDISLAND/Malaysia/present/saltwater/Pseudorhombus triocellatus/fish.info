@@ -1,0 +1,62 @@
+{
+ 'Common names': 
+                 [
+                  ' Three spotted flounder (English)', 
+                  ' Sebelah tritanda lawi tinggi (Malay)', 
+                  ' Flatfish (English)', 
+                  ' Flounder (English)', 
+                  ' Sebelah (Malay)', 
+                  ' Sisa Nabi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pstri_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pstri_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1377&what=species', 
+                 'img-name': 'Pseudorhombus_triocellatus__Pstri_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pstri_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pstri_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1377&what=species&TotRec=2', 
+                 'img-name': 'Pseudorhombus_triocellatus__Pstri_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '15 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Paralichthyidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1377, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pstri_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudorhombus triocellatus', 
+             'id': 1377, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1377'
+            }, 
+ 'Remark': 'Known from West Malaysia (Ref. 9774).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1377'
+          }, 
+ 'eles-seq': 1053
+}

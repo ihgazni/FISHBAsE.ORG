@@ -1,0 +1,116 @@
+{
+ 'Common names': 
+                 [
+                  ' Black blotch emperor (English)', 
+                  ' Landok gertah (Malay)', 
+                  ' Emperor (English)', 
+                  ' Finger-print emperor (English)', 
+                  ' Pigface bream (English)', 
+                  ' Reticulated emperor (English)', 
+                  ' Semicinctus emperor (English)', 
+                  ' Asuh-asuh (Malay)', 
+                  ' Dalu-dalu (Malay)', 
+                  ' Gertah (Malay)', 
+                  ' Kercing (Malay)', 
+                  ' Ketambak (Malay)', 
+                  ' Landok (Malay)', 
+                  ' Mempinang (Malay)', 
+                  ' Pelandok (Malay)', 
+                  ' Senoncing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lesem_u6.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lesem_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1849&what=species', 
+                 'img-name': 'Lethrinus_semicinctus__Lesem_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lesem_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lesem_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1849&what=species&TotRec=5', 
+                 'img-name': 'Lethrinus_semicinctus__Lesem_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lesem_u3.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lesem_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1849&what=species&TotRec=5', 
+                 'img-name': 'Lethrinus_semicinctus__Lesem_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Lesem_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lesem_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1849&what=species&TotRec=5', 
+                 'img-name': 'Lethrinus_semicinctus__Lesem_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lesem_u2.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lesem_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1849&what=species&TotRec=5', 
+                 'img-name': 'Lethrinus_semicinctus__Lesem_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480378731_162.158.59.229.jpg&w=300', 
+                 'photographer': 'Photo by  Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480378731_162.158.59.229.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_semicinctus__1480378731_162.158.59.229.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Valenciennes, 1830', 
+ 'Max length': '35 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lethrinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1849, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lesem_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lethrinus semicinctus', 
+             'id': 1849, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1849'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1849'
+          }, 
+ 'eles-seq': 676
+}

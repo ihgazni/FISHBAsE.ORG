@@ -1,0 +1,346 @@
+{
+ 'Common names': 
+                 [
+                  ' Snakefish (English)', 
+                  ' Mengkerong (Malay)', 
+                  ' Bluntnose lizardfish (English)', 
+                  ' Lizardfish (English)', 
+                  ' Belungkor (Malay)', 
+                  ' Chonor (Malay)', 
+                  ' Conor (Malay)', 
+                  ' Hai la (Malay)', 
+                  ' Mengkarong (Malay)', 
+                  ' Mudim (Malay)', 
+                  ' Mudin (Malay)', 
+                  ' Mudin-mudin (Malay)', 
+                  ' Pucung (Malay)', 
+                  ' Sonor (Malay)', 
+                  ' Ubi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1857', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u9.jpg', 
+                 'photographer': 'Photo by Sampaio, C.L.S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2724&what=species', 
+                 'img-name': 'Synodus_myops__Trmyo_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2081', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_ua.jpg', 
+                 'photographer': 'Photo by Malaer, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=268', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u1.jpg', 
+                 'photographer': 'Photo by Flescher, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u0.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=745', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u7.jpg', 
+                 'photographer': 'Photo by Walter, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u8.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Trmyo_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trmyo_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=2724&what=species&TotRec=12', 
+                 'img-name': 'Synodus_myops__Trmyo_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftrachinocephalusmyops.jpg&w=300', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/trachinocephalusmyops.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__trachinocephalusmyops.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1345286260_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by L Ranjith', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1345286260_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1345286260_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1362404707_124.124.120.94.jpg&w=300', 
+                 'photographer': 'Photo by Kudus Kadharsha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1362404707_124.124.120.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1362404707_124.124.120.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384844750_210.212.140.226.jpg&w=300', 
+                 'photographer': 'Photo by Swatipriyanka Sen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384844750_210.212.140.226.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1384844750_210.212.140.226.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00075.jpg&w=300', 
+                 'photographer': 'Photo by Jeffrey Seah', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00075.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__dsc00075.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flcfish.jpg&w=300', 
+                 'photographer': 'Photo by Jeffrey Seah', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lcfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__lcfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftrachinocephalusmyops02288p7090223.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/trachinocephalusmyops02288p7090223.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__trachinocephalusmyops02288p7090223.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364049327_182.178.68.210.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364049327_182.178.68.210.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1364049327_182.178.68.210.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428759491_39.44.217.34.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428759491_39.44.217.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1428759491_39.44.217.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428759574_39.44.204.218.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428759574_39.44.204.218.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1428759574_39.44.204.218.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1448610161_202.141.231.138.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1448610161_202.141.231.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1448610161_202.141.231.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488734853_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488734853_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1488734853_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488734875_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488734875_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1488734875_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367978358_182.52.96.221.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367978358_182.52.96.221.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1367978358_182.52.96.221.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486543698_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486543698_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synodus_myops__1486543698_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forster, 1801)', 
+ 'Max length': '40.8 FL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Synodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 2724, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trmyo_ua.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Synodus myops', 
+             'id': 2724, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=2724'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=2724'
+          }, 
+ 'eles-seq': 1253
+}

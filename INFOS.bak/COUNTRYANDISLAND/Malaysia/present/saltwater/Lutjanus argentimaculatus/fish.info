@@ -1,0 +1,458 @@
+{
+ 'Common names': 
+                 [
+                  ' Mangrove red snapper (English)', 
+                  ' Kakap merah (Malay)', 
+                  ' Grey snapper (English)', 
+                  ' Malabar red snapper (English)', 
+                  ' Mangrove jack (English)', 
+                  ' Mangrove snapper (English)', 
+                  ' Red snapper (English)', 
+                  ' Silver snapper (English)', 
+                  ' Silver-spotted grey snapper (English)', 
+                  ' Snapper (English)', 
+                  ' Ang choe (Malay)', 
+                  ' Ikan jenahak (Malay)', 
+                  ' Ikan merah (Malay)', 
+                  ' Ikan merah (Malay)', 
+                  ' Jambian (Malay)', 
+                  ' Jenahak (Malay)', 
+                  ' Jenahak temerah (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Merah bakau (Malay)', 
+                  ' Sendarat (Malay)', 
+                  ' Siakap merah (Malay)', 
+                  ' Siakap tengak (Malay)', 
+                  ' Tamaing (Malay)', 
+                  ' Ungar (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M, Fi, Aq, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_uh.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_uh.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1407&what=species', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_uh.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u5.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u2.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_uc.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u8.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luarg_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luarg_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_ue.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_u4.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_j0.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luarg_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_b1.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_b1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=1407&what=species&TotRec=16', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_b1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fredbass.jpg&w=300', 
+                 'photographer': 'Photo by Goh Chung Hun', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/redbass.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__redbass.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5243x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5243x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__img_5243x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1403446893_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1403446893_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1403446893_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmangrove-jack.jpg&w=300', 
+                 'photographer': 'Photo by www.gulliblestravels.co.uk', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/mangrove-jack.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__mangrove-jack.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341645091_117.231.161.98.jpg&w=300', 
+                 'photographer': 'Photo by Arunkumar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341645091_117.231.161.98.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1341645091_117.231.161.98.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484834754_162.158.166.151.jpg&w=300', 
+                 'photographer': 'Photo by GOVINDA RAO VELAMALA AND RAMESH BABU K', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484834754_162.158.166.151.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1484834754_162.158.166.151.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flutjanusargentimaculatus11c.jpg&w=300', 
+                 'photographer': 'Photo by Hiroyuki Tanaka, MD', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lutjanusargentimaculatus11c.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__lutjanusargentimaculatus11c.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flutjanusargentimaculatus40c.jpg&w=300', 
+                 'photographer': 'Photo by Hiroyuki Tanaka, MD', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lutjanusargentimaculatus40c.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__lutjanusargentimaculatus40c.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486642733_162.158.59.12.jpg&w=300', 
+                 'photographer': 'Photo by Shazaad Kasmani', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486642733_162.158.59.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1486642733_162.158.59.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1386861578_78.221.205.242.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1386861578_78.221.205.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1386861578_78.221.205.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscf3505.jpg&w=300', 
+                 'photographer': 'Photo by Nor', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscf3505.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__dscf3505.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366518973_182.178.98.245.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366518973_182.178.98.245.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1366518973_182.178.98.245.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366518986_182.178.98.245.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366518986_182.178.98.245.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1366518986_182.178.98.245.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flutjanus_argentimaculatus_and_phl_copy.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lutjanus_argentimaculatus_and_phl_copy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__lutjanus_argentimaculatus_and_phl_copy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdebsredsnappers.jpg&w=300', 
+                 'photographer': 'Photo by Gabriel Le Roux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/debsredsnappers.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__debsredsnappers.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355890582_182.52.97.28.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355890582_182.52.97.28.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1355890582_182.52.97.28.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355891122_182.52.97.28.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355891122_182.52.97.28.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_argentimaculatus__1355891122_182.52.97.28.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-8202-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-8202-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-8202-p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-8202-p1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2732', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2732', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_ua.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1407&what=stamps', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luarg_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luarg_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1407&what=larvegg', 
+                 'img-name': 'Lutjanus_argentimaculatus__Luarg_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '150 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1407, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luarg_uh.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lutjanus argentimaculatus', 
+             'id': 1407, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1407'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1407'
+          }, 
+ 'eles-seq': 688
+}

@@ -1,0 +1,141 @@
+{
+ 'Common names': 
+                 [
+                  ' Sailfin snapper (English)', 
+                  ' Kulambar ekor tompok (Malay)', 
+                  ' Bluelined sea bream (English)', 
+                  ' Snapper (English)', 
+                  ' Kunyit mamong (Malay)', 
+                  ' Kunyit remong (Malay)', 
+                  ' Remong (Malay)', 
+                  ' Timun (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_u5.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=214&what=species', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_j1.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=214&what=species&TotRec=6', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_j2.jpg', 
+                 'photographer': 'Photo by Steene, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_j2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=214&what=species&TotRec=6', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_j2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=164', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_j0.jpg', 
+                 'photographer': 'Photo by Yin, Robert', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=214&what=species&TotRec=6', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=214&what=species&TotRec=6', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_u0.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=214&what=species&TotRec=6', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368170793_114.155.226.67.jpg&w=300', 
+                 'photographer': 'Photo by Hiroyuki Tanaka, MD', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368170793_114.155.226.67.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Symphorichthys_spilurus__1368170793_114.155.226.67.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1483212870_188.114.110.36.jpg&w=300', 
+                 'photographer': 'Photo by José Luis Bello Arranz', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1483212870_188.114.110.36.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Symphorichthys_spilurus__1483212870_188.114.110.36.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_u1.jpg', 
+                 'photographer': '    Photo by Pauly, D.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=214&what=stamps', 
+                 'img-name': 'Symphorichthys_spilurus__Syspi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Günther, 1874)', 
+ 'Max length': '60 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 214, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspi_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Symphorichthys spilurus', 
+             'id': 214, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=214'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=214'
+          }, 
+ 'eles-seq': 1244
+}

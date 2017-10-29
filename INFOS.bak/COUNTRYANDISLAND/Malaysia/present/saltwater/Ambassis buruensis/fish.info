@@ -1,0 +1,61 @@
+{
+ 'Common names': 
+                 [
+                  ' Buru glass perchlet (English)', 
+                  ' Seriding buru (Malay)', 
+                  ' Buru glassfish (English)', 
+                  ' Pridin (Malay)', 
+                  ' Seriding putih (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=488', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ambur_u0.jpg', 
+                 'photographer': 'Photo by Krumme, U.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ambur_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=11783&what=species', 
+                 'img-name': 'Ambassis_buruensis__Ambur_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ambur_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ambur_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=11783&what=species&TotRec=2', 
+                 'img-name': 'Ambassis_buruensis__Ambur_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1856', 
+ 'Max length': '8.1999998092651 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ambassidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 11783, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ambur_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ambassis buruensis', 
+             'id': 11783, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=11783'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=11783'
+          }, 
+ 'eles-seq': 51
+}

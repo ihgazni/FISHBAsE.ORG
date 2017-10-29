@@ -1,0 +1,143 @@
+{
+ 'Common names': 
+                 [
+                  ' Goldbanded jobfish (English)', 
+                  ' Kerisi bali (Malay)', 
+                  " Day's jobfish (English)", 
+                  ' Jobfish (English)', 
+                  ' Sharptooth snapper (English)', 
+                  ' Biji nangka (Malay)', 
+                  ' Ibu kerisi (Malay)', 
+                  ' Ka la (Malay)', 
+                  ' Kerisi basi (Malay)', 
+                  ' Peh la (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmul_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmul_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=208&what=species', 
+                 'img-name': 'Pristipomoides_multidens__Prmul_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmul_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmul_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=208&what=species&TotRec=5', 
+                 'img-name': 'Pristipomoides_multidens__Prmul_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1379', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmul_u3.jpg', 
+                 'photographer': 'Photo by Sacristan, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmul_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=208&what=species&TotRec=5', 
+                 'img-name': 'Pristipomoides_multidens__Prmul_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Prmul_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmul_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=208&what=species&TotRec=5', 
+                 'img-name': 'Pristipomoides_multidens__Prmul_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Prmul_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmul_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=208&what=species&TotRec=5', 
+                 'img-name': 'Pristipomoides_multidens__Prmul_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgoldband_snapper.jpg&w=300', 
+                 'photographer': 'Photo by M H DEWANTO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/goldband_snapper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristipomoides_multidens__goldband_snapper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fyellow_line_goldband_snapper.jpg&w=300', 
+                 'photographer': 'Photo by Mahatma H D', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/yellow_line_goldband_snapper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristipomoides_multidens__yellow_line_goldband_snapper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_6775_s.jpg&w=300', 
+                 'photographer': 'Photo by Agustinus Sutandar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_6775_s.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristipomoides_multidens__img_6775_s.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F06022009036.jpg&w=300', 
+                 'photographer': 'Photo by Carmelo Sacristan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/06022009036.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristipomoides_multidens__06022009036.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Day, 1871)', 
+ 'Max length': '74 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 208, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmul_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pristipomoides multidens', 
+             'id': 208, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=208'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=208'
+          }, 
+ 'eles-seq': 1007
+}

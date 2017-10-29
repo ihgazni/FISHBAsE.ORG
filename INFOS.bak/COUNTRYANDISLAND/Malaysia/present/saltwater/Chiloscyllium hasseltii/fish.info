@@ -1,0 +1,132 @@
+{
+ 'Common names': 
+                 [
+                  " Hasselt's Bambooshark (English)", 
+                  ' Yu-cicak lampai (Malay)', 
+                  ' Catshark (English)', 
+                  ' Indonesian bamboo shark (English)', 
+                  ' Indonesian bambooshark (English)', 
+                  ' Kau suar (Malay)', 
+                  ' Yu bodoh (Malay)', 
+                  ' Yu cicak (Malay)', 
+                  ' Yu pasir (Malay)', 
+                  ' Yu tokeh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chhas_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chhas_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=54210&what=species', 
+                 'img-name': 'Chiloscyllium_hasseltii__Chhas_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chhas_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chhas_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=54210&what=species&TotRec=2', 
+                 'img-name': 'Chiloscyllium_hasseltii__Chhas_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516742_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA ans Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516742_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_hasseltii__1469516742_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516644_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516644_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_hasseltii__1469516644_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516572_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516572_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_hasseltii__1469516572_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469516517_162.158.166.10.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469516517_162.158.166.10.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_hasseltii__1469516517_162.158.166.10.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1438072558_118.172.205.34.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1438072558_118.172.205.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_hasseltii__1438072558_118.172.205.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chhas_j0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chhas_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=54210&what=larvegg', 
+                 'img-name': 'Chiloscyllium_hasseltii__Chhas_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1852', 
+ 'Max length': '61 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Hemiscylliidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 54210, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chhas_u2.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chiloscyllium hasseltii', 
+             'id': 54210, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=54210'
+            }, 
+ 'Remark': 'Also Ref. 43278.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=54210'
+          }, 
+ 'eles-seq': 276
+}

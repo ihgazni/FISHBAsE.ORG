@@ -1,0 +1,150 @@
+{
+ 'Common names': 
+                 [
+                  ' Mottled spinefoot (English)', 
+                  ' Dengkis turus (Malay)', 
+                  ' Rabbitfish (English)', 
+                  ' Spinefoot (English)', 
+                  ' Debam (Malay)', 
+                  ' Dengkis (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u1.jpg', 
+                 'photographer': 'Photo by Kuiter, R.H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4616&what=species', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u0.jpg', 
+                 'photographer': 'Photo by Kuiter, R.H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4616&what=species&TotRec=6', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u2.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4616&what=species&TotRec=6', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=949', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u4.jpg', 
+                 'photographer': 'Photo by Kesner-Reyes, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4616&what=species&TotRec=6', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u5.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4616&what=species&TotRec=6', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sifus_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4616&what=species&TotRec=6', 
+                 'img-name': 'Siganus_fuscescens__Sifus_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1424140943_121.180.174.129.jpg&w=300', 
+                 'photographer': 'Photo by Jung-Goo, MYOUNG', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1424140943_121.180.174.129.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_fuscescens__1424140943_121.180.174.129.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsiganusfuscescens022533p7090050.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/siganusfuscescens022533p7090050.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_fuscescens__siganusfuscescens022533p7090050.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374484320_123.24.190.219.jpg&w=300', 
+                 'photographer': 'Photo by Nguyen Dinh Tao, IEBR, Vietnam', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374484320_123.24.190.219.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_fuscescens__1374484320_123.24.190.219.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sifus_l0.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sifus_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4616&what=larvegg', 
+                 'img-name': 'Siganus_fuscescens__Sifus_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Houttuyn, 1782)', 
+ 'Max length': '40 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Siganidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4616, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sifus_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Siganus fuscescens', 
+             'id': 4616, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4616'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4616'
+          }, 
+ 'eles-seq': 1188
+}

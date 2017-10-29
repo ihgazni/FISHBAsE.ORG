@@ -1,0 +1,61 @@
+{
+ 'Common names': 
+                 [
+                  ' White cardinalfish (English)', 
+                  ' Sebekah ekor tanda (Malay)', 
+                  ' Cardinalfish (English)', 
+                  ' Sebekah (Malay)', 
+                  ' seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1677', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcav_u1.jpg', 
+                 'photographer': 'Photo by Bos, A.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcav_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25109&what=species', 
+                 'img-name': 'Ostorhinchus_cavitensis__Apcav_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcav_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apcav_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=25109&what=species&TotRec=2', 
+                 'img-name': 'Ostorhinchus_cavitensis__Apcav_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Jordan & Seale, 1907)', 
+ 'Max length': '7.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25109, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apcav_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ostorhinchus cavitensis', 
+             'id': 25109, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25109'
+            }, 
+ 'Remark': 'Five specimens collected in 18 m depth near Kota Kinabalu, Sabah in 1992. Also Ref. 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25109'
+          }, 
+ 'eles-seq': 825
+}

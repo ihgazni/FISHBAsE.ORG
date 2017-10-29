@@ -1,0 +1,190 @@
+{
+ 'Common names': 
+                 [
+                  ' Pacific yellowtail emperor (English)', 
+                  ' Landok ekor kuning (Malay)', 
+                  ' Yellow-tailed emperor (English)', 
+                  ' Ketambak (Malay)', 
+                  ' Landok (Malay)', 
+                  ' Mempinang (Malay)', 
+                  ' Pelandok (Malay)', 
+                  ' Senoncing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u6.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1854&what=species', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=547', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_j2.jpg', 
+                 'photographer': 'Photo by Wilson, G.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_j2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_j2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=547', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_j1.jpg', 
+                 'photographer': 'Photo by Wilson, G.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u3.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u4.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u5.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=547', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_j0.jpg', 
+                 'photographer': 'Photo by Wilson, G.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u0.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1854&what=species&TotRec=10', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp8270007.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p8270007.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_atkinsoni__p8270007.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1458192753_180.254.191.62.jpg&w=300', 
+                 'photographer': 'Photo by maya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1458192753_180.254.191.62.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_atkinsoni__1458192753_180.254.191.62.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0773_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0773_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=547', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_j0.jpg', 
+                 'photographer': '    Photo by Wilson, G.G.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leatk_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1854&what=larvegg', 
+                 'img-name': 'Lethrinus_atkinsoni__Leatk_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Seale, 1910', 
+ 'Max length': '50 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lethrinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1854, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leatk_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lethrinus atkinsoni', 
+             'id': 1854, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1854'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1854'
+          }, 
+ 'eles-seq': 663
+}

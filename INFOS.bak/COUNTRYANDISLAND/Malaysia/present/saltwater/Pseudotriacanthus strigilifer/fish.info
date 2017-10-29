@@ -1,0 +1,144 @@
+{
+ 'Common names': 
+                 [
+                  ' Long-spined tripodfish (English)', 
+                  ' Lembu spina (Malay)', 
+                  ' Triplespine fish (English)', 
+                  ' Tripodfish (English)', 
+                  ' Barat-barat (Malay)', 
+                  ' Cagak langit (Malay)', 
+                  ' Ikan helicopter (Malay)', 
+                  ' Ikan lembu (Malay)', 
+                  ' Reke (Malay)', 
+                  ' Sereka (Malay)', 
+                  ' Tunjak langit (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psstr_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psstr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8191&what=species', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__Psstr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psstr_u3.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psstr_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8191&what=species&TotRec=5', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__Psstr_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psstr_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psstr_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8191&what=species&TotRec=5', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__Psstr_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psstr_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psstr_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8191&what=species&TotRec=5', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__Psstr_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Psstr_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psstr_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=8191&what=species&TotRec=5', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__Psstr_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365338977_182.178.43.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365338977_182.178.43.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__1365338977_182.178.43.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436591140_39.33.205.223.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436591140_39.33.205.223.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__1436591140_39.33.205.223.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436591170_39.57.120.50.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436591170_39.57.120.50.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__1436591170_39.57.120.50.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1492860974_162.158.165.204.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1492860974_162.158.165.204.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pseudotriacanthus_strigilifer__1492860974_162.158.165.204.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cantor, 1849)', 
+ 'Max length': '25 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Triacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8191, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psstr_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudotriacanthus strigilifer', 
+             'id': 8191, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8191'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8191'
+          }, 
+ 'eles-seq': 1054
+}

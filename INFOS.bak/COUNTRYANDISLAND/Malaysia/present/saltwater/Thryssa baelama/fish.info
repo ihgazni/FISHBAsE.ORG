@@ -1,0 +1,141 @@
+{
+ 'Common names': 
+                 [
+                  ' Baelama anchovy (English)', 
+                  ' Kasai lampai (Malay)', 
+                  ' Short-jawed anchovy (English)', 
+                  ' Thryssa (English)', 
+                  ' Bakok (Malay)', 
+                  ' Bakok daun (Malay)', 
+                  ' Bakok minyak (Malay)', 
+                  ' Bangkok (Malay)', 
+                  ' Besin (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Dadji (Malay)', 
+                  ' Dagi (Malay)', 
+                  ' Empirang (Malay)', 
+                  ' Jemedi (Malay)', 
+                  ' Kasai (Malay)', 
+                  ' Kasai minyak (Malay)', 
+                  ' Kasi-kasi (Malay)', 
+                  ' Mempinis (Malay)', 
+                  ' Pirang (Malay)', 
+                  " Ta'agi (Brunei) (Malay)"
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=582&what=species', 
+                 'img-name': 'Thryssa_baelama__Thbae_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thbae_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thbae_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=582&what=species&TotRec=7', 
+                 'img-name': 'Thryssa_baelama__Thbae_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-1233-p1h.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-1233-p1h.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-1233-p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00002/i0000-1233-p1m.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '16 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 582, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thbae_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thryssa baelama', 
+             'id': 582, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=582'
+            }, 
+ 'Remark': 'Also Ref. 27550.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=582'
+          }, 
+ 'eles-seq': 1285
+}

@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2486', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eujon_u1.jpg', 
+                 'photographer': 'Photo by Wiadnya, D.G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eujon_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=63865&what=species', 
+                 'img-name': 'Eubleekeria_jonesi__Eujon_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2486', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eujon_u2.jpg', 
+                 'photographer': 'Photo by Wiadnya, D.G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Eujon_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=63865&what=species&TotRec=2', 
+                 'img-name': 'Eubleekeria_jonesi__Eujon_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374641527_202.185.32.3.jpg&w=300', 
+                 'photographer': 'Photo by Lukman Hakim', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374641527_202.185.32.3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Eubleekeria_jonesi__1374641527_202.185.32.3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486544942_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486544942_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Eubleekeria_jonesi__1486544942_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(James, 1971)', 
+ 'Max length': '13.9 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Leiognathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 63865, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Eujon_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Eubleekeria jonesi', 
+             'id': 63865, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=63865'
+            }, 
+ 'Remark': 'Known from Penang, Sabah (Kota Kinabalu and Sandakan), and off Sarawaku (Ref. 75583).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=63865'
+          }, 
+ 'eles-seq': 460
+}

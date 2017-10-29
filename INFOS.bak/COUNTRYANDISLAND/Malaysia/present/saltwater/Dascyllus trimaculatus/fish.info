@@ -1,0 +1,371 @@
+{
+ 'Common names': 
+                 [
+                  ' Threespot dascyllus (English)', 
+                  ' Gombing-karang tanda putih (Malay)', 
+                  ' Damsel fish (English)', 
+                  ' Gombing (Malay)', 
+                  ' Kepal batu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=264', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u6.jpg', 
+                 'photographer': 'Photo by Kochzius, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5112&what=species', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u7.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amseb_j0.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amseb_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Amseb_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u2.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u0.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Datri_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Datri_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u8.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Datri_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=5112&what=species&TotRec=12', 
+                 'img-name': 'Dascyllus_trimaculatus__Datri_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384249169_210.212.251.114.jpg&w=300', 
+                 'photographer': 'Photo by R.Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384249169_210.212.251.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__1384249169_210.212.251.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469547942_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469547942_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__1469547942_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1ed.jpg&w=300', 
+                 'photographer': 'Photo by Marzieh Khajkeramaldini', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1ed.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__1ed.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ft.jpg&w=300', 
+                 'photographer': 'Photo by Parviz Tavakoli Kolour', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/t.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__t.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1424019857_86.205.193.183.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Claude Jamoulle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1424019857_86.205.193.183.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__1424019857_86.205.193.183.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdatri1go.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/datri1go.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__datri1go.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdatri2go.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/datri2go.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__datri2go.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdatrijrs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/datrijrs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__datrijrs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdatrirs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/datrirs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__datrirs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1452749107_94.198.18.55.jpg&w=300', 
+                 'photographer': 'Photo by Markevich A.I.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1452749107_94.198.18.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__1452749107_94.198.18.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_9444.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_9444.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__fb_9444.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_9434.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_9434.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dascyllus_trimaculatus__fb_9434.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000402-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00064/ce-000402-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1827', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1827', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1823', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1823', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1824', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1824', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1825', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1825', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1826', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1826', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2813', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2813', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD2.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=5112&pic=TurbidD2.jpg', 
+                 'img-name': 'Dascyllus_trimaculatus__tn_TurbidD2.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD3.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=5112&pic=TurbidD3.jpg', 
+                 'img-name': 'Dascyllus_trimaculatus__tn_TurbidD3.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD4.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_TurbidD4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=5112&pic=TurbidD4.jpg', 
+                 'img-name': 'Dascyllus_trimaculatus__tn_TurbidD4.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Rüppell, 1829)', 
+ 'Max length': '13.8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5112, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Datri_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Dascyllus trimaculatus', 
+             'id': 5112, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5112'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5112'
+          }, 
+ 'eles-seq': 361
+}

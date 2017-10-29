@@ -1,0 +1,350 @@
+{
+ 'Common names': 
+                 [
+                  ' Almaco jack (English)', 
+                  ' Aji-aji kuning (Malay)', 
+                  ' Amberjack (English)', 
+                  ' Yellow kingfish (English)', 
+                  ' Aji-aji (Malay)', 
+                  ' Cermin (Malay)', 
+                  ' Chermin (Malay)', 
+                  ' Pisang-pisang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1007&what=species', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u6.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u9.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_ua.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=741', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u7.jpg', 
+                 'photographer': 'Photo by Duarte, L.O.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_m0.jpg', 
+                 'photographer': 'Photo by Freitas, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_j1.jpg', 
+                 'photographer': 'Photo by Freitas, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=318', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_j0.jpg', 
+                 'photographer': "Photo by O'Donnell, P.", 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_u5.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seriv_j0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seriv_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seriv_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=1007&what=species&TotRec=15', 
+                 'img-name': 'Seriola_rivoliana__Seriv_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1447956463_177.32.120.179.jpg&w=300', 
+                 'photographer': 'Photo by Fernando Mistrorigo de Almeida', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1447956463_177.32.120.179.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1447956463_177.32.120.179.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391522328_190.6.89.97.jpg&w=300', 
+                 'photographer': 'Photo by Joan Hernadez Albernas', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391522328_190.6.89.97.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1391522328_190.6.89.97.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366264258_182.178.77.189.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366264258_182.178.77.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1366264258_182.178.77.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366304615_119.73.65.75.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366304615_119.73.65.75.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1366304615_119.73.65.75.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367490385_39.48.178.157.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367490385_39.48.178.157.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1367490385_39.48.178.157.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fseroilarivoliana.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/seroilarivoliana.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__seroilarivoliana.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1016712.jpg&w=300', 
+                 'photographer': 'Photo by Vasco M. P. Ferreira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1016712.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__p1016712.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fs_rivoliana.jpg&w=300', 
+                 'photographer': 'Photo by S. Vieira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/s_rivoliana.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__s_rivoliana.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fseriolarivoliana.jpg&w=300', 
+                 'photographer': 'Photo by Javier Roo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/seriolarivoliana.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__seriolarivoliana.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341436779_173.18.133.21.jpg&w=300', 
+                 'photographer': 'Photo by Carol Cox', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341436779_173.18.133.21.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Seriola_rivoliana__1341436779_173.18.133.21.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_j1.jpg', 
+                 'photographer': '    Photo by Freitas, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1007&what=larvegg', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=318', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_j0.jpg', 
+                 'photographer': "    Photo by O'Donnell, P.  ", 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1007&what=larvegg&TotRec=3', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seriv_j0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seriv_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1007&what=larvegg&TotRec=3', 
+                 'img-name': 'Seriola_rivoliana__Seriv_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Valenciennes, 1833', 
+ 'Max length': '160  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Carangidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1007, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seriv_ua.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Seriola rivoliana', 
+             'id': 1007, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1007'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1007'
+          }, 
+ 'eles-seq': 1179
+}

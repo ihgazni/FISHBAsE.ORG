@@ -1,0 +1,273 @@
+{
+ 'Common names': 
+                 [
+                  ' Ornate emperor (English)', 
+                  ' Landok jalur jingga (Malay)', 
+                  ' Red-snout emperor (English)', 
+                  ' Reticulated pig-face bream (English)', 
+                  ' Andopeng (Bajau) (Malay)', 
+                  ' Asuh-asuh (Malay)', 
+                  ' Dalu-dalu (Malay)', 
+                  ' Gertah (Malay)', 
+                  ' Kercing (Malay)', 
+                  ' Ketambak (Malay)', 
+                  ' Landok (Malay)', 
+                  ' Mempinang (Malay)', 
+                  ' Pelandok (Malay)', 
+                  ' Senoncing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u5.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1866&what=species', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=547', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_j0.jpg', 
+                 'photographer': 'Photo by Wilson, G.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=904', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u4.jpg', 
+                 'photographer': 'Photo by Hofinger, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Leorn_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u1.jpg', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leorn_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1866&what=species&TotRec=8', 
+                 'img-name': 'Lethrinus_ornatus__Leorn_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1426686312_116.58.205.154.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1426686312_116.58.205.154.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1426686312_116.58.205.154.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1429691491_103.230.104.22.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1429691491_103.230.104.22.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1429691491_103.230.104.22.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1429693185_202.4.173.51.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1429693185_202.4.173.51.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1429693185_202.4.173.51.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1385122368_210.212.251.114.jpg&w=300', 
+                 'photographer': 'Photo by R.Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1385122368_210.212.251.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1385122368_210.212.251.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469028214_162.158.54.24.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469028214_162.158.54.24.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1469028214_162.158.54.24.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1458192012_180.254.191.62.jpg&w=300', 
+                 'photographer': 'Photo by maya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1458192012_180.254.191.62.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1458192012_180.254.191.62.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fornateemperor.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ornateemperor.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__ornateemperor.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flethrinus_ornatus.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lethrinus_ornatus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__lethrinus_ornatus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1361886758_82.20.1.24.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1361886758_82.20.1.24.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1361886758_82.20.1.24.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fleorn.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/leorn.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__leorn.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486628289_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang (Andaman Coastal Research Station for Development, Faculty of Fisheries, Kasetsart University)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486628289_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1486628289_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486628840_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang (Andaman Coastal Research Station for Development, Faculty of Fisheries, Kasetsart University)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486628840_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lethrinus_ornatus__1486628840_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2219', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2219', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Valenciennes, 1830', 
+ 'Max length': '45 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lethrinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1866, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leorn_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lethrinus ornatus', 
+             'id': 1866, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1866'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1866'
+          }, 
+ 'eles-seq': 673
+}

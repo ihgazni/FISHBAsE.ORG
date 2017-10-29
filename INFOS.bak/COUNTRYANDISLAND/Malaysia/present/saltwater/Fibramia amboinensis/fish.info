@@ -1,0 +1,64 @@
+{
+ 'Common names': 
+                 [
+                  ' Amboina cardinalfish (English)', 
+                  ' Sebekah Ambon (Malay)', 
+                  ' Seriding (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=691', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apamb_u0.jpg', 
+                 'photographer': 'Photo by Pöllabauer, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apamb_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7848&what=species', 
+                 'img-name': 'Fibramia_amboinensis__Apamb_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2435', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apamb_u1.jpg', 
+                 'photographer': 'Photo by Suzuki, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apamb_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7848&what=species&TotRec=2', 
+                 'img-name': 'Fibramia_amboinensis__Apamb_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i2000-1277_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00033/i2000-1277_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1853)', 
+ 'Max length': '6 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7848, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apamb_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Fibramia amboinensis', 
+             'id': 7848, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7848'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7848'
+          }, 
+ 'eles-seq': 471
+}

@@ -1,0 +1,183 @@
+{
+ 'Common names': 
+                 [
+                  ' Silver pomfret (English)', 
+                  ' Bawal putih (Malay)', 
+                  ' Butterfish (English)', 
+                  ' Pomfret (English)', 
+                  ' White pomfret (English)', 
+                  ' Bawal bintang (Malay)', 
+                  ' Bawal cermin (Malay)', 
+                  ' Bawal chawi (Malay)', 
+                  ' Bawal lawi (Malay)', 
+                  ' Bawal puteh (Malay)', 
+                  ' Dorang (Malay)', 
+                  ' Dueh bujang (Malay)', 
+                  ' Dueh putih (Malay)', 
+                  ' Gapas balanda (Malay)', 
+                  ' Kilat (Malay)', 
+                  ' Pek cheow (Malay)', 
+                  ' Rayah-rayah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=491&what=species', 
+                 'img-name': 'Pampus_argenteus__Paarg_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1714', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u4.jpg', 
+                 'photographer': 'Photo by Rahman, A.K.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=491&what=species&TotRec=6', 
+                 'img-name': 'Pampus_argenteus__Paarg_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1917', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pacin_u1.jpg', 
+                 'photographer': 'Photo by Liu, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pacin_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=491&what=species&TotRec=6', 
+                 'img-name': 'Pampus_argenteus__Pacin_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=491&what=species&TotRec=6', 
+                 'img-name': 'Pampus_argenteus__Paarg_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=491&what=species&TotRec=6', 
+                 'img-name': 'Pampus_argenteus__Paarg_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Paarg_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=491&what=species&TotRec=6', 
+                 'img-name': 'Pampus_argenteus__Paarg_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363288508_188.245.125.97.jpg&w=300', 
+                 'photographer': 'Photo by Milad Maniat & Ali Saghaei', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363288508_188.245.125.97.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_argenteus__1363288508_188.245.125.97.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366279441_182.178.77.189.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366279441_182.178.77.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_argenteus__1366279441_182.178.77.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366993874_182.178.16.188.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366993874_182.178.16.188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pampus_argenteus__1366993874_182.178.16.188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u5.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=491&what=stamps', 
+                 'img-name': 'Pampus_argenteus__Paarg_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u3.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paarg_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=491&what=stamps&TotRec=3', 
+                 'img-name': 'Pampus_argenteus__Paarg_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1029', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pacin_u0.jpg', 
+                 'photographer': '    Photo by Bhathal, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pacin_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=491&what=stamps&TotRec=3', 
+                 'img-name': 'Pampus_argenteus__Pacin_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Euphrasen, 1788)', 
+ 'Max length': '60 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Stromateidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 491, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paarg_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pampus argenteus', 
+             'id': 491, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=491'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=491'
+          }, 
+ 'eles-seq': 855
+}

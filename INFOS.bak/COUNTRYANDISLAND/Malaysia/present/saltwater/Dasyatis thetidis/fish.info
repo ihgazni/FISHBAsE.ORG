@@ -1,0 +1,162 @@
+{
+ 'Common names': 
+                 [
+                  ' Thorntail stingray (English)', 
+                  ' Pari ekor duri (Malay)', 
+                  ' Black skate (English)', 
+                  ' Black stingray (English)', 
+                  ' Longtail stingray (English)', 
+                  ' Thorn stingray (English)', 
+                  ' Pari duri (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dathe_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dathe_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7954&what=species', 
+                 'img-name': 'Dasyatis_thetidis__Dathe_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dathe_m0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dathe_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7954&what=species&TotRec=2', 
+                 'img-name': 'Dasyatis_thetidis__Dathe_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1340785325_89.244.82.18.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Joerg Vierke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1340785325_89.244.82.18.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1340785325_89.244.82.18.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1340785359_89.244.82.18.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Joerg Vierke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1340785359_89.244.82.18.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1340785359_89.244.82.18.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363647_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363647_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363647_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363741_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363741_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363741_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363808_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363808_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363808_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363863_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363863_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363863_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363930_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363930_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363930_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378363984_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378363984_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378363984_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378364092_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378364092_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Dasyatis_thetidis__1378364092_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Ogilby, 1899', 
+ 'Max length': '400 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7954, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dathe_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Dasyatis thetidis', 
+             'id': 7954, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7954'
+            }, 
+ 'Remark': 'Recorded during 1999-2004 study (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7954'
+          }, 
+ 'eles-seq': 365
+}

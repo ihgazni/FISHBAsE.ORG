@@ -1,0 +1,65 @@
+{
+ 'Common names': 
+                 [
+                  " Quoy's garfish (English)", 
+                  ' Jolong kuala (Malay)', 
+                  ' Garfish (English)', 
+                  ' Halfbeak (English)', 
+                  ' Quoy’s halfbeak (English)', 
+                  ' Jolong-jolong (Malay)', 
+                  ' Sembir (Malay)', 
+                  ' Surih palang (Malay)', 
+                  ' Todak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1102', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hyquo_u0.jpg', 
+                 'photographer': 'Photo by Hippocampus-Bildarchiv', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hyquo_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8262&what=species', 
+                 'img-name': 'Hyporhamphus_quoyi__Hyquo_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hyquo_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hyquo_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8262&what=species&TotRec=2', 
+                 'img-name': 'Hyporhamphus_quoyi__Hyquo_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1847)', 
+ 'Max length': '31.2 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Hemiramphidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8262, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hyquo_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hyporhamphus quoyi', 
+             'id': 8262, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8262'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8262'
+          }, 
+ 'eles-seq': 602
+}

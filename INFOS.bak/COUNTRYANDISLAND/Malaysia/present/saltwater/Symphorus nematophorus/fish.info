@@ -1,0 +1,120 @@
+{
+ 'Common names': 
+                 [
+                  ' Chinamanfish (English)', 
+                  ' Kulambar Cina (Malay)', 
+                  ' Snapper (English)', 
+                  ' Biji nangka (Malay)', 
+                  ' Kunyit mamong (Malay)', 
+                  ' Kunyit remong (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Remong (Malay)', 
+                  ' Tanda jalur (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Synem_u3.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Synem_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=215&what=species', 
+                 'img-name': 'Symphorus_nematophorus__Synem_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Synem_u1.jpg', 
+                 'photographer': 'Photo by Murdy, E.O./Ferraris, C.J., Jr.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Synem_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=215&what=species&TotRec=4', 
+                 'img-name': 'Symphorus_nematophorus__Synem_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Synem_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Synem_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=215&what=species&TotRec=4', 
+                 'img-name': 'Symphorus_nematophorus__Synem_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Synem_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Synem_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=215&what=species&TotRec=4', 
+                 'img-name': 'Symphorus_nematophorus__Synem_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwebtitledpicchinaman.jpg&w=300', 
+                 'photographer': 'Photo by Captain Asparagus', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/webtitledpicchinaman.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Symphorus_nematophorus__webtitledpicchinaman.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384745799_124.179.229.202.jpg&w=300', 
+                 'photographer': 'Photo by marcel Vandergoot', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384745799_124.179.229.202.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Symphorus_nematophorus__1384745799_124.179.229.202.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374701420_83.89.41.145.jpg&w=300', 
+                 'photographer': 'Photo by Peter Rask M', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374701420_83.89.41.145.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Symphorus_nematophorus__1374701420_83.89.41.145.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1860)', 
+ 'Max length': '100 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 215, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Synem_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Symphorus nematophorus', 
+             'id': 215, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=215'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=215'
+          }, 
+ 'eles-seq': 1245
+}

@@ -1,0 +1,218 @@
+{
+ 'Common names': 
+                 [
+                  ' Melon butterflyfish (English)', 
+                  ' Bagang semangka (Malay)', 
+                  ' Redfin butterflyfish (English)', 
+                  ' Three-banded coralfish (English)', 
+                  ' Bagang (Malay)', 
+                  ' Kitang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=810', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_ur.jpg', 
+                 'photographer': 'Photo by Tomeno, V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_ur.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5579&what=species', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_ur.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_ut.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_ut.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5579&what=species&TotRec=4', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_ut.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_uc.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5579&what=species&TotRec=4', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_u3.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5579&what=species&TotRec=4', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftrifasciatus0030.jpg&w=300', 
+                 'photographer': 'Photo by Francesco Ricciardi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/trifasciatus0030.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__trifasciatus0030.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1492969197_108.162.216.108.jpg&w=300', 
+                 'photographer': 'Photo by CAROL D COX', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1492969197_108.162.216.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__1492969197_108.162.216.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchtrif1.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chtrif1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__chtrif1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchtrif2.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chtrif2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__chtrif2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchaetodon_trifasciatus.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/chaetodon_trifasciatus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__chaetodon_trifasciatus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbutterflyfishmelon.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/butterflyfishmelon.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__butterflyfishmelon.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1473578737_162.158.165.25.jpg&w=300', 
+                 'photographer': 'Photo by Lorraine Brennan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1473578737_162.158.165.25.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__1473578737_162.158.165.25.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0033_copy.jpg&w=300', 
+                 'photographer': 'Photo by Ronnie Johnsen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0033_copy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chaetodon_trifasciatus__img_0033_copy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1697', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1697', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1696', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1696', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1698', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1698', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_u9.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5579&what=stamps', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_up.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chtri_up.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5579&what=stamps&TotRec=2', 
+                 'img-name': 'Chaetodon_trifasciatus__Chtri_up.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Park, 1797', 
+ 'Max length': '18.8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Chaetodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5579, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chtri_ut.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chaetodon trifasciatus', 
+             'id': 5579, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5579'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5579'
+          }, 
+ 'eles-seq': 246
+}

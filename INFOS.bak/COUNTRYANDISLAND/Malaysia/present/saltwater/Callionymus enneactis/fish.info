@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2437', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caenn_m0.jpg', 
+                 'photographer': 'Photo by Hazes, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caenn_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=17468&what=species', 
+                 'img-name': 'Callionymus_enneactis__Caenn_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caenn_u2.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caenn_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=17468&what=species&TotRec=4', 
+                 'img-name': 'Callionymus_enneactis__Caenn_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2437', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caenn_f0.jpg', 
+                 'photographer': 'Photo by Hazes, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caenn_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=17468&what=species&TotRec=4', 
+                 'img-name': 'Callionymus_enneactis__Caenn_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caenn_u1.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Caenn_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=17468&what=species&TotRec=4', 
+                 'img-name': 'Callionymus_enneactis__Caenn_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1879', 
+ 'Max length': '8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Callionymidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 17468, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Caenn_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Callionymus enneactis', 
+             'id': 17468, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=17468'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=17468'
+          }, 
+ 'eles-seq': 160
+}

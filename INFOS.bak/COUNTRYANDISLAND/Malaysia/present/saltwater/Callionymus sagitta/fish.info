@@ -1,0 +1,49 @@
+{
+ 'Common names': 
+                 [
+                  ' Arrow dragonet (English)', 
+                  ' Bebaji panah (Malay)', 
+                  ' Dragonet (English)', 
+                  ' Bebaji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Casag_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Casag_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=26827&what=species', 
+                 'img-name': 'Callionymus_sagitta__Casag_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Pallas, 1770', 
+ 'Max length': '11 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Callionymidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 26827, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Casag_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Callionymus sagitta', 
+             'id': 26827, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=26827'
+            }, 
+ 'Remark': 'Sarawak; Sabah (Ref. 75992).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=26827'
+          }, 
+ 'eles-seq': 164
+}

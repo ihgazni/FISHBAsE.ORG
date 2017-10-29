@@ -1,0 +1,213 @@
+{
+ 'Common names': 
+                 [
+                  ' Checkered snapper (English)', 
+                  ' Merah ketambak (Malay)', 
+                  ' Checkered seaperch (English)', 
+                  ' Cross-banded snapper (English)', 
+                  ' Snapper (English)', 
+                  ' Ikan kunyit (Malay)', 
+                  ' Jenahak (Malay)', 
+                  ' Jenahak temerah (Malay)', 
+                  ' Ketambak (Malay)', 
+                  ' Kunyit (Malay)', 
+                  ' Kunyit-kunyit (Malay)', 
+                  ' Mentimum (Malay)', 
+                  ' Mentimun (Malay)', 
+                  ' Tembota (Malay)', 
+                  ' Timun-timun (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ludec_u1.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1428&what=species', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ludec_u3.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1428&what=species&TotRec=6', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ludec_u4.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1428&what=species&TotRec=6', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ludec_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1428&what=species&TotRec=6', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ludec_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1428&what=species&TotRec=6', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ludec_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ludec_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1428&what=species&TotRec=6', 
+                 'img-name': 'Lutjanus_decussatus__Ludec_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469529027_162.158.167.12.jpg&w=300', 
+                 'photographer': 'Photo by Jianguo Du', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469529027_162.158.167.12.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__1469529027_162.158.167.12.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcheckeredsnapper.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/checkeredsnapper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__checkeredsnapper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcheckeredsnappe.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/checkeredsnappe.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__checkeredsnappe.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1458194769_180.254.191.62.jpg&w=300', 
+                 'photographer': 'Photo by maya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1458194769_180.254.191.62.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__1458194769_180.254.191.62.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1388018919_112.198.79.75.jpg&w=300', 
+                 'photographer': 'Photo by Rodulf Anthony T. Balsisco', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1388018919_112.198.79.75.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__1388018919_112.198.79.75.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1388939190_112.198.90.103.jpg&w=300', 
+                 'photographer': 'Photo by Rodulf Anthony T. Balisco', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1388939190_112.198.90.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__1388939190_112.198.90.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1220032_640.jpg&w=300', 
+                 'photographer': 'Photo by FJELLNER, Sven-Urban', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1220032_640.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__p1220032_640.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369637319_182.52.96.230.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369637319_182.52.96.230.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_decussatus__1369637319_182.52.96.230.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=342', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=342', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2218', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2218', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1828)', 
+ 'Max length': '35 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1428, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ludec_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lutjanus decussatus', 
+             'id': 1428, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1428'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1428'
+          }, 
+ 'eles-seq': 694
+}

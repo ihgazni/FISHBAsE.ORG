@@ -1,0 +1,72 @@
+{
+ 'Common names': 
+                 [
+                  ' Striped sweetlips (English)', 
+                  ' Kaci karang (Malay)', 
+                  ' Sweetlips (English)', 
+                  ' Kaci (Malay)', 
+                  ' Tebal bibir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pldia_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pldia_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6628&what=species', 
+                 'img-name': 'Plectorhinchus_diagrammus__Pldia_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pldia_u1.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pldia_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6628&what=stamps', 
+                 'img-name': 'Plectorhinchus_diagrammus__Pldia_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pldia_u2.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pldia_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6628&what=stamps&TotRec=2', 
+                 'img-name': 'Plectorhinchus_diagrammus__Pldia_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '40 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Haemulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6628, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pldia_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Plectorhinchus diagrammus', 
+             'id': 6628, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6628'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6628'
+          }, 
+ 'eles-seq': 943
+}

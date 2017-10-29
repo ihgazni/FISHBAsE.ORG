@@ -1,0 +1,97 @@
+{
+ 'Common names': 
+                 [
+                  ' Golden threadfin bream (English)', 
+                  ' Kerisi emas (Malay)', 
+                  ' Threadfin bream (English)', 
+                  ' Gurisi merah (Malay)', 
+                  ' Kerisi (Malay)', 
+                  ' Kerisi merah (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Pasir-pasir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=577', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nevir_u2.jpg', 
+                 'photographer': 'Photo by Yau, B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nevir_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=396&what=species', 
+                 'img-name': 'Nemipterus_virgatus__Nevir_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nevir_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nevir_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=396&what=species&TotRec=4', 
+                 'img-name': 'Nemipterus_virgatus__Nevir_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nevir_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nevir_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=396&what=species&TotRec=4', 
+                 'img-name': 'Nemipterus_virgatus__Nevir_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Nevir_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nevir_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=396&what=species&TotRec=4', 
+                 'img-name': 'Nemipterus_virgatus__Nevir_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nevir_u1.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nevir_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=396&what=stamps', 
+                 'img-name': 'Nemipterus_virgatus__Nevir_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Houttuyn, 1782)', 
+ 'Max length': '35 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Nemipteridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 396, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nevir_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nemipterus virgatus', 
+             'id': 396, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=396'
+            }, 
+ 'Remark': 'Known from Sabah.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=396'
+          }, 
+ 'eles-seq': 792
+}

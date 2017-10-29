@@ -1,0 +1,264 @@
+{
+ 'Common names': 
+                 [
+                  ' Striated frogfish (English)', 
+                  ' Lepu belang (Malay)', 
+                  ' Toadfish (English)', 
+                  ' Kelalawar (Malay)', 
+                  ' Kertatok (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u4.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5474&what=species', 
+                 'img-name': 'Antennarius_striatus__Anstr_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1909', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u8.jpg', 
+                 'photographer': 'Photo by Honeycutt, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u1.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=334', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u3.jpg', 
+                 'photographer': 'Photo by Ramjohn, D.D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=190', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Anstr_u2.gif', 
+                 'photographer': 'Photo by Figueiredo, J.L./Menezes, N.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Anstr_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Anstr_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5474&what=species&TotRec=8', 
+                 'img-name': 'Antennarius_striatus__Anstr_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fatennariusstriatus.jpg&w=300', 
+                 'photographer': 'Photo by Leanne & David Atkinson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/atennariusstriatus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__atennariusstriatus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355002319_101.119.14.74.jpg&w=300', 
+                 'photographer': 'Photo by Karen Raubenheimer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355002319_101.119.14.74.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__1355002319_101.119.14.74.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fantennablstria.jpg&w=300', 
+                 'photographer': 'Photo by Joao Luiz Gasparini', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/antennablstria.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__antennablstria.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fantennarius_striatus.jpg&w=300', 
+                 'photographer': 'Photo by Joao Luiz Gasparini', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/antennarius_striatus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__antennarius_striatus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fantennastriajg.jpg&w=300', 
+                 'photographer': 'Photo by Joao Luiz Gasparini', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/antennastriajg.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__antennastriajg.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476687127_162.158.166.35.jpg&w=300', 
+                 'photographer': 'Photo by MUDDULA KRISHNA N AND V GOVINDA RAO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476687127_162.158.166.35.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__1476687127_162.158.166.35.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1342422247_132.65.38.136.jpg&w=300', 
+                 'photographer': 'Photo by Nir Friedman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1342422247_132.65.38.136.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__1342422247_132.65.38.136.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fantennariusstriatus02292p7110098.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/antennariusstriatus02292p7110098.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__antennariusstriatus02292p7110098.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367062307_182.178.95.31.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367062307_182.178.95.31.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__1367062307_182.178.95.31.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fantennariusstriatus%2528hairyfrogfish%2529dumaguete_wm.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/antennariusstriatus%28hairyfrogfish%29dumaguete_wm.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__antennariusstriatus%28hairyfrogfish%29dumaguete_wm.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484427745_162.158.88.124.jpg&w=300', 
+                 'photographer': 'Photo by Mehmet Aziz Başkaya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484427745_162.158.88.124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Antennarius_striatus__1484427745_162.158.88.124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0971~p2m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0971~p2m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0971~p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0971~p1m.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0977~p1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i2002-0977~p1m.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Shaw, 1794)', 
+ 'Max length': '25 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Antennariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5474, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Anstr_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Antennarius striatus', 
+             'id': 5474, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5474'
+            }, 
+ 'Remark': 'Also Ref. 5756. Sabah, Malaysia (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5474'
+          }, 
+ 'eles-seq': 83
+}

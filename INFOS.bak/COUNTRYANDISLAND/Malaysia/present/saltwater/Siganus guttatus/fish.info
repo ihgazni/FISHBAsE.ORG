@@ -1,0 +1,266 @@
+{
+ 'Common names': 
+                 [
+                  ' Orange-spotted spinefoot (English)', 
+                  ' Dengkis tompok oren (Malay)', 
+                  ' Golden-spotted spinefoot (English)', 
+                  ' Rabbitfish (English)', 
+                  ' Spinefoot (English)', 
+                  ' Belais (Malay)', 
+                  ' Belaris (Malay)', 
+                  ' Belibas (Malay)', 
+                  ' Bonang-bonang (Malay)', 
+                  ' Debam (Malay)', 
+                  ' Dengkis (Malay)', 
+                  ' Gelibas (Malay)', 
+                  ' Ketang (Malay)', 
+                  ' Ketang lada (Malay)', 
+                  ' Lambai (Malay)', 
+                  ' Leban (Malay)', 
+                  ' Lumban (Malay)', 
+                  ' Tee hu (Malay)', 
+                  ' Tee kuoi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1909', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u6.jpg', 
+                 'photographer': 'Photo by Honeycutt, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4588&what=species', 
+                 'img-name': 'Siganus_guttatus__Sigut_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u3.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=949', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u4.jpg', 
+                 'photographer': 'Photo by Kesner-Reyes, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=488', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u5.jpg', 
+                 'photographer': 'Photo by Krumme, U.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sigut_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u0.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4588&what=species&TotRec=7', 
+                 'img-name': 'Siganus_guttatus__Sigut_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgoldenrabbitfish.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/goldenrabbitfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__goldenrabbitfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgoldlinedspinefoot.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/goldlinedspinefoot.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__goldlinedspinefoot.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsiganusguttatus01574p1050210.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/siganusguttatus01574p1050210.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__siganusguttatus01574p1050210.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F074.jpg&w=300', 
+                 'photographer': "Photo by David O'Dwyer", 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/074.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__074.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375690770_182.52.96.47.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375690770_182.52.96.47.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1375690770_182.52.96.47.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1424270827_86.205.189.111.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Claude Jamoulle', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1424270827_86.205.189.111.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1424270827_86.205.189.111.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1452748108_94.198.18.55.jpg&w=300', 
+                 'photographer': 'Photo by Markevich A.I.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1452748108_94.198.18.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1452748108_94.198.18.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486538792_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486538792_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1486538792_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1377267751_96.252.167.233.jpg&w=300', 
+                 'photographer': 'Photo by James Fatherree', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1377267751_96.252.167.233.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1377267751_96.252.167.233.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394666746_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394666746_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_guttatus__1394666746_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1348', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1348', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2188', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2188', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2214', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2214', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=11', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sigut_e0.gif', 
+                 'photographer': 'Photo by Olson-Ringby, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sigut_e0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4588&what=larvegg', 
+                 'img-name': 'Siganus_guttatus__Sigut_e0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1787)', 
+ 'Max length': '42 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Siganidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4588, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Sigut_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Siganus guttatus', 
+             'id': 4588, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4588'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman, mouth of Sg. Mentawak (Ref. 41184).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4588'
+          }, 
+ 'eles-seq': 1189
+}

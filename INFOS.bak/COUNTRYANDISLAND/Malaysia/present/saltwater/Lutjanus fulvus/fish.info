@@ -1,0 +1,261 @@
+{
+ 'Common names': 
+                 [
+                  ' Blacktail snapper (English)', 
+                  ' Jenahak ekor hitam (Malay)', 
+                  ' Silver snapper (English)', 
+                  ' Snapper (English)', 
+                  ' Jenahak (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Tanga (Malay)', 
+                  ' Ungar (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=262&what=species', 
+                 'img-name': 'Lutjanus_fulvus__Luful_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_ua.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_u0.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luful_u4.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_u4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_u4.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Luful_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Luful_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=262&what=species&TotRec=7', 
+                 'img-name': 'Lutjanus_fulvus__Luful_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1401208173_101.2.166.4.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1401208173_101.2.166.4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1401208173_101.2.166.4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428972687_202.4.173.52.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428972687_202.4.173.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1428972687_202.4.173.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428974191_202.4.173.52.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428974191_202.4.173.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1428974191_202.4.173.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1342397924_24.185.16.14.jpg&w=300', 
+                 'photographer': 'Photo by Paul Asman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1342397924_24.185.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1342397924_24.185.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1342397988_24.185.16.14.jpg&w=300', 
+                 'photographer': 'Photo by Paul Asman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1342397988_24.185.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1342397988_24.185.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469275882_162.158.51.154.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469275882_162.158.51.154.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1469275882_162.158.51.154.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484836054_162.158.166.151.jpg&w=300', 
+                 'photographer': 'Photo by Govinda Rao Velamala,  N M Krishna AND K.Sujatha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484836054_162.158.166.151.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1484836054_162.158.166.151.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fblacktailsnapper.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/blacktailsnapper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__blacktailsnapper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fblacktailsnappe.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/blacktailsnappe.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__blacktailsnappe.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399664627_90.40.251.33.jpg&w=300', 
+                 'photographer': 'Photo by Ehshan NUCHCHADY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399664627_90.40.251.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1399664627_90.40.251.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flufulas.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/lufulas.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__lufulas.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1398302105_137.219.47.151.jpg&w=300', 
+                 'photographer': 'Photo by Andrew Chin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1398302105_137.219.47.151.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lutjanus_fulvus__1398302105_137.219.47.151.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM60776_img2278.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM60776_img2278.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM60776_img2279.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM60776_img2279.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forster, 1801)', 
+ 'Max length': '50  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 262, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Luful_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lutjanus fulvus', 
+             'id': 262, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=262'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=262'
+          }, 
+ 'eles-seq': 698
+}

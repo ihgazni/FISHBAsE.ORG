@@ -1,0 +1,55 @@
+{
+ 'Common names': 
+                 [
+                  ' Rosy grubfish (English)', 
+                  ' Haruan-laut merah ros (Malay)', 
+                  ' Grubfish (English)', 
+                  ' Sand-diver (English)', 
+                  ' Sandperch (English)', 
+                  ' Belukor (Malay)', 
+                  ' Ikan marabahan (Malay)', 
+                  ' Marabahan (Malay)', 
+                  ' Ubi (Malay)', 
+                  ' Ubi merah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pagus_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pagus_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8268&what=species', 
+                 'img-name': 'Ryukyupercis_gushikeni__Pagus_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Yoshino, 1975)', 
+ 'Max length': '30 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Pinguipedidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8268, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pagus_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ryukyupercis gushikeni', 
+             'id': 8268, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8268'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8268'
+          }, 
+ 'eles-seq': 1101
+}

@@ -1,0 +1,349 @@
+{
+ 'Common names': 
+                 [
+                  ' Bluespotted stingray (English)', 
+                  ' Pari lalat (Malay)', 
+                  ' Ble-spotted stingaree (English)', 
+                  ' Ble-spotted stingray (English)', 
+                  ' Blue-spotted maskray (English)', 
+                  ' Bluespotted maskray (English)', 
+                  ' Spotted stingray (English)', 
+                  ' Ketuka (Malay)', 
+                  ' Kiampau (Malay)', 
+                  ' Pari lanyau (Malay)', 
+                  ' Pari minyak (Malay)', 
+                  ' Pari renyau (Malay)', 
+                  ' Pari riman (Malay)', 
+                  ' Pari rimau (Malay)', 
+                  ' Pari tanjung (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4508&what=species', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u4.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=203', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u0.jpg', 
+                 'photographer': 'Photo by Nañola, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dakuh_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Dakuh_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Dakuh_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4508&what=species&TotRec=7', 
+                 'img-name': 'Neotrygon_kuhlii__Dakuh_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fnk.jpg&w=300', 
+                 'photographer': 'Photo by Akhilesh K.V', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/nk.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__nk.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fkuhlsstingray.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/kuhlsstingray.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__kuhlsstingray.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355641947_114.79.63.71.jpg&w=300', 
+                 'photographer': 'Photo by Philippe Borsa', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355641947_114.79.63.71.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1355641947_114.79.63.71.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdasyatiskuhlii022543p7090031.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dasyatiskuhlii022543p7090031.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__dasyatiskuhlii022543p7090031.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1389037227_197.218.78.252.jpg&w=300', 
+                 'photographer': 'Photo by Marcos A M Pereira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1389037227_197.218.78.252.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1389037227_197.218.78.252.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1389037251_197.218.78.252.jpg&w=300', 
+                 'photographer': 'Photo by Marcos A M Pereira', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1389037251_197.218.78.252.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1389037251_197.218.78.252.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366126220_182.178.81.169.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366126220_182.178.81.169.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1366126220_182.178.81.169.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394253616_39.44.149.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394253616_39.44.149.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1394253616_39.44.149.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394253652_39.44.149.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394253652_39.44.149.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1394253652_39.44.149.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394253700_39.44.149.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394253700_39.44.149.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1394253700_39.44.149.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394253734_39.44.149.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394253734_39.44.149.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1394253734_39.44.149.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394253775_39.44.149.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394253775_39.44.149.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1394253775_39.44.149.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374652635_182.52.68.233.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374652635_182.52.68.233.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1374652635_182.52.68.233.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375682351_182.52.96.47.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375682351_182.52.96.47.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1375682351_182.52.96.47.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1452300489_94.198.18.55.jpg&w=300', 
+                 'photographer': 'Photo by Markevich A.I.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1452300489_94.198.18.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1452300489_94.198.18.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486524185_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486524185_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1486524185_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396654475_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396654475_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Neotrygon_kuhlii__1396654475_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Müller & Henle, 1841)', 
+ 'Max length': '45 WD (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4508, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Dakuh_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Neotrygon kuhlii', 
+             'id': 4508, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4508'
+            }, 
+ 'Remark': 'Also Ref. 53392.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4508'
+          }, 
+ 'eles-seq': 802
+}

@@ -1,0 +1,194 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u4.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=53790&what=species', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u5.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u3.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u2.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u0.jpg', 
+                 'photographer': 'Photo by Bednarzik, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1980', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u6.jpg', 
+                 'photographer': 'Photo by Winkel, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_f0.jpg', 
+                 'photographer': 'Photo by Lourie, S.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hibar_u1.gif', 
+                 'photographer': 'Photo by Richardson, Laurence J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hibar_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=53790&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_bargibanti__Hibar_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippobarg20.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippobarg20.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__hippobarg20.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippobarg75.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippobarg75.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__hippobarg75.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippobargcouple38a.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippobargcouple38a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__hippobargcouple38a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippobargcouple70.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippobargcouple70.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__hippobargcouple70.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippobargyellow49.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippobargyellow49.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__hippobargyellow49.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpygmy.jpg&w=300', 
+                 'photographer': 'Photo by Marcelle Johannes', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pygmy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_bargibanti__pygmy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=712', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=712', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Whitley, 1970', 
+ 'Max length': '2.4 OT (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 53790, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hibar_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus bargibanti', 
+             'id': 53790, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=53790'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=53790'
+          }, 
+ 'eles-seq': 584
+}

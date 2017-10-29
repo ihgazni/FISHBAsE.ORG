@@ -1,0 +1,106 @@
+{
+ 'Common names': 
+                 [
+                  ' Coitor croaker (English)', 
+                  ' Gelama Borneo (Malay)', 
+                  ' Croaker (English)', 
+                  ' Jewfish (English)', 
+                  ' Gelama (Malay)', 
+                  ' Gelama papan (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Jocoi_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Jocoi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10544&what=species', 
+                 'img-name': 'Johnius_coitor__Jocoi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Jocoi_u1.jpg', 
+                 'photographer': 'Photo by Vidthayanon, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Jocoi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=10544&what=species&TotRec=2', 
+                 'img-name': 'Johnius_coitor__Jocoi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjohnius_coitor.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/johnius_coitor.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Johnius_coitor__johnius_coitor.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjohnius_coitor2.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/johnius_coitor2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Johnius_coitor__johnius_coitor2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjohnius_coitor3.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/johnius_coitor3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Johnius_coitor__johnius_coitor3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404802622_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404802622_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Johnius_coitor__1404802622_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '20  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10544, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Jocoi_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Johnius coitor', 
+             'id': 10544, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10544'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10544'
+          }, 
+ 'eles-seq': 629
+}

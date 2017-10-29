@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Casch_u8.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Casch_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=59285&what=species', 
+                 'img-name': 'Callionymus_schaapii__Casch_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1852', 
+ 'Max length': '6.5 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Callionymidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 59285, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Casch_u8.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Callionymus schaapii', 
+             'id': 59285, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59285'
+            }, 
+ 'Remark': 'Penang (Ref. 75992).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=59285'
+          }, 
+ 'eles-seq': 165
+}

@@ -1,0 +1,120 @@
+{
+ 'Common names': 
+                 [
+                  ' Smalltoothed ponyfish (English)', 
+                  ' Sapsap pantai (Malay)', 
+                  ' Naked toothpony (English)', 
+                  ' Ponyfish (English)', 
+                  ' Slipmouth (English)', 
+                  ' Kekek (Malay)', 
+                  ' Kikek (Malay)', 
+                  ' Pepetek (Malay)', 
+                  ' Sekiki (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gaach_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gaach_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5797&what=species', 
+                 'img-name': 'Gazza_achlamys__Gaach_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gaach_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gaach_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5797&what=species&TotRec=4', 
+                 'img-name': 'Gazza_achlamys__Gaach_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gaach_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gaach_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5797&what=species&TotRec=4', 
+                 'img-name': 'Gazza_achlamys__Gaach_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Gaach_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gaach_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5797&what=species&TotRec=4', 
+                 'img-name': 'Gazza_achlamys__Gaach_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1419053154_175.45.189.139.jpg&w=300', 
+                 'photographer': 'Photo by D.G.R. Wiadnya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1419053154_175.45.189.139.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gazza_achlamys__1419053154_175.45.189.139.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394116370_182.178.111.255.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394116370_182.178.111.255.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gazza_achlamys__1394116370_182.178.111.255.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394116594_182.178.111.255.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394116594_182.178.111.255.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gazza_achlamys__1394116594_182.178.111.255.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Jordan & Starks, 1917', 
+ 'Max length': '17 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Leiognathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5797, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gaach_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gazza achlamys', 
+             'id': 5797, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5797'
+            }, 
+ 'Remark': 'Reported from Sabah (Ref. 47581).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5797'
+          }, 
+ 'eles-seq': 479
+}

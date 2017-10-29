@@ -1,0 +1,442 @@
+{
+ 'Common names': 
+                 [
+                  ' Wahoo (English)', 
+                  ' Tenggiri wahoo (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=228', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_f0.jpg', 
+                 'photographer': 'Photo by Romanov, E.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=89&what=species', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1545', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u8.jpg', 
+                 'photographer': 'Photo by Santos, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=843', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u5.jpg', 
+                 'photographer': 'Photo by Archambault, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=542', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u4.jpg', 
+                 'photographer': 'Photo by Jessen, C.Q.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Acsol_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Acsol_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Acsol_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=89&what=species&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwahoo.jpg&w=300', 
+                 'photographer': 'Photo by www.gulliblestravels.co.uk', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/wahoo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__wahoo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgohandchuahwithwahoo.jpg&w=300', 
+                 'photographer': 'Photo by Goh Chung Hun', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gohandchuahwithwahoo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__gohandchuahwithwahoo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488519431_162.158.79.157.jpg&w=300', 
+                 'photographer': 'Photo by OLEG', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488519431_162.158.79.157.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1488519431_162.158.79.157.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fchoice.jpg&w=300', 
+                 'photographer': 'Photo by Everard Chung', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/choice.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__choice.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frimg1020.jpg&w=300', 
+                 'photographer': 'Photo by Christoph Huebner', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rimg1020.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__rimg1020.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481897450_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481897450_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1481897450_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1485645105_188.114.102.66.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1485645105_188.114.102.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1485645105_188.114.102.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F21092010020.jpg&w=300', 
+                 'photographer': 'Photo by Benu Servansingh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/21092010020.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__21092010020.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399288854_90.40.251.33.jpg&w=300', 
+                 'photographer': 'Photo by Ehshan NUCKCHADY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399288854_90.40.251.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1399288854_90.40.251.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1346162695_189.248.83.172.jpg&w=300', 
+                 'photographer': 'Photo by Daniel Villarreal', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1346162695_189.248.83.172.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1346162695_189.248.83.172.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364276770_39.48.180.7.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364276770_39.48.180.7.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1364276770_39.48.180.7.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1392217750_182.178.9.207.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1392217750_182.178.9.207.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1392217750_182.178.9.207.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414774966_182.178.20.101.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414774966_182.178.20.101.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1414774966_182.178.20.101.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480348842_188.114.103.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480348842_188.114.103.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1480348842_188.114.103.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1010400.jpg&w=300', 
+                 'photographer': 'Photo by Raphael Scherer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1010400.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__p1010400.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0981.jpg&w=300', 
+                 'photographer': 'Photo by Henrik Rosendahl Kristiansen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0981.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__img_0981.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fandaman-island-wahoo.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/andaman-island-wahoo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__andaman-island-wahoo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fandaman-island-wahoo2.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/andaman-island-wahoo2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__andaman-island-wahoo2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fandaman-island-wahoo7.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/andaman-island-wahoo7.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__andaman-island-wahoo7.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fandaman-island-wahoo8.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/andaman-island-wahoo8.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__andaman-island-wahoo8.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378924732_132.3.37.82.jpg&w=300', 
+                 'photographer': 'Photo by Pat', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378924732_132.3.37.82.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acanthocybium_solandri__1378924732_132.3.37.82.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1144', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1144', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1238', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1238', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u9.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=89&what=stamps', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u0.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u1.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u2.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=485', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u3.jpg', 
+                 'photographer': '    Photo by Bottini, P.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u6.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1029', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u7.jpg', 
+                 'photographer': '    Photo by Bhathal, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=89&what=stamps&TotRec=7', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Acsol_l0.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acsol_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=89&what=larvegg', 
+                 'img-name': 'Acanthocybium_solandri__Acsol_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1832)', 
+ 'Max length': '210 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scombridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 89, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acsol_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Acanthocybium solandri', 
+             'id': 89, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=89'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=89'
+          }, 
+ 'eles-seq': 12
+}

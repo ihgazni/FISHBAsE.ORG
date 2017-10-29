@@ -1,0 +1,253 @@
+{
+ 'Common names': 
+                 [
+                  ' Yellowface angelfish (English)', 
+                  ' Taring-pelanduk topeng kuning (Malay)', 
+                  ' Angelfish (English)', 
+                  ' Yellowmask angelfish (English)', 
+                  ' Ayam hutan (Malay)', 
+                  ' Ikan babi (Malay)', 
+                  ' Ikan Koran (Malay)', 
+                  ' Inggu (Malay)', 
+                  ' Ketang (Malay)', 
+                  ' Taring pelandok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u8.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5662&what=species', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5662&what=species&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1043', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_j0.jpg', 
+                 'photographer': 'Photo by Tanaka, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5662&what=species&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5662&what=species&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_7234.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_7234.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__fb_7234.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390429714_124.178.137.106.jpg&w=300', 
+                 'photographer': 'Photo by Lorraine Brennan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390429714_124.178.137.106.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1390429714_124.178.137.106.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391436612_84.187.202.163.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391436612_84.187.202.163.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1391436612_84.187.202.163.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1485985869_188.114.102.66.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1485985869_188.114.102.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1485985869_188.114.102.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1485986216_188.114.102.66.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1485986216_188.114.102.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1485986216_188.114.102.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpomacanthus-xanthometopon-2-0701b.jpg&w=300', 
+                 'photographer': 'Photo by Jeanette Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pomacanthus-xanthometopon-2-0701b.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__pomacanthus-xanthometopon-2-0701b.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpomacanthus_xanthometopon_tub_phl_copy.jpg&w=300', 
+                 'photographer': 'Photo by Jose Antonio Cabo Bujan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pomacanthus_xanthometopon_tub_phl_copy.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__pomacanthus_xanthometopon_tub_phl_copy.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_7984.jpg&w=300', 
+                 'photographer': 'Photo by Dave Wolfenden', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_7984.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__img_7984.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1395413774_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1395413774_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1395413774_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1395413963_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1395413963_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomacanthus_xanthometopon__1395413963_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1475', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u6.jpg', 
+                 'photographer': '    Photo by Saravanan, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5662&what=stamps', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u7.jpg', 
+                 'photographer': '    Photo by Pauly, D.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5662&what=stamps&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u3.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5662&what=stamps&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u4.jpg', 
+                 'photographer': '    Photo by Reyes, R.B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poxan_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5662&what=stamps&TotRec=4', 
+                 'img-name': 'Pomacanthus_xanthometopon__Poxan_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=907', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_VibrioD6.jpg', 
+                 'photographer': '      Photo by Bassleer, G.   ', 
+                 'img-url': 'http://www.fishbase.us/images/thumbnails/Dispic/tn_VibrioD6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/Diseases/DispicSummary.php?id=5662&pic=VibrioD6.jpg', 
+                 'img-name': 'Pomacanthus_xanthometopon__tn_VibrioD6.jpg', 
+                 'external-url': None, 
+                 'type': 'Diseases'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1853)', 
+ 'Max length': '38 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5662, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Poxan_u8.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomacanthus xanthometopon', 
+             'id': 5662, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5662'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5662'
+          }, 
+ 'eles-seq': 976
+}

@@ -1,0 +1,417 @@
+{
+ 'Common names': 
+                 [
+                  ' Live sharksucker (English)', 
+                  ' Tapak kasut (Malay)', 
+                  ' Remora (English)', 
+                  ' Slender suckerfish (English)', 
+                  ' Sucking fish (English)', 
+                  ' White-tailed remora (English)', 
+                  ' Gedemi (Malay)', 
+                  ' Gemi (Malay)', 
+                  ' Gemi-gemi (Malay)', 
+                  ' Rumi-rumi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=307', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u4.jpg', 
+                 'photographer': 'Photo by van der Werff, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2467&what=species', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=893', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u7.jpg', 
+                 'photographer': 'Photo by Rossi, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1684', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rerem_u4.jpg', 
+                 'photographer': 'Photo by Bryan, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rerem_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Rerem_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1684', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rerem_u5.jpg', 
+                 'photographer': 'Photo by Bryan, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rerem_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Rerem_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2077', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rerem_u6.jpg', 
+                 'photographer': 'Photo by Lavan, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rerem_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Rerem_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2099', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_uc.jpg', 
+                 'photographer': 'Photo by De Vroe, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u5.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=475', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u6.jpg', 
+                 'photographer': 'Photo by Jennings, G.H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u3.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ecnau_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ecnau_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ecnau_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_ub.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=2467&what=species&TotRec=16', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1426659233_117.247.65.28.jpg&w=300', 
+                 'photographer': 'Photo by DR. BIJAY KALI MAHAPATRA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1426659233_117.247.65.28.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1426659233_117.247.65.28.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1474006939_162.158.167.41.jpg&w=300', 
+                 'photographer': 'Photo by B. K. Mahapatra', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1474006939_162.158.167.41.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1474006939_162.158.167.41.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00799.jpg&w=300', 
+                 'photographer': 'Photo by Jens Petersen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00799.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__dsc00799.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flivesharksucker1.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/livesharksucker1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__livesharksucker1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Flivesharksucker2.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/livesharksucker2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__livesharksucker2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481792702_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481792702_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1481792702_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481895824_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481895824_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1481895824_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1415961739_62.61.166.231.jpg&w=300', 
+                 'photographer': 'Photo by zotyesz1', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1415961739_62.61.166.231.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1415961739_62.61.166.231.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366280421_182.178.77.189.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366280421_182.178.77.189.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1366280421_182.178.77.189.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1478706258_162.158.23.108.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1478706258_162.158.23.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1478706258_162.158.23.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1478706451_162.158.23.108.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1478706451_162.158.23.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1478706451_162.158.23.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382215774_37.106.210.20.jpg&w=300', 
+                 'photographer': 'Photo by Zigmund Fernando', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382215774_37.106.210.20.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__1382215774_37.106.210.20.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_2577.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_2577.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__fb_2577.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_2588.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_2588.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__fb_2588.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_2630.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_2630.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__fb_2630.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3593_echeneis_naucrates.jpg&w=300', 
+                 'photographer': 'Photo by Otakar Seycek', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3593_echeneis_naucrates.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Echeneis_naucrates__img_3593_echeneis_naucrates.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2149', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2149', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2771', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2771', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecnau_ua.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecnau_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2467&what=stamps', 
+                 'img-name': 'Echeneis_naucrates__Ecnau_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Linnaeus, 1758', 
+ 'Max length': '110 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Echeneidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 2467, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rerem_u5.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Echeneis naucrates', 
+             'id': 2467, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=2467'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=2467'
+          }, 
+ 'eles-seq': 399
+}

@@ -1,0 +1,302 @@
+{
+ 'Common names': 
+                 [
+                  ' Honeycomb stingray (English)', 
+                  ' Pari rimau (Malay)', 
+                  ' Banded whiptail stingray (English)', 
+                  ' Coachwhip ray (English)', 
+                  ' Honeycomb ray (English)', 
+                  ' Honeycomb whipray (English)', 
+                  ' Longtail ray (English)', 
+                  ' Lontail ray (English)', 
+                  ' Reticulate whipray (English)', 
+                  ' Reticulated whipray (English)', 
+                  ' Whiptail ray (English)', 
+                  ' Whiptail stingray (English)', 
+                  ' Pari (Malay)', 
+                  ' Pari batik (Malay)', 
+                  ' Pari beting (Malay)', 
+                  ' Pari bunga (Malay)', 
+                  ' Pari bunga/batik (Malay)', 
+                  ' Pari kelawar (Malay)', 
+                  ' Pari pasir (Malay)', 
+                  ' Pari tanjung (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiuar_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5507&what=species', 
+                 'img-name': 'Himantura_uarnak__Hiuar_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiuar_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5507&what=species&TotRec=5', 
+                 'img-name': 'Himantura_uarnak__Hiuar_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiuar_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5507&what=species&TotRec=5', 
+                 'img-name': 'Himantura_uarnak__Hiuar_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hiuar_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5507&what=species&TotRec=5', 
+                 'img-name': 'Himantura_uarnak__Hiuar_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hiuar_j0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5507&what=species&TotRec=5', 
+                 'img-name': 'Himantura_uarnak__Hiuar_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436892561_222.124.71.149.jpg&w=300', 
+                 'photographer': 'Photo by Galih Rakasiwi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436892561_222.124.71.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1436892561_222.124.71.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436932772_222.124.70.121.jpg&w=300', 
+                 'photographer': 'Photo by Galih Rakasiwi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436932772_222.124.70.121.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1436932772_222.124.70.121.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428514568_39.44.210.202.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428514568_39.44.210.202.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1428514568_39.44.210.202.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428514599_39.44.3.158.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428514599_39.44.3.158.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1428514599_39.44.3.158.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375392874_83.89.41.145.jpg&w=300', 
+                 'photographer': 'Photo by Peter Rask M', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375392874_83.89.41.145.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1375392874_83.89.41.145.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1440753798_101.109.73.69.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1440753798_101.109.73.69.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1440753798_101.109.73.69.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1440755476_101.109.73.69.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1440755476_101.109.73.69.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1440755476_101.109.73.69.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396655066_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ron DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396655066_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_uarnak__1396655066_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-9639_p2vueventrale.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-9639_p2vueventrale.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-9639_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-9639_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-9639-r2m(queue).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-9639-r2m(queue).jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-9639-r1m(tête).jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i0000-9639-r1m(tête).jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiuar_u5.jpg', 
+                 'photographer': '    Photo by Fabres, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5507&what=stamps', 
+                 'img-name': 'Himantura_uarnak__Hiuar_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hiuar_j0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiuar_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5507&what=larvegg', 
+                 'img-name': 'Himantura_uarnak__Hiuar_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Gmelin, 1789)', 
+ 'Max length': '200 WD (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5507, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiuar_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Himantura uarnak', 
+             'id': 5507, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5507'
+            }, 
+ 'Remark': 'Recorded during the 1994-2004 study (Ref. 53392).  Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5507'
+          }, 
+ 'eles-seq': 579
+}

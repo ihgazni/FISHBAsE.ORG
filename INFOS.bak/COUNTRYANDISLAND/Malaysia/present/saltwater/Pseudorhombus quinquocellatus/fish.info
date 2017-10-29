@@ -1,0 +1,52 @@
+{
+ 'Common names': 
+                 [
+                  ' Five-eyed flounder (English)', 
+                  ' Sebelah lima tanda (Malay)', 
+                  ' Fivespot flounder (English)', 
+                  ' Flatfish (English)', 
+                  ' Flounder (English)', 
+                  ' Sebelah (Malay)', 
+                  ' Sisa Nabi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psqui_u3.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psqui_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8284&what=species', 
+                 'img-name': 'Pseudorhombus_quinquocellatus__Psqui_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Weber & de Beaufort, 1929', 
+ 'Max length': '17.1 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Paralichthyidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8284, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psqui_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudorhombus quinquocellatus', 
+             'id': 8284, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8284'
+            }, 
+ 'Remark': 'Needs confirmation.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8284'
+          }, 
+ 'eles-seq': 1052
+}

@@ -1,0 +1,168 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2292', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Armac_u4.jpg', 
+                 'photographer': 'Photo by Ryanskiy, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Armac_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=59188&what=species', 
+                 'img-name': 'Taeniamia_macroptera__Armac_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Armac_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Armac_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=59188&what=species&TotRec=2', 
+                 'img-name': 'Taeniamia_macroptera__Armac_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357056776_94.194.222.178.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357056776_94.194.222.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Taeniamia_macroptera__1357056776_94.194.222.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0842_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0842_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0842_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0842_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0843_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0843_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0843_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0843_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0844_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0844_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0844_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0844_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0845_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0845_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0845_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0845_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0846_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0846_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0846_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0846_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0847_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0847_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0847_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0847_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0848_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0848_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0848_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0848_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0849_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0849_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0849_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0849_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0850_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0850_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0850_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0850_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0851_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0851_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0851_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00034/i1887-0851_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1828)', 
+ 'Max length': '9.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 59188, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Armac_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Taeniamia macroptera', 
+             'id': 59188, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59188'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=59188'
+          }, 
+ 'eles-seq': 1257
+}

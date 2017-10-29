@@ -1,0 +1,132 @@
+{
+ 'Common names': 
+                 [
+                  ' Sagor catfish (English)', 
+                  ' Duri pedukang (Malay)', 
+                  ' Catfish (English)', 
+                  ' Marine catfish (English)', 
+                  ' Bedukang (Malay)', 
+                  ' Blotan (Malay)', 
+                  ' Blukang (Malay)', 
+                  ' Duri (Malay)', 
+                  ' Ikan pedukang (Malay)', 
+                  ' Otek (Malay)', 
+                  ' Pepulut (Malay)', 
+                  ' Pulutan (Malay)', 
+                  ' Utek (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1369', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arsag_u0.jpg', 
+                 'photographer': 'Photo by NREB, Sarawak/ DANIDA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arsag_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1281&what=species', 
+                 'img-name': 'Hexanematichthys_sagor__Arsag_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1369', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arsag_u1.jpg', 
+                 'photographer': 'Photo by NREB, Sarawak/ DANIDA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arsag_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1281&what=species&TotRec=3', 
+                 'img-name': 'Hexanematichthys_sagor__Arsag_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Arsag_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arsag_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1281&what=species&TotRec=3', 
+                 'img-name': 'Hexanematichthys_sagor__Arsag_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363419263_182.10.114.210.jpg&w=300', 
+                 'photographer': 'Photo by Ahmad Zahid', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363419263_182.10.114.210.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hexanematichthys_sagor__1363419263_182.10.114.210.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1354524413_182.52.96.147.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1354524413_182.52.96.147.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hexanematichthys_sagor__1354524413_182.52.96.147.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00055/ia-9349_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00055/ia-9349_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00055/ia-9349_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00055/ia-9349_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00044/ib-0604_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/ib-0604_r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/ib-0604_r1m.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '45 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1281, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Arsag_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hexanematichthys sagor', 
+             'id': 1281, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1281'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1281'
+          }, 
+ 'eles-seq': 566
+}

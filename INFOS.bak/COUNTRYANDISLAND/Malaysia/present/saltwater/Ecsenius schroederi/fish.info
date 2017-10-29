@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=746', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecsch_u0.jpg', 
+                 'photographer': 'Photo by Fenner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ecsch_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=13048&what=species', 
+                 'img-name': 'Ecsenius_schroederi__Ecsch_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1391873199_80.218.91.186.jpg&w=300', 
+                 'photographer': 'Photo by Piero Malaer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1391873199_80.218.91.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ecsenius_schroederi__1391873199_80.218.91.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430124383_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430124383_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ecsenius_schroederi__1430124383_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430124403_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430124403_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ecsenius_schroederi__1430124403_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'McKinney & Springer, 1976', 
+ 'Max length': '7 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Blenniidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 13048, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ecsch_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ecsenius schroederi', 
+             'id': 13048, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=13048'
+            }, 
+ 'Remark': 'Known from Mabul, [Sabah] (Ref. 54476).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=13048'
+          }, 
+ 'eles-seq': 407
+}

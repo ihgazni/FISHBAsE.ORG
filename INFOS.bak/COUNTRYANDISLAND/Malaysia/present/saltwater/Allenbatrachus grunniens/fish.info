@@ -1,0 +1,197 @@
+{
+ 'Common names': 
+                 [
+                  ' Grunting toadfish (English)', 
+                  ' Gedempu singa (Malay)', 
+                  ' Frogfish (English)', 
+                  ' Toadfish (English)', 
+                  ' Gedema (Malay)', 
+                  ' Gedempu (Malay)', 
+                  ' Ikan singa (Malay)', 
+                  ' Kertatok (Malay)', 
+                  ' Tekuk (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u0.jpg', 
+                 'photographer': 'Photo by Scholtz, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6391&what=species', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u1.jpg', 
+                 'photographer': 'Photo by Scholtz, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1102', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u3.jpg', 
+                 'photographer': 'Photo by Hippocampus-Bildarchiv', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1102', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u4.jpg', 
+                 'photographer': 'Photo by Hippocampus-Bildarchiv', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1102', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u5.jpg', 
+                 'photographer': 'Photo by Hippocampus-Bildarchiv', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cofla_ub.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cofla_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Cofla_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Algru_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Algru_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u2.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Algru_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6391&what=species&TotRec=9', 
+                 'img-name': 'Allenbatrachus_grunniens__Algru_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1403464713_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1403464713_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Allenbatrachus_grunniens__1403464713_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fallenbatrachus_grunnieus3.jpg&w=300', 
+                 'photographer': 'Photo by Hayath', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/allenbatrachus_grunnieus3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Allenbatrachus_grunniens__allenbatrachus_grunnieus3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1401258451_14.139.208.114.jpg&w=300', 
+                 'photographer': 'Photo by Dr. B. K. Biswas', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1401258451_14.139.208.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Allenbatrachus_grunniens__1401258451_14.139.208.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F016.jpg&w=300', 
+                 'photographer': 'Photo by chris f', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/016.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Allenbatrachus_grunniens__016.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379558261_69.127.149.175.jpg&w=300', 
+                 'photographer': 'Photo by Frank M Greco', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379558261_69.127.149.175.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Allenbatrachus_grunniens__1379558261_69.127.149.175.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Batrachoididae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6391, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Algru_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Allenbatrachus grunniens', 
+             'id': 6391, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6391'
+            }, 
+ 'Remark': 'Also Ref. 4690.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6391'
+          }, 
+ 'eles-seq': 46
+}

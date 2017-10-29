@@ -1,0 +1,55 @@
+{
+ 'Common names': 
+                 [
+                  ' Andhra anchovy (English)', 
+                  ' Bilis andra (Malay)', 
+                  ' Anchovy (English)', 
+                  ' Besin (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Bunga air (Malay)', 
+                  ' Kang hu (Malay)', 
+                  ' Mempinis teri (Malay)', 
+                  ' Pusu (Malay)', 
+                  ' Teri (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Stand_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Stand_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=561&what=species', 
+                 'img-name': 'Stolephorus_andhraensis__Stand_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Babu Rao, 1966', 
+ 'Max length': '5 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 561, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Stand_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Stolephorus andhraensis', 
+             'id': 561, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=561'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=561'
+          }, 
+ 'eles-seq': 1230
+}

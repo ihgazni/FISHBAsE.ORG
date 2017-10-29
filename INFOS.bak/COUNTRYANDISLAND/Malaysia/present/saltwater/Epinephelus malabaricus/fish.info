@@ -1,0 +1,300 @@
+{
+ 'Common names': 
+                 [
+                  ' Malabar grouper (English)', 
+                  ' Kerapu lumpur (Malay)', 
+                  ' Giant rock cod (English)', 
+                  ' Greasy grouper (English)', 
+                  ' Grouper (English)', 
+                  ' Malabar reef cod (English)', 
+                  ' Malabar rock cod (English)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu hitam (Malay)', 
+                  ' Kerapu hitam (juvenil) (Malay)', 
+                  ' Kerapu lilin (Malay)', 
+                  ' Keretang (Malay)', 
+                  ' Kertang (Malay)', 
+                  ' Kertang (dewasa) (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi, Aq, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=505', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u7.jpg', 
+                 'photographer': 'Photo by Field, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6439&what=species', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u8.jpg', 
+                 'photographer': 'Photo by First, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2099', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u9.jpg', 
+                 'photographer': 'Photo by De Vroe, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=303', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_ua.jpg', 
+                 'photographer': 'Photo by Bailly, N.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Epmal_j0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6439&what=species&TotRec=10', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404807143_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404807143_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1404807143_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379751969_117.207.247.239.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha, V.A.Iswarya Deepti and K.V.L. Shrikanya Rao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379751969_117.207.247.239.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1379751969_117.207.247.239.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379752203_117.207.247.239.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha, V.A.Iswarya Deepti and K.V.L. Shrikanya Rao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379752203_117.207.247.239.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1379752203_117.207.247.239.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_2251.jpg&w=300', 
+                 'photographer': 'Photo by Reno Tonna', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_2251.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__img_2251.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367651000_182.178.16.162.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367651000_182.178.16.162.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1367651000_182.178.16.162.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368877440_182.178.76.96.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368877440_182.178.76.96.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1368877440_182.178.76.96.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372097645_182.178.125.98.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372097645_182.178.125.98.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1372097645_182.178.125.98.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372097674_182.178.125.98.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372097674_182.178.125.98.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1372097674_182.178.125.98.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1478705188_162.158.23.108.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1478705188_162.158.23.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__1478705188_162.158.23.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fxx_img_0099.jpg&w=300', 
+                 'photographer': 'Photo by Nicolas Bailly', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/xx_img_0099.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__xx_img_0099.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmuhoa1200.jpg&w=300', 
+                 'photographer': 'Photo by Truonghbao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/muhoa1200.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_malabaricus__muhoa1200.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2183', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2183', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2209', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2209', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Epmal_j0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epmal_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6439&what=larvegg', 
+                 'img-name': 'Epinephelus_malabaricus__Epmal_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '234 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6439, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epmal_u9.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Epinephelus malabaricus', 
+             'id': 6439, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6439'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6439'
+          }, 
+ 'eles-seq': 446
+}

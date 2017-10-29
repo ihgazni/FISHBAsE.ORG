@@ -1,0 +1,69 @@
+{
+ 'Common names': 
+                 [
+                  ' Buntal kotak (Malay)', 
+                  ' Buntal peti (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Tecon_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tecon_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8060&what=species', 
+                 'img-name': 'Tetrosomus_concatenatus__Tecon_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Tecon_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tecon_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8060&what=species&TotRec=2', 
+                 'img-name': 'Tetrosomus_concatenatus__Tecon_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1001', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Tecon_u0.jpg', 
+                 'photographer': '    Photo by Karachle, P.K.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Tecon_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8060&what=stamps', 
+                 'img-name': 'Tetrosomus_concatenatus__Tecon_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1785)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Ostraciidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8060, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Tecon_u1.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Tetrosomus concatenatus', 
+             'id': 8060, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8060'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8060'
+          }, 
+ 'eles-seq': 1274
+}

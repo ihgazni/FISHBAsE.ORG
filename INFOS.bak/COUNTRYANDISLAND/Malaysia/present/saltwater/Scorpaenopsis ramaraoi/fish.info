@@ -1,0 +1,68 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scram_u0.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scram_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=59506&what=species', 
+                 'img-name': 'Scorpaenopsis_ramaraoi__Scram_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scspp2uo.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scspp2uo.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=59506&what=species&TotRec=2', 
+                 'img-name': 'Scorpaenopsis_ramaraoi__Scspp2uo.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423843982_217.120.237.5.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423843982_217.120.237.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scorpaenopsis_ramaraoi__1423843982_217.120.237.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Randall & Eschmeyer, 2001', 
+ 'Max length': '20.8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scorpaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 59506, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scspp2uo.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Scorpaenopsis ramaraoi', 
+             'id': 59506, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59506'
+            }, 
+ 'Remark': 'Recorded from Sabah.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=59506'
+          }, 
+ 'eles-seq': 1169
+}

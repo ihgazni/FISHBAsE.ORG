@@ -1,0 +1,74 @@
+{
+ 'Common names': 
+                 [
+                  ' Flag-in cardinal-fish (English)', 
+                  ' Sebekah sinar (Malay)', 
+                  " Elliot's cardinalfish (English)", 
+                  ' Sebekah (Malay)', 
+                  ' Semangka (Malay)', 
+                  ' Seriding (Malay)', 
+                  ' Serodong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apell_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Apell_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5751&what=species', 
+                 'img-name': 'Jaydia_ellioti__Apell_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fapogon_ellioti.jpg&w=300', 
+                 'photographer': 'Photo by Hsuan-ching Ho', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/apogon_ellioti.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Jaydia_ellioti__apogon_ellioti.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364727853_182.178.106.98.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364727853_182.178.106.98.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Jaydia_ellioti__1364727853_182.178.106.98.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Day, 1875)', 
+ 'Max length': '10 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Apogonidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5751, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Apell_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Jaydia ellioti', 
+             'id': 5751, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5751'
+            }, 
+ 'Remark': 'In range Ref. 1602.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5751'
+          }, 
+ 'eles-seq': 621
+}

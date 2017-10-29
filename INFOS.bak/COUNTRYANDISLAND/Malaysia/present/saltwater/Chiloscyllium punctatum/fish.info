@@ -1,0 +1,190 @@
+{
+ 'Common names': 
+                 [
+                  ' Brownbanded bambooshark (English)', 
+                  ' Yu-cicak insang putih (Malay)', 
+                  ' Brown-banded catshark (English)', 
+                  ' Brown-spotted bambooshark (English)', 
+                  ' Brown-spotted catshark (English)', 
+                  ' Grey carpet shark (English)', 
+                  ' Spotted catshark (English)', 
+                  ' Kau suar (Malay)', 
+                  ' Yu bodoh (Malay)', 
+                  ' Yu cicak (Malay)', 
+                  ' Yu punai (Malay)', 
+                  ' Yu tokeh (Malay)', 
+                  ' Yu toleh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5903&what=species', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_ud.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=513', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_u8.jpg', 
+                 'photographer': 'Photo by JJPhoto', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=598', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_ua.jpg', 
+                 'photographer': 'Photo by Samson, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=474', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_u5.jpg', 
+                 'photographer': 'Photo by Marsden, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=598', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_u9.jpg', 
+                 'photographer': 'Photo by Samson, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_uh.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_uh.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_uh.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chpun_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chpun_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chpun_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=5903&what=species&TotRec=9', 
+                 'img-name': 'Chiloscyllium_punctatum__Chpun_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1348848359_117.206.82.218.jpg&w=300', 
+                 'photographer': 'Photo by T.Mohanraj', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1348848359_117.206.82.218.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_punctatum__1348848359_117.206.82.218.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc-punctatum01.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c-punctatum01.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_punctatum__c-punctatum01.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc-punctatum07-1.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c-punctatum07-1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_punctatum__c-punctatum07-1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421306969_71.202.224.33.jpg&w=300', 
+                 'photographer': 'Photo by Ronald DeCloux', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421306969_71.202.224.33.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_punctatum__1421306969_71.202.224.33.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Müller & Henle, 1838', 
+ 'Max length': '144 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Hemiscylliidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5903, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chpun_uh.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chiloscyllium punctatum', 
+             'id': 5903, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5903'
+            }, 
+ 'Remark': 'Also Ref. 247, 13575, 43278.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5903'
+          }, 
+ 'eles-seq': 279
+}

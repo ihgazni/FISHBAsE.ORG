@@ -1,0 +1,334 @@
+{
+ 'Common names': 
+                 [
+                  ' Blacktip reef shark (English)', 
+                  ' Yu sirip hitam (Malay)', 
+                  ' Blacktip shark (English)', 
+                  ' Guliman (English)', 
+                  ' Chan (Malay)', 
+                  ' Cucut (Malay)', 
+                  ' O chan (Malay)', 
+                  ' Yu kepak hitam (Malay)', 
+                  ' Yu nipah (Malay)', 
+                  ' Yu pulah (Malay)', 
+                  ' Yu punai (Malay)', 
+                  ' Yu shirip hitam (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=877&what=species', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=40', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_u6.jpg', 
+                 'photographer': 'Photo by Moreau, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=40', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_u7.jpg', 
+                 'photographer': 'Photo by Moreau, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1504', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_f0.jpg', 
+                 'photographer': 'Photo by Atkinson, W.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Camel_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Camel_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=877&what=species&TotRec=7', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fshark_agg.jpg&w=300', 
+                 'photographer': 'Photo by Conrad W Speed', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/shark_agg.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__shark_agg.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbt1056xw.jpg&w=300', 
+                 'photographer': 'Photo by Lars Bindholt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/bt1056xw.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__bt1056xw.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbt1069xw.jpg&w=300', 
+                 'photographer': 'Photo by Lars Bindholt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/bt1069xw.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__bt1069xw.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fblacktip1.jpg&w=300', 
+                 'photographer': 'Photo by Manuel Alba', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/blacktip1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__blacktip1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481896352_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481896352_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__1481896352_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscf0426.jpg.jpg&w=300', 
+                 'photographer': 'Photo by Hermosin Vilches, Jesus Maria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscf0426.jpg.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__dscf0426.jpg.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397471988_42.115.42.73.jpg&w=300', 
+                 'photographer': 'Photo by Dan Koehl', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397471988_42.115.42.73.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__1397471988_42.115.42.73.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc.mel12-1.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c.mel12-1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__c.mel12-1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc.mel13-1.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c.mel13-1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Carcharhinus_melanopterus__c.mel13-1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1997-0447_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1997-0447_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1568', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1568', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1035', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1035', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=49', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=49', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_ue.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Camel_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=877&what=stamps', 
+                 'img-name': 'Carcharhinus_melanopterus__Camel_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Quoy & Gaimard, 1824)', 
+ 'Max length': '200 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Carcharhinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 877, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Camel_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Carcharhinus melanopterus', 
+             'id': 877, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=877'
+            }, 
+ 'Remark': 'Also Ref. 244, 9997.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=877'
+          }, 
+ 'eles-seq': 204
+}

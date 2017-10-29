@@ -1,0 +1,311 @@
+{
+ 'Common names': 
+                 [
+                  ' Daggertooth pike conger (English)', 
+                  ' Malong perak (Malay)', 
+                  ' Pike eel (English)', 
+                  ' Silver conger eel (English)', 
+                  ' Belut (Malay)', 
+                  ' Indong (Malay)', 
+                  ' Ketingkor (Malay)', 
+                  ' Malong (Malay)', 
+                  ' Muar hu (Malay)', 
+                  ' Nong (Malay)', 
+                  ' Tuna (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=298&what=species', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=904', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u2.jpg', 
+                 'photographer': 'Photo by Hofinger, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=298&what=species&TotRec=6', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1437', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u3.jpg', 
+                 'photographer': 'Photo by Khalaf, M.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=298&what=species&TotRec=6', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mucin_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=298&what=species&TotRec=6', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u4.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=298&what=species&TotRec=6', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1578', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u5.jpg', 
+                 'photographer': 'Photo by Miller, M.J./Tsukamoto, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=298&what=species&TotRec=6', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fae5538-735.jpg&w=300', 
+                 'photographer': 'Photo by James Lin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/ae5538-735.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__ae5538-735.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374156878_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374156878_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374156878_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374156976_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374156976_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374156976_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374157130_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374157130_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374157130_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374157197_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374157197_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374157197_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374157328_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374157328_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374157328_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374157384_182.178.16.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374157384_182.178.16.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1374157384_182.178.16.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964191_182.178.110.82.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964191_182.178.110.82.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964191_182.178.110.82.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964207_182.178.110.82.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964207_182.178.110.82.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964207_182.178.110.82.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964262_182.178.76.17.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964262_182.178.76.17.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964262_182.178.76.17.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964293_182.178.76.17.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964293_182.178.76.17.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964293_182.178.76.17.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964320_182.178.110.82.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964320_182.178.110.82.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964320_182.178.110.82.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1394964344_39.44.212.77.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1394964344_39.44.212.77.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1394964344_39.44.212.77.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476613192_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476613192_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Muraenesox_cinereus__1476613192_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00009/i0000-4608_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00009/i0000-4608_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00009/i0000-4608_r1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00009/i0000-4608_r1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-5.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-5.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-4.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1987-1200_rn-1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1578', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_l0.jpg', 
+                 'photographer': '    Photo by Miller, M.J./Tsukamoto, K.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mucin_l0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=298&what=larvegg', 
+                 'img-name': 'Muraenesox_cinereus__Mucin_l0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '153.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenesocidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 298, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mucin_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Muraenesox cinereus', 
+             'id': 298, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=298'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=298'
+          }, 
+ 'eles-seq': 744
+}

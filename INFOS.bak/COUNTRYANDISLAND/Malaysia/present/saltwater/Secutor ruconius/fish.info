@@ -1,0 +1,148 @@
+{
+ 'Common names': 
+                 [
+                  ' Deep pugnose ponyfish (English)', 
+                  ' Sekiki bulat (Malay)', 
+                  ' Deep-bodied ponyfish (English)', 
+                  ' Ponyfish (English)', 
+                  ' Slender pony (English)', 
+                  ' Slipmouth (English)', 
+                  ' Tooth-pony (English)', 
+                  ' Kekek (Malay)', 
+                  ' Kikek (Malay)', 
+                  ' Pulot-pulot (Bajau) (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seruc_u1.jpg', 
+                 'photographer': 'Photo by Allen, G.R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seruc_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4811&what=species', 
+                 'img-name': 'Secutor_ruconius__Seruc_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seruc_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seruc_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4811&what=species&TotRec=4', 
+                 'img-name': 'Secutor_ruconius__Seruc_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seruc_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seruc_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4811&what=species&TotRec=4', 
+                 'img-name': 'Secutor_ruconius__Seruc_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Seruc_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Seruc_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4811&what=species&TotRec=4', 
+                 'img-name': 'Secutor_ruconius__Seruc_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F100_1565.jpg&w=300', 
+                 'photographer': 'Photo by Mr. Sudesh D. Rathod', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/100_1565.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Secutor_ruconius__100_1565.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsecutorruconius.jpg&w=300', 
+                 'photographer': 'Photo by A. Biju Kumar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/secutorruconius.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Secutor_ruconius__secutorruconius.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1419051275_175.45.189.139.jpg&w=300', 
+                 'photographer': 'Photo by D.G.R. Wiadnya', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1419051275_175.45.189.139.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Secutor_ruconius__1419051275_175.45.189.139.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355813520_182.52.96.78.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355813520_182.52.96.78.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Secutor_ruconius__1355813520_182.52.96.78.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486611302_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486611302_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Secutor_ruconius__1486611302_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM24731_913.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM24731_913.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '20 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Leiognathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4811, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Seruc_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Secutor ruconius', 
+             'id': 4811, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4811'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4811'
+          }, 
+ 'eles-seq': 1174
+}

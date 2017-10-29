@@ -1,0 +1,85 @@
+{
+ 'Common names': 
+                 [
+                  ' Scarlet snapper (English)', 
+                  ' Kerisi-basi (Malay)', 
+                  ' Pale snapper (English)', 
+                  ' Snapper (English)', 
+                  ' Tang’s snapper (English)', 
+                  ' Kerisi bali (Malay)', 
+                  ' Kerisi basi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=271', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Etrad_u0.jpg', 
+                 'photographer': 'Photo by Luchavez, T.F.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Etrad_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1392&what=species', 
+                 'img-name': 'Etelis_radiosus__Etrad_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Etrad_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Etrad_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1392&what=species&TotRec=3', 
+                 'img-name': 'Etelis_radiosus__Etrad_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Etrad_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Etrad_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1392&what=species&TotRec=3', 
+                 'img-name': 'Etelis_radiosus__Etrad_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F13kg02.jpg&w=300', 
+                 'photographer': 'Photo by James Kuo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/13kg02.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Etelis_radiosus__13kg02.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Anderson, 1981', 
+ 'Max length': '70 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lutjanidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1392, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Etrad_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Etelis radiosus', 
+             'id': 1392, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1392'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1392'
+          }, 
+ 'eles-seq': 459
+}

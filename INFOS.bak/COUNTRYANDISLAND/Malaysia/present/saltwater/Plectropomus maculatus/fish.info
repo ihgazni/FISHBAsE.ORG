@@ -1,0 +1,149 @@
+{
+ 'Common names': 
+                 [
+                  ' Spotted coralgrouper (English)', 
+                  ' Kerapu-sunoh pisang (Malay)', 
+                  ' Barred-cheek coral trout (English)', 
+                  ' Coral trout (English)', 
+                  ' Grouper (English)', 
+                  ' Spotted coral trout (English)', 
+                  ' Keapu bara (Malay)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu bara (Malay)', 
+                  ' Kerapu merah (Malay)', 
+                  ' Kerapu pisang (Malay)', 
+                  ' Senderong (Malay)', 
+                  ' Senderong (Malay)', 
+                  ' Senderung (Malay)', 
+                  ' Sunoh (Malay)', 
+                  ' Sunoh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plmac_u0.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plmac_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4886&what=species', 
+                 'img-name': 'Plectropomus_maculatus__Plmac_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=904', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plmac_u6.jpg', 
+                 'photographer': 'Photo by Hofinger, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plmac_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4886&what=species&TotRec=4', 
+                 'img-name': 'Plectropomus_maculatus__Plmac_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plmac_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plmac_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4886&what=species&TotRec=4', 
+                 'img-name': 'Plectropomus_maculatus__Plmac_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Plmac_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plmac_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4886&what=species&TotRec=4', 
+                 'img-name': 'Plectropomus_maculatus__Plmac_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fkl018.jpg&w=300', 
+                 'photographer': 'Photo by Jeroen Schoondergang Tekstproducties', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/kl018.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Plectropomus_maculatus__kl018.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434666356_140.253.155.220.jpg&w=300', 
+                 'photographer': 'Photo by Mick Haywood', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434666356_140.253.155.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Plectropomus_maculatus__1434666356_140.253.155.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1351853769_2.9.192.149.jpg&w=300', 
+                 'photographer': 'Photo by Pierre de Chabannes', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1351853769_2.9.192.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Plectropomus_maculatus__1351853769_2.9.192.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1351853837_2.9.192.149.jpg&w=300', 
+                 'photographer': 'Photo by Pierre de Chabannes', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1351853837_2.9.192.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Plectropomus_maculatus__1351853837_2.9.192.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plmac_u1.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Plmac_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4886&what=stamps', 
+                 'img-name': 'Plectropomus_maculatus__Plmac_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1790)', 
+ 'Max length': '125 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4886, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Plmac_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Plectropomus maculatus', 
+             'id': 4886, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4886'
+            }, 
+ 'Remark': 'Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4886'
+          }, 
+ 'eles-seq': 955
+}

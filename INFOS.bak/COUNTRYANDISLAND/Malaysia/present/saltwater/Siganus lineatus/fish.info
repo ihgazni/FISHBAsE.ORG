@@ -1,0 +1,141 @@
+{
+ 'Common names': 
+                 [
+                  ' Golden-lined spinefoot (English)', 
+                  ' Dengkis garis emas (Malay)', 
+                  ' Rabbitfish (English)', 
+                  ' Spinefoot (English)', 
+                  ' Belais (Malay)', 
+                  ' Belait (Malay)', 
+                  ' Belaris (Malay)', 
+                  ' Belibas (Malay)', 
+                  ' Bliais (Malay)', 
+                  ' Bonang-bonang (Malay)', 
+                  ' Debam (Malay)', 
+                  ' Dengkis (Malay)', 
+                  ' Gelibas (Malay)', 
+                  ' Kelang (Malay)', 
+                  ' Ketang (Malay)', 
+                  ' Ketang lada (Malay)', 
+                  ' Lambai (Malay)', 
+                  ' Leban (Malay)', 
+                  ' Lumban (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Silin_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Silin_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4625&what=species', 
+                 'img-name': 'Siganus_lineatus__Silin_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Silin_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Silin_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4625&what=species&TotRec=3', 
+                 'img-name': 'Siganus_lineatus__Silin_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Silin_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Silin_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4625&what=species&TotRec=3', 
+                 'img-name': 'Siganus_lineatus__Silin_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1388643212_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by KANNAN K', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1388643212_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_lineatus__1388643212_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1426855048_14.139.185.66.jpg&w=300', 
+                 'photographer': 'Photo by Baiju. P. T.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1426855048_14.139.185.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_lineatus__1426855048_14.139.185.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1483607922_162.158.50.66.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1483607922_162.158.50.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_lineatus__1483607922_162.158.50.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430926116_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430926116_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_lineatus__1430926116_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1430926151_86.10.40.87.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1430926151_86.10.40.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_lineatus__1430926151_86.10.40.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1835)', 
+ 'Max length': '43 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Siganidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4625, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Silin_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Siganus lineatus', 
+             'id': 4625, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4625'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4625'
+          }, 
+ 'eles-seq': 1191
+}

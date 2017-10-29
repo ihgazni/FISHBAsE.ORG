@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hefus_u9.jpg', 
+                 'photographer': 'Photo by National Museum of Marine Science and Technology, Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hefus_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=51563&what=species', 
+                 'img-name': 'Helcogramma_fuscipectoris__Hefus_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Fowler, 1946)', 
+ 'Max length': '4 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Tripterygiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 51563, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hefus_u9.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Helcogramma fuscipectoris', 
+             'id': 51563, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=51563'
+            }, 
+ 'Remark': 'Museum: Melayu Prov., Tioman I., BPBM 22010. Sabah: Tunku Abdul Rahman Is., Manukan I., WAM P.30400-027; Bodgaya Is., Bohaydulong I., WAM P.30412-048 (Ref. 27223).  Also in Ref. 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=51563'
+          }, 
+ 'eles-seq': 546
+}

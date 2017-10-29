@@ -1,0 +1,49 @@
+{
+ 'Common names': 
+                 [
+                  ' Dawn threadfin bream (English)', 
+                  ' Kerisi fajar (Malay)', 
+                  ' Threadfin bream (English)', 
+                  ' Kerisi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neaur_u6.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Neaur_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=15162&what=species', 
+                 'img-name': 'Nemipterus_aurora__Neaur_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Russell, 1993', 
+ 'Max length': '20 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Nemipteridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 15162, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Neaur_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nemipterus aurora', 
+             'id': 15162, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15162'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=15162'
+          }, 
+ 'eles-seq': 777
+}

@@ -1,0 +1,35 @@
+{
+ 'Common names': 
+                 [
+                  ' Onespot triplefin (English)', 
+                  ' Tribleni tanda (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Fricke, 1994', 
+ 'Max length': '3.1 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Tripterygiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Enneapterygius unimaculatus', 
+             'id': 51559, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=51559'
+            }, 
+ 'Remark': 'Known from Sabah (Ref.  27223, 90102).', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 427
+}

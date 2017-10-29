@@ -1,0 +1,54 @@
+{
+ 'Common names': 
+                 [
+                  " Bars'n spots moray (English)", 
+                  ' Belut-laut belang tompok (Malay)', 
+                  ' Moray eel (English)', 
+                  ' Belut (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypun_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gypun_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=27341&what=species', 
+                 'img-name': 'Gymnothorax_punctatofasciatus__Gypun_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1900-0211-r1m.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00003/i1900-0211-r1m.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1863', 
+ 'Max length': '50.5 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 27341, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypun_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gymnothorax punctatofasciatus', 
+             'id': 27341, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=27341'
+            }, 
+ 'Remark': 'Museum: Sabah, Sulu Sea, Sandakan, CAS 127793 (Ref. 27470). Also Ref. 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=27341'
+          }, 
+ 'eles-seq': 525
+}

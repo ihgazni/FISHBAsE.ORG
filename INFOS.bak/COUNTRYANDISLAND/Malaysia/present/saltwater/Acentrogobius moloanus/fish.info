@@ -1,0 +1,59 @@
+{
+ 'Common names': 
+                 [
+                  ' Goby (English)', 
+                  ' Belodok gelang (Malay)', 
+                  ' Ubi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ammol_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ammol_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=23582&what=species', 
+                 'img-name': 'Acentrogobius_moloanus__Ammol_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1357272453_182.52.96.108.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1357272453_182.52.96.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acentrogobius_moloanus__1357272453_182.52.96.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Herre, 1927)', 
+ 'Max length': '8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 23582, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ammol_u1.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Acentrogobius moloanus', 
+             'id': 23582, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=23582'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=23582'
+          }, 
+ 'eles-seq': 27
+}

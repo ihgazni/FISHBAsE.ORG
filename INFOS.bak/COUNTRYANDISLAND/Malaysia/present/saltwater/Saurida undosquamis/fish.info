@@ -1,0 +1,172 @@
+{
+ 'Common names': 
+                 [
+                  ' Brushtooth lizardfish (English)', 
+                  ' Conor ekor rintik (Malay)', 
+                  ' Lizardfish (English)', 
+                  ' Bekut laut (Malay)', 
+                  ' Belungkor (Malay)', 
+                  ' Chonor (Malay)', 
+                  ' Conor (Malay)', 
+                  ' Hai la (Malay)', 
+                  ' Kau bo (Malay)', 
+                  ' Lagaat (Malay)', 
+                  ' Mengkerong (Malay)', 
+                  ' Mudin (Malay)', 
+                  ' Mudin-mudin (Malay)', 
+                  ' Pengual baduk (Malay)', 
+                  ' Pucung (Malay)', 
+                  ' Sembawa Sonor (Malay)', 
+                  ' Ubi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saund_u0.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1055&what=species', 
+                 'img-name': 'Saurida_undosquamis__Saund_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=298', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saund_u2.jpg', 
+                 'photographer': 'Photo by Cornish, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1055&what=species&TotRec=6', 
+                 'img-name': 'Saurida_undosquamis__Saund_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1537', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Saund_u2.gif', 
+                 'photographer': 'Photo by Artüz, L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1055&what=species&TotRec=6', 
+                 'img-name': 'Saurida_undosquamis__Saund_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saund_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1055&what=species&TotRec=6', 
+                 'img-name': 'Saurida_undosquamis__Saund_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Saund_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1055&what=species&TotRec=6', 
+                 'img-name': 'Saurida_undosquamis__Saund_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Saund_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saund_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1055&what=species&TotRec=6', 
+                 'img-name': 'Saurida_undosquamis__Saund_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1360247446_124.124.120.94.jpg&w=300', 
+                 'photographer': 'Photo by K. Kadharsha', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1360247446_124.124.120.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Saurida_undosquamis__1360247446_124.124.120.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366559254_182.178.41.162.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366559254_182.178.41.162.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Saurida_undosquamis__1366559254_182.178.41.162.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367129583_182.178.90.48.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367129583_182.178.90.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Saurida_undosquamis__1367129583_182.178.90.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsaurida-undosquamis.jpg&w=300', 
+                 'photographer': 'Photo by Theo Modder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/saurida-undosquamis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Saurida_undosquamis__saurida-undosquamis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486623445_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang (Andaman Coastal Research Station for Development, Faculty of Fisheries, Kasetsart University)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486623445_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Saurida_undosquamis__1486623445_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Richardson, 1848)', 
+ 'Max length': '50 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Synodontidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1055, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saund_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Saurida undosquamis', 
+             'id': 1055, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1055'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1055'
+          }, 
+ 'eles-seq': 1127
+}

@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Demer_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Demer_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7186&what=species', 
+                 'img-name': 'Dentatherina_merceri__Demer_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Patten & Ivantsoff, 1983', 
+ 'Max length': '5 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Dentatherinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7186, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Demer_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Dentatherina merceri', 
+             'id': 7186, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7186'
+            }, 
+ 'Remark': 'Recorded from Borneo (Ref. 44355).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7186'
+          }, 
+ 'eles-seq': 376
+}

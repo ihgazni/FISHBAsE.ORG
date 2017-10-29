@@ -1,0 +1,351 @@
+{
+ 'Common names': 
+                 [
+                  ' Torpedo scad (English)', 
+                  ' Cincaru (Malay)', 
+                  ' Finny scad (English)', 
+                  ' Hardtail scad (English)', 
+                  ' Hardtail trevally (English)', 
+                  ' Torpedo trevally (English)', 
+                  ' Trevally (English)', 
+                  ' Besi hangat (Malay)', 
+                  ' Caru (Malay)', 
+                  ' Celek (Malay)', 
+                  ' Cencaru (Malay)', 
+                  ' Gelenggu (Malay)', 
+                  ' Geronggong (Malay)', 
+                  ' Gerongong (Malay)', 
+                  ' Ghair boey (Malay)', 
+                  ' Jarajaru (Malay)', 
+                  ' Jaru-jaru (Malay)', 
+                  ' Keras ekor (Malay)', 
+                  ' Kerongan (Malay)', 
+                  ' kobal-kobal (Malay)', 
+                  ' Papakan (Malay)', 
+                  ' Sedai-sedai (Malay)', 
+                  ' Selikur (Malay)', 
+                  ' Tegal (Malay)', 
+                  ' Tegap (Malay)', 
+                  ' Tentenkel (Malay)', 
+                  ' Tetengkek (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=384&what=species', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u1.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mecor_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mecor_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u2.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecor_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=384&what=species&TotRec=7', 
+                 'img-name': 'Megalaspis_cordyla__Mecor_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmegacor.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/megacor.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__megacor.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363780015_124.124.120.94.jpg&w=300', 
+                 'photographer': 'Photo by Kudus Kadharsha, Ponnuvel Mohanchander, Syed ajmal Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363780015_124.124.120.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1363780015_124.124.120.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1474451418_108.162.215.109.jpg&w=300', 
+                 'photographer': 'Photo by Mohammed Suhail', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1474451418_108.162.215.109.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1474451418_108.162.215.109.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1474453209_162.158.178.103.jpg&w=300', 
+                 'photographer': 'Photo by Thaslim Arif', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1474453209_162.158.178.103.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1474453209_162.158.178.103.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484632930_162.158.50.66.jpg&w=300', 
+                 'photographer': 'Photo by Miriam Paul Sreeram,Sujit Sundaram & J. R. Dias', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484632930_162.158.50.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1484632930_162.158.50.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1358325177_39.48.141.164.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad  Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1358325177_39.48.141.164.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1358325177_39.48.141.164.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365180347_182.178.127.190.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365180347_182.178.127.190.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1365180347_182.178.127.190.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374858505_182.178.107.140.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374858505_182.178.107.140.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1374858505_182.178.107.140.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374858545_182.178.107.140.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374858545_182.178.107.140.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1374858545_182.178.107.140.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410337106_118.103.236.195.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410337106_118.103.236.195.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1410337106_118.103.236.195.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1411793476_39.50.224.56.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1411793476_39.50.224.56.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1411793476_39.50.224.56.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1411793493_39.44.177.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1411793493_39.44.177.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1411793493_39.44.177.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1446628628_202.141.231.138.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1446628628_202.141.231.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1446628628_202.141.231.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1404835168_49.144.97.154.jpg&w=300', 
+                 'photographer': 'Photo by Edwin Soriano', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1404835168_49.144.97.154.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1404835168_49.144.97.154.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fscads.jpg&w=300', 
+                 'photographer': 'Photo by Lars Bindholt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/scads.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__scads.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369624635_182.52.96.230.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369624635_182.52.96.230.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1369624635_182.52.96.230.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486544620_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486544620_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__1486544620_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftn_mecor_u0.jpg&w=300', 
+                 'photographer': 'Photo by khalid', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/tn_mecor_u0.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalaspis_cordyla__tn_mecor_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0777_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0777_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0772_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00032/i2005-0772_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2203', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2203', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '80 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Carangidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 384, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecor_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Megalaspis cordyla', 
+             'id': 384, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=384'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=384'
+          }, 
+ 'eles-seq': 720
+}

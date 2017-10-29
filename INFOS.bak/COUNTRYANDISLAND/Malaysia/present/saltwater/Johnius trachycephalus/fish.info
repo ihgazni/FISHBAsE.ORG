@@ -1,0 +1,37 @@
+{
+ 'Common names': 
+                 [
+                  ' Leaftail croaker (English)', 
+                  ' Gelama ekor daun (Malay)', 
+                  ' Croaker (English)', 
+                  ' Gelama (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1851)', 
+ 'Max length': '13 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Johnius trachycephalus', 
+             'id': 12051, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12051'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 634
+}

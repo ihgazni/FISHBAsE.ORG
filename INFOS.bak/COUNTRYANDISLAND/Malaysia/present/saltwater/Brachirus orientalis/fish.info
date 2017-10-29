@@ -1,0 +1,193 @@
+{
+ 'Common names': 
+                 [
+                  ' Oriental sole (English)', 
+                  ' Lidah-bronok timur (Malay)', 
+                  ' Lidah (Malay)', 
+                  ' Lidah baji (Malay)', 
+                  ' Sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Euori_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Euori_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8312&what=species', 
+                 'img-name': 'Brachirus_orientalis__Euori_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Euori_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Euori_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8312&what=species&TotRec=4', 
+                 'img-name': 'Brachirus_orientalis__Euori_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Euori_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Euori_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8312&what=species&TotRec=4', 
+                 'img-name': 'Brachirus_orientalis__Euori_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Euori_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Euori_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8312&what=species&TotRec=4', 
+                 'img-name': 'Brachirus_orientalis__Euori_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402070910_103.230.107.3.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402070910_103.230.107.3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1402070910_103.230.107.3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402071192_103.230.107.3.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402071192_103.230.107.3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1402071192_103.230.107.3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402071601_103.230.105.3.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402071601_103.230.105.3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1402071601_103.230.105.3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434091717_59.99.247.154.jpg&w=300', 
+                 'photographer': 'Photo by Dibakar Bhakta, ICAR-RRC of CIFRI, Vadodara', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434091717_59.99.247.154.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1434091717_59.99.247.154.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486107381_162.158.155.112.jpg&w=300', 
+                 'photographer': 'Photo by Bharadiya sangita A', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486107381_162.158.155.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1486107381_162.158.155.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbrachirusorientalis.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/brachirusorientalis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__brachirusorientalis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbrachirusorientalis1.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/brachirusorientalis1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__brachirusorientalis1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365218287_182.178.14.5.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365218287_182.178.14.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1365218287_182.178.14.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365439660_182.178.107.70.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365439660_182.178.107.70.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Brachirus_orientalis__1365439660_182.178.107.70.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Brori_u0.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Brori_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8312&what=stamps', 
+                 'img-name': 'Brachirus_orientalis__Brori_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '30 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Soleidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8312, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Euori_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Brachirus orientalis', 
+             'id': 8312, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8312'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8312'
+          }, 
+ 'eles-seq': 145
+}

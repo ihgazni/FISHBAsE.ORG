@@ -1,0 +1,67 @@
+{
+ 'Common names': 
+                 [
+                  ' Catfish (English)', 
+                  ' Duri serdadu (Malay)', 
+                  ' Bedukang (Malay)', 
+                  ' Blotan (Malay)', 
+                  ' Duri (Malay)', 
+                  ' Gagok (Malay)', 
+                  ' Jahan (Malay)', 
+                  ' Lundu (Malay)', 
+                  ' Manyong (Malay)', 
+                  ' Otek (Malay)', 
+                  ' Seludu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Armac_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Armac_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=51768&what=species', 
+                 'img-name': 'Nemapteryx_macronotacantha__Armac_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Armac_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Armac_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=51768&what=species&TotRec=2', 
+                 'img-name': 'Nemapteryx_macronotacantha__Armac_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1846)', 
+ 'Max length': '30 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ariidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 51768, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Armac_u2.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nemapteryx macronotacantha', 
+             'id': 51768, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=51768'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=51768'
+          }, 
+ 'eles-seq': 773
+}

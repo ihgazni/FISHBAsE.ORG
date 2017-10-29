@@ -1,0 +1,279 @@
+{
+ 'Common names': 
+                 [
+                  ' Short-nosed tripodfish (English)', 
+                  ' Lembu muncung (Malay)', 
+                  ' Hollow-snouted tripodfish (English)', 
+                  ' Tripodfish (English)', 
+                  ' Anjungkang (Malay)', 
+                  ' Barat-barat (Malay)', 
+                  ' Cagak langit (Malay)', 
+                  ' Ikan lembu (Malay)', 
+                  ' Sereka (Malay)', 
+                  ' Tunjak langit (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trbia_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4562&what=species', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1123', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trbia_u3.jpg', 
+                 'photographer': 'Photo by Iranian Fisheries Research Organization (IFRO)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4562&what=species&TotRec=6', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trbia_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4562&what=species&TotRec=6', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trbia_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4562&what=species&TotRec=6', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Trbia_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4562&what=species&TotRec=6', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Trbia_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4562&what=species&TotRec=6', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc_0664.jpg&w=300', 
+                 'photographer': 'Photo by Dr. G. B. Purushottama', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc_0664.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__dsc_0664.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421474620_117.247.129.24.jpg&w=300', 
+                 'photographer': 'Photo by DR. BIJAY KALI MAHAPATRA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421474620_117.247.129.24.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1421474620_117.247.129.24.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpeg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442930384_61.3.155.11.jpeg&w=300', 
+                 'photographer': 'Photo by G.Chelladurai', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442930384_61.3.155.11.jpeg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1442930384_61.3.155.11.jpeg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1469876561_162.158.51.154.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1469876561_162.158.51.154.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1469876561_162.158.51.154.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382097752_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382097752_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1382097752_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1382097776_182.178.80.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1382097776_182.178.80.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1382097776_182.178.80.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489238434_188.114.103.37.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489238434_188.114.103.37.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1489238434_188.114.103.37.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489238547_188.114.103.37.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489238547_188.114.103.37.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1489238547_188.114.103.37.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489238883_188.114.103.37.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489238883_188.114.103.37.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1489238883_188.114.103.37.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489238916_188.114.103.37.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489238916_188.114.103.37.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1489238916_188.114.103.37.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384696015_89.211.162.104.jpg&w=300', 
+                 'photographer': 'Photo by Yasser Hassan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384696015_89.211.162.104.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__1384696015_89.211.162.104.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fshortnosedtripodfish.jpg&w=300', 
+                 'photographer': 'Photo by Gareth Roocroft (www.fishthesea.co.za)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/shortnosedtripodfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__shortnosedtripodfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftripodfish.jpg&w=300', 
+                 'photographer': 'Photo by www.gulliblestravels.co.uk', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/tripodfish.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Triacanthus_biaculeatus__tripodfish.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00038/ib-2070_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00038/ib-2070_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00038/ib-2070_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00038/ib-2070_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3098', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3098', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Trbia_l0.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Trbia_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4562&what=larvegg', 
+                 'img-name': 'Triacanthus_biaculeatus__Trbia_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1786)', 
+ 'Max length': '30  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Triacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4562, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Trbia_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Triacanthus biaculeatus', 
+             'id': 4562, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4562'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4562'
+          }, 
+ 'eles-seq': 1305
+}

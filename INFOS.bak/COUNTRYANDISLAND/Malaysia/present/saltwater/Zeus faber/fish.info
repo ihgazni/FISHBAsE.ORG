@@ -1,0 +1,337 @@
+{
+ 'Common names': 
+                 [
+                  ' John dory (English)', 
+                  ' Dory tompok (Malay)', 
+                  ' Dory (English)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=342', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u4.jpg', 
+                 'photographer': 'Photo by Hernández-González, C.L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1370&what=species', 
+                 'img-name': 'Zeus_faber__Zefab_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u5.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u7.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=570', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_f0.jpg', 
+                 'photographer': 'Photo by Cambraia Duarte, P.M.N. (c)ImagDOP', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_ub.jpg', 
+                 'photographer': 'Photo by First, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1712', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_uc.jpg', 
+                 'photographer': 'Photo by Dijkstra, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=640', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u2.jpg', 
+                 'photographer': 'Photo by SeaFIC', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Zefab_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=129', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Zefab_u0.gif', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=1370&what=species&TotRec=10', 
+                 'img-name': 'Zeus_faber__Zefab_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjdory.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/jdory.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__jdory.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frimg0079.jpg&w=300', 
+                 'photographer': 'Photo by Christoph Huebner', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rimg0079.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__rimg0079.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsctpetersfisk_hrk.jpg&w=300', 
+                 'photographer': 'Photo by Henrik Rosendahl Kristiansen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sctpetersfisk_hrk.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__sctpetersfisk_hrk.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1343315500_82.243.202.40.jpg&w=300', 
+                 'photographer': 'Photo by maridom', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1343315500_82.243.202.40.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__1343315500_82.243.202.40.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp7120413.jpg&w=300', 
+                 'photographer': 'Photo by Paolo', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p7120413.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__p7120413.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fzeusfaberlinnaeus1758landscape1024.jpg&w=300', 
+                 'photographer': 'Photo by Gallery Marko Jezernik, Piran', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/zeusfaberlinnaeus1758landscape1024.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__zeusfaberlinnaeus1758landscape1024.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgallopedro.jpg&w=300', 
+                 'photographer': 'Photo by jose carlos pedreño lopez', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gallopedro.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__gallopedro.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fzeufab.jpg&w=300', 
+                 'photographer': 'Photo by Mariano Garc', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/zeufab.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Zeus_faber__zeufab.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/P04212.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/P04212.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM61139.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM61139.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM64395_219.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM64395_219.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM64676_314.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM64676_314.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM49887_DSCN3195.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM49887_DSCN3195.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1821', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_ud.jpg', 
+                 'photographer': '    Photo by Chada, T.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1370&what=stamps', 
+                 'img-name': 'Zeus_faber__Zefab_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u0.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1370&what=stamps&TotRec=5', 
+                 'img-name': 'Zeus_faber__Zefab_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u3.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1370&what=stamps&TotRec=5', 
+                 'img-name': 'Zeus_faber__Zefab_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u8.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1370&what=stamps&TotRec=5', 
+                 'img-name': 'Zeus_faber__Zefab_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u9.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1370&what=stamps&TotRec=5', 
+                 'img-name': 'Zeus_faber__Zefab_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=170', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Zefab_l0.gif', 
+                 'photographer': 'Photo by Halbeisen, H.-W.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1370&what=larvegg', 
+                 'img-name': 'Zeus_faber__Zefab_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Zefab_l1.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Zefab_l1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1370&what=larvegg&TotRec=2', 
+                 'img-name': 'Zeus_faber__Zefab_l1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Linnaeus, 1758', 
+ 'Max length': '90 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Zeidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1370, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Zefab_u7.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Zeus faber', 
+             'id': 1370, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1370'
+            }, 
+ 'Remark': 'Specimens (about 10 cm SL) have been collected from the South China Sea near Sarawak (Ref. 27550).  Of no commercial value in the country (Ref. 27550).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1370'
+          }, 
+ 'eles-seq': 1350
+}

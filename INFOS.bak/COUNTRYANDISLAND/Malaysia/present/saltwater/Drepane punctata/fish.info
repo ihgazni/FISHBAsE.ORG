@@ -1,0 +1,279 @@
+{
+ 'Common names': 
+                 [
+                  ' Spotted sicklefish (English)', 
+                  ' Daun-baru bintik (Malay)', 
+                  ' Sicklefish (English)', 
+                  ' Spotted batfish (English)', 
+                  ' Spotted moonfish (English)', 
+                  ' Agung-agung (Malay)', 
+                  ' Baharu-baharu (Malay)', 
+                  ' Bebaru (Malay)', 
+                  ' Berbaharu (Malay)', 
+                  ' Buna (Malay)', 
+                  ' Daun baharu (Malay)', 
+                  ' Daun baharu (Malay)', 
+                  ' Daun baru (Malay)', 
+                  ' Paling (Malay)', 
+                  ' Pau cheow (Malay)', 
+                  ' Sabi (Malay)', 
+                  ' Sapehi (Malay)', 
+                  ' Sapi-sapi (Malay)', 
+                  ' Sapih-sapih (Malay)', 
+                  ' Sepihi (Malay)', 
+                  ' Telinga gajah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1369', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u4.jpg', 
+                 'photographer': 'Photo by NREB, Sarawak/ DANIDA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=454&what=species', 
+                 'img-name': 'Drepane_punctata__Drpun_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1099', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u2.jpg', 
+                 'photographer': 'Photo by Chua, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1218', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u3.jpg', 
+                 'photographer': 'Photo by Klimpel, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Drpun_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Drpun_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Drpun_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=454&what=species&TotRec=7', 
+                 'img-name': 'Drepane_punctata__Drpun_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397212898_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397212898_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1397212898_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0135.jpg&w=300', 
+                 'photographer': 'Photo by Empyrean Jiang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0135.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__img_0135.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1489575699_162.158.155.112.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1489575699_162.158.155.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1489575699_162.158.155.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00485.jpg&w=300', 
+                 'photographer': 'Photo by Mostafa Armandeh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00485.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__dsc00485.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F100_2470.jpg&w=300', 
+                 'photographer': 'Photo by Nor', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/100_2470.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__100_2470.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365217674_182.178.14.5.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365217674_182.178.14.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1365217674_182.178.14.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367150049_182.178.34.113.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367150049_182.178.34.113.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1367150049_182.178.34.113.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476622236_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476622236_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1476622236_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476622299_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476622299_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1476622299_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1194612208_2dbbfeb209.jpg&w=300', 
+                 'photographer': 'Photo by Tim Loh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1194612208_2dbbfeb209.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1194612208_2dbbfeb209.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369794085_182.52.96.191.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369794085_182.52.96.191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1369794085_182.52.96.191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486612447_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486612447_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Drepane_punctata__1486612447_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2230', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2230', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1850', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1850', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1861', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1861', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1758)', 
+ 'Max length': '50 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Drepaneidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 454, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Drpun_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Drepane punctata', 
+             'id': 454, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=454'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=454'
+          }, 
+ 'eles-seq': 396
+}

@@ -1,0 +1,303 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1143', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u0.jpg', 
+                 'photographer': 'Photo by Adams, M.J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=60329&what=species', 
+                 'img-name': 'Hippocampus_denise__Hiden_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1143', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u1.jpg', 
+                 'photographer': 'Photo by Adams, M.J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u2.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u3.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u4.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u5.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1593', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u6.jpg', 
+                 'photographer': 'Photo by Brett, O.J. / www.tropicalfavourites.com', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1115', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u7.jpg', 
+                 'photographer': 'Photo by Tackett, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hiden_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=60329&what=species&TotRec=8', 
+                 'img-name': 'Hippocampus_denise__Hiden_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippodenisefreeswim33b.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippodenisefreeswim33b.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__hippodenisefreeswim33b.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippodeniseorange22.jpg&w=300', 
+                 'photographer': 'Photo by Ole Johan Brett', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippodeniseorange22.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__hippodeniseorange22.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippocampus-denise.jpg&w=300', 
+                 'photographer': 'Photo by Teresa Zuberbuhler', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippocampus-denise.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__hippocampus-denise.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1444437775_24.215.186.224.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1444437775_24.215.186.224.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__1444437775_24.215.186.224.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1454410619_87.65.199.244.jpg&w=300', 
+                 'photographer': 'Photo by Rudi Bloemmen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1454410619_87.65.199.244.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__1454410619_87.65.199.244.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1471769881_108.162.219.94.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1471769881_108.162.219.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__1471769881_108.162.219.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1472161254_108.162.219.94.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1472161254_108.162.219.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__1472161254_108.162.219.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fh.denise.jpg&w=300', 
+                 'photographer': 'Photo by yeong yee ling', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/h.denise.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__h.denise.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fh.denise_male.jpg&w=300', 
+                 'photographer': 'Photo by yeong yee ling', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/h.denise_male.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_denise__h.denise_male.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Lourie & Randall, 2003', 
+ 'Max length': '2.4 SL (female)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 60329, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hiden_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus denise', 
+             'id': 60329, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=60329'
+            }, 
+ 'Remark': 'Reported from Mabul (Ref. 47053).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=60329'
+          }, 
+ 'eles-seq': 586
+}

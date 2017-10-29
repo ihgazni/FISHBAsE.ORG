@@ -1,0 +1,992 @@
+{
+ 'Common names': 
+                 [
+                  ' Common dolphinfish (English)', 
+                  ' Belitong lumba (Malay)', 
+                  ' Dolphinfish (English)', 
+                  ' Dorado (English)', 
+                  ' Belitong (Malay)', 
+                  ' Golok (Malay)', 
+                  ' Golok kasut (Malay)', 
+                  ' Ikan lumba (Malay)', 
+                  ' Lumba-lumba (Malay)', 
+                  ' Parang (Malay)', 
+                  ' Parang bodoh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u1.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6&what=species', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=788', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_uh.jpg', 
+                 'photographer': 'Photo by Brokovich, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_uh.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_uh.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1043', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_j0.jpg', 
+                 'photographer': 'Photo by Tanaka, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1043', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_j1.jpg', 
+                 'photographer': 'Photo by Tanaka, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_j1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_j1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1732', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_ug.jpg', 
+                 'photographer': 'Photo by Janzon, L.-A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_ug.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_ug.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=998', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_uc.jpg', 
+                 'photographer': 'Photo by Vaske Jr., T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=870', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u9.jpg', 
+                 'photographer': 'Photo by Jean-Francois Helias / Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1012', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_m0.jpg', 
+                 'photographer': 'Photo by Freitas, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=222', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u0.jpg', 
+                 'photographer': 'Photo by CENAIM', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_ud.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_ue.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_ue.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_ue.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_j0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Coequ_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Coequ_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Coequ_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=784', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u8.jpg', 
+                 'photographer': 'Photo by Windsor Nature Discovery', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=15&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_b0.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_b0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=16&ID=6&what=species&TotRec=18', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_b0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryph.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryph.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryph.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F6-25-2007-02.jpg&w=300', 
+                 'photographer': 'Photo by Christopher Scott', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/6-25-2007-02.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__6-25-2007-02.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F6-25-2007-05.jpg&w=300', 
+                 'photographer': 'Photo by Christopher Scott', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/6-25-2007-05.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__6-25-2007-05.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F6-25-2007-07.jpg&w=300', 
+                 'photographer': 'Photo by Christopher Scott', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/6-25-2007-07.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__6-25-2007-07.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdourado1.jpg&w=300', 
+                 'photographer': 'Photo by Carlos A. Rangel', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dourado1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dourado1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F100_1212_1_coryphaena_hippurus.jpg&w=300', 
+                 'photographer': 'Photo by Christos Takis Ioannou', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/100_1212_1_coryphaena_hippurus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__100_1212_1_coryphaena_hippurus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryphaena_hippurus.jpg&w=300', 
+                 'photographer': 'Photo by Costas Giannakenas', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryphaena_hippurus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryphaena_hippurus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1350670090_94.68.104.178.jpg&w=300', 
+                 'photographer': 'Photo by Stathis', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1350670090_94.68.104.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1350670090_94.68.104.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1350670203_94.68.104.178.jpg&w=300', 
+                 'photographer': 'Photo by Stathis', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1350670203_94.68.104.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1350670203_94.68.104.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1433245681_46.190.71.4.jpg&w=300', 
+                 'photographer': 'Photo by Papadopoulou Dora', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1433245681_46.190.71.4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1433245681_46.190.71.4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryphaenahippurus101.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryphaenahippurus101.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryphaenahippurus101.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryhippu.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryhippu.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryhippu.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmahimahi1.jpg&w=300', 
+                 'photographer': 'Photo by Shankaragouda', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/mahimahi1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__mahimahi1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476714705_162.158.165.27.jpg&w=300', 
+                 'photographer': 'Photo by MUDDULA KRISHNA N AND V GOVINDA RAO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476714705_162.158.165.27.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1476714705_162.158.165.27.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476714772_162.158.165.27.jpg&w=300', 
+                 'photographer': 'Photo by MUDDULA KRISHNA N AND V GOVINDA RAO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476714772_162.158.165.27.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1476714772_162.158.165.27.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpic_834.jpg&w=300', 
+                 'photographer': 'Photo by Thomas Schreiber', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pic_834.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__pic_834.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1453119277_85.232.201.81.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1453119277_85.232.201.81.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1453119277_85.232.201.81.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fc_hippurus_fb2.jpg&w=300', 
+                 'photographer': 'Photo by Daniel Villarreal', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/c_hippurus_fb2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__c_hippurus_fb2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoriphena.jpg&w=300', 
+                 'photographer': 'Photo by Sendroiu Ionut', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coriphena.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coriphena.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryphaenahippurus.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryphaenahippurus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryphaenahippurus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoryphaenahippuruspatch.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coryphaenahippuruspatch.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__coryphaenahippuruspatch.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365852633_182.178.47.126.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365852633_182.178.47.126.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1365852633_182.178.47.126.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414164219_39.44.70.201.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414164219_39.44.70.201.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1414164219_39.44.70.201.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414164237_39.44.70.201.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414164237_39.44.70.201.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1414164237_39.44.70.201.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414853374_39.50.186.87.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414853374_39.50.186.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1414853374_39.50.186.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414853471_39.50.186.87.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414853471_39.50.186.87.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1414853471_39.50.186.87.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1420952751_39.50.238.131.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1420952751_39.50.238.131.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1420952751_39.50.238.131.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1420952768_39.44.52.117.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1420952768_39.44.52.117.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1420952768_39.44.52.117.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480349688_188.114.103.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480349688_188.114.103.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1480349688_188.114.103.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcohip_02.jpg&w=300', 
+                 'photographer': 'Photo by Daniel Ore Villalba', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cohip_02.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__cohip_02.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1353971323_83.42.184.39.jpg&w=300', 
+                 'photographer': 'Photo by Diego Bononato (senior)', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1353971323_83.42.184.39.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__1353971323_83.42.184.39.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimagen518.jpg&w=300', 
+                 'photographer': 'Photo by Diego Bononato', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/imagen518.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__imagen518.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthai-dorado.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thai-dorado.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__thai-dorado.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthai-dorado2.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thai-dorado2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__thai-dorado2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthai-dorado3.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thai-dorado3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__thai-dorado3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fthai-dorado4.jpg&w=300', 
+                 'photographer': 'Photo by www.fishing-thailand.org', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/thai-dorado4.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__thai-dorado4.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphiandboobs.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT marmaris TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphiandboobs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphiandboobs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinandcap.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT marmaris TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinandcap.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinandcap.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfish1.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT MARMARIS TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfish1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfish1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfish1a.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT MARMARIS TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfish1a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfish1a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfishandibo.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT MARMARIS TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfishandibo.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfishandibo.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfishandlinda.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT MARMARIS TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfishandlinda.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfishandlinda.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfishead.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT MARMARIS TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfishead.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfishead.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfishwithman3.jpg&w=300', 
+                 'photographer': 'Photo by LINDA EMERSON GUN from the FINDING NEMO BOAT marmaris TURKEY', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfishwithman3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfishwithman3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcatchaugust04.jpg&w=300', 
+                 'photographer': 'Photo by CAPTAIN NEMO AND MRS.NEMO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/catchaugust04.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__catchaugust04.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdolphinfish3.jpg&w=300', 
+                 'photographer': 'Photo by CAPTAIN NEMO AND MRS.NEMO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dolphinfish3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__dolphinfish3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsj_mahi.jpg&w=300', 
+                 'photographer': 'Photo by Carol Cox', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sj_mahi.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coryphaena_hippurus__sj_mahi.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=285', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=285', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3043', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=3043', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=326', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=326', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2268', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2268', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2269', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2269', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2186', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2186', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2207', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2207', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1429', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1429', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=269', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=269', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_ui.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_ui.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6&what=stamps', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_ui.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2282', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_uj.jpg', 
+                 'photographer': '    Photo by Jongsma, H.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_uj.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_uj.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u2.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u3.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u4.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u5.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=485', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u6.jpg', 
+                 'photographer': '    Photo by Bottini, P.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_u7.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1029', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_uf.jpg', 
+                 'photographer': '    Photo by Bhathal, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_uf.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6&what=stamps&TotRec=9', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_uf.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_e0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_e0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6&what=larvegg', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_e0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_j0.gif', 
+                 'photographer': 'Photo by Biological Services Program, U.S. Fish and Wildlife Services', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l1.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l2.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l2.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l3.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l3.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l4.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l4.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cohip_l5.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cohip_l5.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6&what=larvegg&TotRec=8', 
+                 'img-name': 'Coryphaena_hippurus__Cohip_l5.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Linnaeus, 1758', 
+ 'Max length': '200 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Coryphaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Cohip_ud.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Coryphaena hippurus', 
+             'id': 6, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6'
+          }, 
+ 'eles-seq': 332
+}

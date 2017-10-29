@@ -1,0 +1,270 @@
+{
+ 'Common names': 
+                 [
+                  ' Goldband goatfish (English)', 
+                  ' Maluku (Malay)', 
+                  ' Goatfish (English)', 
+                  ' Bandang janggut (Malay)', 
+                  ' Biji nangka (Malay)', 
+                  ' Butir nangka (Malay)', 
+                  ' Lebai (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1437', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upmol_u3.jpg', 
+                 'photographer': 'Photo by Khalaf, M.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upmol_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4444&what=species', 
+                 'img-name': 'Upeneus_moluccensis__Upmol_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upmol_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upmol_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4444&what=species&TotRec=5', 
+                 'img-name': 'Upeneus_moluccensis__Upmol_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upmol_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upmol_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4444&what=species&TotRec=5', 
+                 'img-name': 'Upeneus_moluccensis__Upmol_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upmol_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upmol_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4444&what=species&TotRec=5', 
+                 'img-name': 'Upeneus_moluccensis__Upmol_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Upmol_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upmol_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4444&what=species&TotRec=5', 
+                 'img-name': 'Upeneus_moluccensis__Upmol_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fupeensis.jpg&w=300', 
+                 'photographer': 'Photo by R. Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/upeensis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__upeensis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1419487006_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Upeneus moluccensis', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1419487006_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1419487006_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434624665_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434624665_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1434624665_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1363194012_182.178.115.23.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1363194012_182.178.115.23.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1363194012_182.178.115.23.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1447057069_202.141.231.138.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1447057069_202.141.231.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1447057069_202.141.231.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1476614722_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1476614722_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1476614722_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807267_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807267_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807267_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807311_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807311_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807311_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807470_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807470_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807470_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807529_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807529_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807529_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807655_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807655_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807655_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807780_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807780_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807780_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1488807803_188.114.102.198.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1488807803_188.114.102.198.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__1488807803_188.114.102.198.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fupeneus_moluccensis.jpg&w=300', 
+                 'photographer': 'Photo by Akin T. ILKYAZ', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/upeneus_moluccensis.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_moluccensis__upeneus_moluccensis.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1440a.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1440a.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1440b.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1440b.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1441a.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1441a.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1441b.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM1441b.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1855)', 
+ 'Max length': '22 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Mullidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4444, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upmol_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Upeneus moluccensis', 
+             'id': 4444, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4444'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4444'
+          }, 
+ 'eles-seq': 1324
+}

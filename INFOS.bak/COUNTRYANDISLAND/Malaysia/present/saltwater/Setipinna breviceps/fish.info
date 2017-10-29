@@ -1,0 +1,57 @@
+{
+ 'Common names': 
+                 [
+                  ' Shorthead hairfin anchovy (English)', 
+                  ' Empirang kepala pendek (Malay)', 
+                  ' Hairfin anchovy (English)', 
+                  ' Bersia (Malay)', 
+                  ' Biang-biang (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Empirang (Malay)', 
+                  ' Ikan kucing (Malay)', 
+                  ' Impirang (Malay)', 
+                  ' Jelebat (Malay)', 
+                  ' Kasai janggut (Malay)', 
+                  ' Mempurong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sebre_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Sebre_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8809&what=species', 
+                 'img-name': 'Setipinna_breviceps__Sebre_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cantor, 1849)', 
+ 'Max length': '21.4 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8809, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Sebre_u1.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Setipinna breviceps', 
+             'id': 8809, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8809'
+            }, 
+ 'Remark': 'Occurs near the mouth of the Rajang Basin in Sarawak, Borneo (Ref. 57780).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8809'
+          }, 
+ 'eles-seq': 1182
+}

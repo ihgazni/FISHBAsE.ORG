@@ -1,0 +1,164 @@
+{
+ 'Common names': 
+                 [
+                  ' Blackmouth angler (English)', 
+                  ' Kertatok angsa (Malay)', 
+                  ' Goose fish (English)', 
+                  ' Kertatok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lomia_u0.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lomia_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7517&what=species', 
+                 'img-name': 'Lophiomus_setigerus__Lomia_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Loset_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Loset_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7517&what=species&TotRec=4', 
+                 'img-name': 'Lophiomus_setigerus__Loset_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Loset_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Loset_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7517&what=species&TotRec=4', 
+                 'img-name': 'Lophiomus_setigerus__Loset_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Lomia_u1.jpg', 
+                 'photographer': 'Photo by Reyes, R.B.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Lomia_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7517&what=species&TotRec=4', 
+                 'img-name': 'Lophiomus_setigerus__Lomia_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1362930586_125.77.228.32.jpg&w=300', 
+                 'photographer': 'Photo by Mingru Chen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1362930586_125.77.228.32.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1362930586_125.77.228.32.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487826627_141.101.98.138.jpg&w=300', 
+                 'photographer': 'Photo by Dr.M.Arumugam', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487826627_141.101.98.138.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1487826627_141.101.98.138.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367083400_182.178.80.166.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367083400_182.178.80.166.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1367083400_182.178.80.166.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367083414_182.178.80.166.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367083414_182.178.80.166.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1367083414_182.178.80.166.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367126440_182.178.90.48.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367126440_182.178.90.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1367126440_182.178.90.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367126462_182.178.90.48.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367126462_182.178.90.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1367126462_182.178.90.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367126489_182.178.90.48.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367126489_182.178.90.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Lophiomus_setigerus__1367126489_182.178.90.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00036/i2005-1335_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00036/i2005-1335_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Vahl, 1797)', 
+ 'Max length': '45 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Lophiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7517, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Loset_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Lophiomus setigerus', 
+             'id': 7517, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7517'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7517'
+          }, 
+ 'eles-seq': 685
+}

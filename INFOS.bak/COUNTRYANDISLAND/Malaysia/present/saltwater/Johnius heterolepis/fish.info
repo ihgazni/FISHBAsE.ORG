@@ -1,0 +1,37 @@
+{
+ 'Common names': 
+                 [
+                  ' Large-scale croaker (English)', 
+                  ' Gelama sisik (Malay)', 
+                  ' Croaker (English)', 
+                  ' Gelama (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1873', 
+ 'Max length': '15 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Johnius heterolepis', 
+             'id': 15244, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15244'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 630
+}

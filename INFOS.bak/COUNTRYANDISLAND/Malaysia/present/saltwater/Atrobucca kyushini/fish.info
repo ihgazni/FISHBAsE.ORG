@@ -1,0 +1,37 @@
+{
+ 'Common names': 
+                 [
+                  ' Black-spot croaker (English)', 
+                  ' Gelama tanda (Malay)', 
+                  ' Croaker (English)', 
+                  ' Gelama (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': 'common (usually seen)', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Sasaki & Kailola, 1988', 
+ 'Max length': '25 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Sciaenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Atrobucca kyushini', 
+             'id': 15219, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15219'
+            }, 
+ 'Remark': 'Sarawak.', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 119
+}

@@ -1,0 +1,60 @@
+{
+ 'Common names': 
+                 [
+                  ' Lobejaw ilisha (English)', 
+                  ' Puput kirang (Malay)', 
+                  ' Ilisha (English)', 
+                  ' Puput (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ilsir_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ilsir_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1637&what=species', 
+                 'img-name': 'Ilisha_sirishai__Ilsir_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ilsir_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ilsir_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1637&what=species&TotRec=2', 
+                 'img-name': 'Ilisha_sirishai__Ilsir_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Seshagiri Rao, 1975', 
+ 'Max length': '17 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pristigasteridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1637, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ilsir_u1.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ilisha sirishai', 
+             'id': 1637, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1637'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1637'
+          }, 
+ 'eles-seq': 611
+}

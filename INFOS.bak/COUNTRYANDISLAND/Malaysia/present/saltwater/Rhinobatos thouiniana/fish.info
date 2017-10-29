@@ -1,0 +1,59 @@
+{
+ 'Common names': 
+                 [
+                  " Shaw's shovelnose guitar fish (English)", 
+                  ' Yu kemejan (Malay)', 
+                  ' Yu kia-kia (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2008', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtho_u3.jpg', 
+                 'photographer': 'Photo by A. Biju Kumar', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtho_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=62788&what=species', 
+                 'img-name': 'Rhinobatos_thouiniana__Rhtho_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1432210902_14.139.185.66.jpg&w=300', 
+                 'photographer': 'Photo by Vishnuraj R S', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1432210902_14.139.185.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhinobatos_thouiniana__1432210902_14.139.185.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Shaw, 1804)', 
+ 'Max length': '120 NG (male)', 
+ 'Maturity': '', 
+ 'Family': 'Rhinobatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 62788, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtho_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rhinobatos thouiniana', 
+             'id': 62788, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=62788'
+            }, 
+ 'Remark': 'Confined to Sarawak waters (Ref. 27550).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=62788'
+          }, 
+ 'eles-seq': 1087
+}

@@ -1,0 +1,181 @@
+{
+ 'Common names': 
+                 [
+                  ' Largetooth sawfish (English)', 
+                  ' Pari-gergaji seragam (Malay)', 
+                  ' Freshwater sawfish (English)', 
+                  ' Great-toothed sawfish (English)', 
+                  ' Sawfish (English)', 
+                  ' Beroi (Malay)', 
+                  ' Kan sua (Malay)', 
+                  ' Yu beroi (Malay)', 
+                  ' Yu gergaji (Malay)', 
+                  ' Yu parang (Malay)', 
+                  ' Yu todak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmic_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmic_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2546&what=species', 
+                 'img-name': 'Pristis_microdon__Prmic_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Prmic_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmic_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=2546&what=species&TotRec=3', 
+                 'img-name': 'Pristis_microdon__Prmic_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Prmic_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmic_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=2546&what=species&TotRec=3', 
+                 'img-name': 'Pristis_microdon__Prmic_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00740x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00740x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristis_microdon__dsc00740x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00744x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00744x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pristis_microdon__dsc00744x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p3saw_lateral.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p3saw_lateral.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p2lateral_post.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p2lateral_post.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p1lateral.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1902-0255_p1lateral.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p4saw.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p4saw.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p3lateral_head.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p3lateral_head.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p1caudal.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0646_p1caudal.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p3saw.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p3saw.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p2lateral_pelv.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p2lateral_pelv.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p1caudal.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/i1994-0647_p1caudal.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p4top_pect_left.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p4top_pect_left.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p3toppelv.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p3toppelv.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p2saw.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p2saw.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p1caudal.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00029/ia-9699_p1caudal.jpg', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmic_u3.jpg', 
+                 'photographer': '    Photo by Fabres, B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Prmic_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=2546&what=stamps', 
+                 'img-name': 'Pristis_microdon__Prmic_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Latham, 1794', 
+ 'Max length': '460 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pristidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 2546, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Prmic_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pristis microdon', 
+             'id': 2546, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=2546'
+            }, 
+ 'Remark': '.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=2546'
+          }, 
+ 'eles-seq': 1011
+}

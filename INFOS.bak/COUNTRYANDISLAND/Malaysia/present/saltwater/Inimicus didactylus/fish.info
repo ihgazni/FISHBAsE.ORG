@@ -1,0 +1,235 @@
+{
+ 'Common names': 
+                 [
+                  ' Bearded ghoul (English)', 
+                  ' Depu-kala janggut (Malay)', 
+                  ' Depu (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u1.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5826&what=species', 
+                 'img-name': 'Inimicus_didactylus__Indid_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u2.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5826&what=species&TotRec=6', 
+                 'img-name': 'Inimicus_didactylus__Indid_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u3.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5826&what=species&TotRec=6', 
+                 'img-name': 'Inimicus_didactylus__Indid_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u5.jpg', 
+                 'photographer': 'Photo by Ferber, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5826&what=species&TotRec=6', 
+                 'img-name': 'Inimicus_didactylus__Indid_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=5826&what=species&TotRec=6', 
+                 'img-name': 'Inimicus_didactylus__Indid_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u4.jpg', 
+                 'photographer': 'Photo by Fisheries Research Institute, Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Indid_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=5826&what=species&TotRec=6', 
+                 'img-name': 'Inimicus_didactylus__Indid_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1393062170_210.212.251.114.jpg&w=300', 
+                 'photographer': 'Photo by R.Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1393062170_210.212.251.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__1393062170_210.212.251.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5597.jpg&w=300', 
+                 'photographer': 'Photo by Michael Henke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5597.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__img_5597.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbeardedghoul.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/beardedghoul.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__beardedghoul.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fbeardedghou.jpg&w=300', 
+                 'photographer': 'Photo by JimGreenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/beardedghou.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__beardedghou.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicusdidactylus1.jpg&w=300', 
+                 'photographer': 'Photo by Carlos Faria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicusdidactylus1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicusdidactylus1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicusdidactylus2.jpg&w=300', 
+                 'photographer': 'Photo by Carlos Faria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicusdidactylus2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicusdidactylus2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicusdidactylus.jpg&w=300', 
+                 'photographer': 'Photo by Carlos Faria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicusdidactylus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicusdidactylus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487059983_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487059983_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__1487059983_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicusdidactylus%2528spinydevilfish%2529newbornjuveniledumaguete_wm.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicusdidactylus%28spinydevilfish%29newbornjuveniledumaguete_wm.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicusdidactylus%28spinydevilfish%29newbornjuveniledumaguete_wm.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicus_didactylus_%2528spiny_devilfish%2529_dumaguete.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicus_didactylus_%28spiny_devilfish%29_dumaguete.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicus_didactylus_%28spiny_devilfish%29_dumaguete.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Finimicus_didactylus_%2528spiny_devilfish%2529_newborn_dumaguete.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/inimicus_didactylus_%28spiny_devilfish%29_newborn_dumaguete.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Inimicus_didactylus__inimicus_didactylus_%28spiny_devilfish%29_newborn_dumaguete.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00037/i2005-1699_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00037/i2005-1699_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=707', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=707', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Pallas, 1769)', 
+ 'Max length': '25 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Synanceiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5826, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Indid_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Inimicus didactylus', 
+             'id': 5826, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5826'
+            }, 
+ 'Remark': 'Also Ref. 48635, 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5826'
+          }, 
+ 'eles-seq': 615
+}

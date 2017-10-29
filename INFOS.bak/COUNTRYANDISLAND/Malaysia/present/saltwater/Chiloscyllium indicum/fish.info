@@ -1,0 +1,94 @@
+{
+ 'Common names': 
+                 [
+                  ' Slender bambooshark (English)', 
+                  ' Yu-cicak tembaga (Malay)', 
+                  ' Catshark (English)', 
+                  ' Dogshark (English)', 
+                  ' Ridge-back bambooshark (English)', 
+                  ' Slender bamooshark (English)', 
+                  ' Kau suar (Malay)', 
+                  ' Yu belak (Malay)', 
+                  ' Yu bodoh (Malay)', 
+                  ' Yu cicak (Malay)', 
+                  ' Yu pasir (Malay)', 
+                  ' Yu pokah (Malay)', 
+                  ' Yu rimau (Malay)', 
+                  ' Yu tekek (Malay)', 
+                  ' Yu tembaga (Malay)', 
+                  ' Yu tokeh (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chind_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chind_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5900&what=species', 
+                 'img-name': 'Chiloscyllium_indicum__Chind_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1338179410_118.173.73.179.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1338179410_118.173.73.179.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_indicum__1338179410_118.173.73.179.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1338179536_118.173.73.179.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1338179536_118.173.73.179.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_indicum__1338179536_118.173.73.179.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374651681_182.52.68.233.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374651681_182.52.68.233.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chiloscyllium_indicum__1374651681_182.52.68.233.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Gmelin, 1789)', 
+ 'Max length': '65 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Hemiscylliidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5900, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Chind_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chiloscyllium indicum', 
+             'id': 5900, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5900'
+            }, 
+ 'Remark': 'Possibly may occur in fresh water in the lower reaches of the Perak River in peninsular Malayasia (Ref. 43278).  Also Ref. 247, 43278.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5900'
+          }, 
+ 'eles-seq': 277
+}

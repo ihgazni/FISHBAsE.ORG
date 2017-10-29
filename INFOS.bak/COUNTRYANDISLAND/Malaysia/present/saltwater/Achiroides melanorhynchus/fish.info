@@ -1,0 +1,71 @@
+{
+ 'Common names': 
+                 [
+                  ' Sole (English)', 
+                  ' Lidah gelap (Malay)', 
+                  ' Lidah (Malay)', 
+                  ' Sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=120', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acmel_u1.jpg', 
+                 'photographer': 'Photo by Baird,  I.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acmel_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25164&what=species', 
+                 'img-name': 'Achiroides_melanorhynchus__Acmel_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Acmel_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Acmel_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=25164&what=species&TotRec=2', 
+                 'img-name': 'Achiroides_melanorhynchus__Acmel_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442998969_103.245.88.250.jpg&w=300', 
+                 'photographer': 'Photo by Zahar A Zakaria', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442998969_103.245.88.250.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Achiroides_melanorhynchus__1442998969_103.245.88.250.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1850)', 
+ 'Max length': '14 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Soleidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25164, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Acmel_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Achiroides melanorhynchus', 
+             'id': 25164, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25164'
+            }, 
+ 'Remark': 'Occurs near the mouth Rajang Basin in Sarawak, Borneo (Ref. 57780).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25164'
+          }, 
+ 'eles-seq': 29
+}

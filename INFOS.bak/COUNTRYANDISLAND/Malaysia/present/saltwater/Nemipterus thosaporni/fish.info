@@ -1,0 +1,55 @@
+{
+ 'Common names': 
+                 [
+                  ' Palefin threadfin bream (English)', 
+                  ' Kerisi birat (Malay)', 
+                  ' Threadfin bream (English)', 
+                  ' Gerisi (Malay)', 
+                  ' Gurisi merah (Malay)', 
+                  ' Kerisi (Malay)', 
+                  ' Kerisi merah (Malay)', 
+                  ' Kurusi (Bajau) (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Pasir-pasir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Netho_u2.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Netho_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5414&what=species', 
+                 'img-name': 'Nemipterus_thosaporni__Netho_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Russell, 1991', 
+ 'Max length': '23 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Nemipteridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5414, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Netho_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nemipterus thosaporni', 
+             'id': 5414, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5414'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5414'
+          }, 
+ 'eles-seq': 791
+}

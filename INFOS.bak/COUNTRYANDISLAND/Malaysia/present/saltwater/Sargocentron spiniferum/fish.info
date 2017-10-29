@@ -1,0 +1,294 @@
+{
+ 'Common names': 
+                 [
+                  ' Sabre squirrelfish (English)', 
+                  ' Sebekah-karang merah (Malay)', 
+                  ' Soldierfish (English)', 
+                  ' Spiny squirrelfish (English)', 
+                  ' Squirrelfish (English)', 
+                  ' Lolong bara (Malay)', 
+                  ' Lolong batu (Malay)', 
+                  ' Sebekah karang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6507&what=species', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=726', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u3.jpg', 
+                 'photographer': 'Photo by Camrrubi, J.-F.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=287', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u1.jpg', 
+                 'photographer': 'Photo by Trevor, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_j0.jpg', 
+                 'photographer': 'Photo by First, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u9.jpg', 
+                 'photographer': 'Photo by First, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Saspi_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=32', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Saspi_u1.gif', 
+                 'photographer': 'Photo by Günther, A.C.L.G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6507&what=species&TotRec=11', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsargocentron_spiniferum.jpg&w=300', 
+                 'photographer': 'Photo by Pascal Irz', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sargocentron_spiniferum.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__sargocentron_spiniferum.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481552275_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481552275_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__1481552275_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsargocentron-spiniferum-k01-7510.jpg&w=300', 
+                 'photographer': 'Photo by Scott Johnson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sargocentron-spiniferum-k01-7510.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__sargocentron-spiniferum-k01-7510.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsaspirs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/saspirs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__saspirs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_0686.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_0686.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__fb_0686.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482254202_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482254202_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__1482254202_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsargocentronspiniferumandyfoden.jpg&w=300', 
+                 'photographer': 'Photo by Andy Foden', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/sargocentronspiniferumandyfoden.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__sargocentronspiniferumandyfoden.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F0203081611.jpg&w=300', 
+                 'photographer': 'Photo by ryanzlotecki', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/0203081611.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Sargocentron_spiniferum__0203081611.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=87', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=87', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2690', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2690', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1475', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_ua.jpg', 
+                 'photographer': '    Photo by Saravanan, R.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6507&what=stamps', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u8.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6507&what=stamps&TotRec=2', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_j0.jpg', 
+                 'photographer': '    Photo by First, D.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saspi_j0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6507&what=larvegg', 
+                 'img-name': 'Sargocentron_spiniferum__Saspi_j0.jpg', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '51 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Holocentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6507, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saspi_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sargocentron spiniferum', 
+             'id': 6507, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6507'
+            }, 
+ 'Remark': 'Considered a trash fish in the country (Ref. 27550).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6507'
+          }, 
+ 'eles-seq': 1117
+}

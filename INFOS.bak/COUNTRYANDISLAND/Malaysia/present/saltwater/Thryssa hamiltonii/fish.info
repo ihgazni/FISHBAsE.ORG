@@ -1,0 +1,185 @@
+{
+ 'Common names': 
+                 [
+                  " Hamilton's thryssa (English)", 
+                  ' Kasai minyak (Malay)', 
+                  ' Thryssa (English)', 
+                  ' Bakok (Malay)', 
+                  ' Bakok daun (Malay)', 
+                  ' Bakok minyak (Malay)', 
+                  ' Bangkok (Malay)', 
+                  ' Besin (Malay)', 
+                  ' Bilis (Malay)', 
+                  ' Empirang (Malay)', 
+                  ' Garang-garang (Malay)', 
+                  ' Gemedi (Malay)', 
+                  ' Jemedi (Malay)', 
+                  ' Kasai (Malay)', 
+                  ' Kasi-kasi (Malay)', 
+                  ' Mempinis (Malay)', 
+                  ' Pirang (Malay)', 
+                  ' Puput (Malay)', 
+                  ' Pusu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thham_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thham_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=589&what=species', 
+                 'img-name': 'Thryssa_hamiltonii__Thham_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thham_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thham_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=589&what=species&TotRec=4', 
+                 'img-name': 'Thryssa_hamiltonii__Thham_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thham_u1.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thham_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=589&what=species&TotRec=4', 
+                 'img-name': 'Thryssa_hamiltonii__Thham_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thham_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thham_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=589&what=species&TotRec=4', 
+                 'img-name': 'Thryssa_hamiltonii__Thham_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402158741_103.230.104.23.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402158741_103.230.104.23.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1402158741_103.230.104.23.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434604655_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434604655_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1434604655_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372746686_80.191.248.35.jpg&w=300', 
+                 'photographer': 'Photo by seyed ahmad reza hashemi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372746686_80.191.248.35.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1372746686_80.191.248.35.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1372747968_80.191.248.35.jpg&w=300', 
+                 'photographer': 'Photo by Hashemi , seyed ahmad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1372747968_80.191.248.35.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1372747968_80.191.248.35.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366040417_182.178.32.137.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366040417_182.178.32.137.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1366040417_182.178.32.137.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366991107_182.178.16.188.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366991107_182.178.16.188.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1366991107_182.178.16.188.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367894733_182.52.96.141.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367894733_182.52.96.141.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1367894733_182.52.96.141.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486543383_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486543383_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thryssa_hamiltonii__1486543383_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Gray, 1835', 
+ 'Max length': '25.1 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 589, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thham_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thryssa hamiltonii', 
+             'id': 589, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=589'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=589'
+          }, 
+ 'eles-seq': 1287
+}

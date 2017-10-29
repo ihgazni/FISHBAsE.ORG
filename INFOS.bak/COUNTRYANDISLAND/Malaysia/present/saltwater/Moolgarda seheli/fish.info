@@ -1,0 +1,110 @@
+{
+ 'Common names': 
+                 [
+                  ' Bluespot mullet (English)', 
+                  ' Kedera tanda biru (Malay)', 
+                  ' Mullet (English)', 
+                  ' Belanak (Malay)', 
+                  ' Belanak angin (Malay)', 
+                  ' Belanak angina (Malay)', 
+                  ' Jangis (Malay)', 
+                  ' Jempol (Malay)', 
+                  ' Kedera (Malay)', 
+                  ' Rapang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Vaseh_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Vaseh_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5659&what=species', 
+                 'img-name': 'Moolgarda_seheli__Vaseh_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Vaseh_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Vaseh_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=5659&what=species&TotRec=4', 
+                 'img-name': 'Moolgarda_seheli__Vaseh_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Vaseh_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Vaseh_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=5659&what=species&TotRec=4', 
+                 'img-name': 'Moolgarda_seheli__Vaseh_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Vaseh_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Vaseh_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=5659&what=species&TotRec=4', 
+                 'img-name': 'Moolgarda_seheli__Vaseh_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1492865004_162.158.165.204.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1492865004_162.158.165.204.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Moolgarda_seheli__1492865004_162.158.165.204.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375393095_83.89.41.145.jpg&w=300', 
+                 'photographer': 'Photo by Peter Rask M', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375393095_83.89.41.145.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Moolgarda_seheli__1375393095_83.89.41.145.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Forsskål, 1775)', 
+ 'Max length': '60 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Mugilidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5659, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Vaseh_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Moolgarda seheli', 
+             'id': 5659, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5659'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5659'
+          }, 
+ 'eles-seq': 739
+}

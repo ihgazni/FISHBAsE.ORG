@@ -1,0 +1,137 @@
+{
+ 'Common names': 
+                 [
+                  ' Longtail seamoth (English)', 
+                  ' Kupu-kupu laut ekor panjang (Malay)', 
+                  ' Sea moth (English)', 
+                  ' Belalang karang (Malay)', 
+                  ' Unduk (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1541', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u2.jpg', 
+                 'photographer': 'Photo by Maddern, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4609&what=species', 
+                 'img-name': 'Pegasus_volitans__Pevol_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1541', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u3.jpg', 
+                 'photographer': 'Photo by Maddern, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2081', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u5.jpg', 
+                 'photographer': 'Photo by Malaer, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u4.jpg', 
+                 'photographer': 'Photo by Ferber, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pevol_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pevol_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4609&what=species&TotRec=7', 
+                 'img-name': 'Pegasus_volitans__Pevol_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimgp2626.jpg&w=300', 
+                 'photographer': 'Photo by Jos Howard', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/imgp2626.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pegasus_volitans__imgp2626.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/P00030.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/P00030.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/P_20001.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/P_20001.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Linnaeus, 1758', 
+ 'Max length': '20 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pegasidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4609, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pevol_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pegasus volitans', 
+             'id': 4609, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4609'
+            }, 
+ 'Remark': 'Also Ref. 1418. Known from Sarawak.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4609'
+          }, 
+ 'eles-seq': 903
+}

@@ -1,0 +1,227 @@
+{
+ 'Common names': 
+                 [
+                  ' Pink whipray (English)', 
+                  ' Pari pucat (Malay)', 
+                  ' Pari (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hifai_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hifai_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12587&what=species', 
+                 'img-name': 'Himantura_fai__Hifai_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hifai_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hifai_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12587&what=species&TotRec=3', 
+                 'img-name': 'Himantura_fai__Hifai_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hifai_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hifai_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=12587&what=species&TotRec=3', 
+                 'img-name': 'Himantura_fai__Hifai_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374167837_131.94.226.178.jpg&w=300', 
+                 'photographer': 'Photo by Kirk R Gastrich', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374167837_131.94.226.178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1374167837_131.94.226.178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fa.jpg&w=300', 
+                 'photographer': 'Photo by gaspar cecile', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436893578_222.124.71.149.jpg&w=300', 
+                 'photographer': 'Photo by Galih Rakasiwi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436893578_222.124.71.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1436893578_222.124.71.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhimanturafai01904p6280096.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/himanturafai01904p6280096.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__himanturafai01904p6280096.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1358929629_84.187.197.32.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1358929629_84.187.197.32.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1358929629_84.187.197.32.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481800857_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481800857_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1481800857_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481806334_188.114.102.52.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481806334_188.114.102.52.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1481806334_188.114.102.52.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396515390_101.109.245.88.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396515390_101.109.245.88.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1396515390_101.109.245.88.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396515574_101.109.245.88.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396515574_101.109.245.88.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1396515574_101.109.245.88.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396515806_101.109.245.88.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396515806_101.109.245.88.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__1396515806_101.109.245.88.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3600_himantura_fai.jpg&w=300', 
+                 'photographer': 'Photo by Otakar Seycek', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3600_himantura_fai.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_fai__img_3600_himantura_fai.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Jordan & Seale, 1906', 
+ 'Max length': '184 WD (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12587, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hifai_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Himantura fai', 
+             'id': 12587, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12587'
+            }, 
+ 'Remark': 'Recorded during 1999-2004 study (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12587'
+          }, 
+ 'eles-seq': 569
+}

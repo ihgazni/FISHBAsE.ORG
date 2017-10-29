@@ -1,0 +1,49 @@
+{
+ 'Common names': 
+                 [
+                  ' Sabah damsel (English)', 
+                  ' Gombing-tanda Sabah (Malay)', 
+                  ' Damselfish (English)', 
+                  ' Gombing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2292', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pogem_u0.jpg', 
+                 'photographer': 'Photo by Ryanskiy, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pogem_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25216&what=species', 
+                 'img-name': 'Pomacentrus_geminospilus__Pogem_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Allen, 1993', 
+ 'Max length': '8 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25216, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pogem_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomacentrus geminospilus', 
+             'id': 25216, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25216'
+            }, 
+ 'Remark': 'Museum: pass between Bodgaya and Bohaydulong Is., Sabah, 10-12 m, WAM P.30409-006 (holotype, 5.01 cm SL).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25216'
+          }, 
+ 'eles-seq': 981
+}

@@ -1,0 +1,58 @@
+{
+ 'Common names': 
+                 [
+                  ' Longtail shad (English)', 
+                  ' Terubuk laut (Malay)', 
+                  ' Herring (English)', 
+                  ' Shad (English)', 
+                  ' Small-mouth tenualosa (English)', 
+                  ' Bengkalis (Malay)', 
+                  ' Chee kark (Malay)', 
+                  ' Empirit (Malay)', 
+                  ' Ikan bengkalis (Malay)', 
+                  ' Temparik (Malay)', 
+                  ' Terubok (Malay)', 
+                  ' Terubok laut (Malay)', 
+                  ' Terubuk (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Temac_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Temac_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1597&what=species', 
+                 'img-name': 'Tenualosa_macrura__Temac_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1852)', 
+ 'Max length': '52 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Clupeidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1597, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Temac_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Tenualosa macrura', 
+             'id': 1597, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1597'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1597'
+          }, 
+ 'eles-seq': 1269
+}

@@ -1,0 +1,34 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Herre, 1940)', 
+ 'Max length': '3.1500000953674 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudogobius avicennia', 
+             'id': 27420, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=27420'
+            }, 
+ 'Remark': 'Found in Matang mangrove (Ref. 94984).', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 1038
+}

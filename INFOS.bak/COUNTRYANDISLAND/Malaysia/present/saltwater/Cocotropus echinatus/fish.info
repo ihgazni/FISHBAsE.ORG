@@ -1,0 +1,34 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cantor, 1849)', 
+ 'Max length': '7.1700000762939 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Aploactinidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cocotropus echinatus', 
+             'id': 59074, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59074'
+            }, 
+ 'Remark': 'Type locality: Sea of Penang (Ref. 49352).', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 317
+}

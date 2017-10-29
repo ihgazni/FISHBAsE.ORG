@@ -1,0 +1,69 @@
+{
+ 'Common names': 
+                 [
+                  ' Bensasi goatfish (English)', 
+                  ' Biji nangka Jepun (Malay)', 
+                  ' Goatfish (English)', 
+                  ' Red mullet goatfish (English)', 
+                  ' Yellowfin goatfish (English)', 
+                  ' Biji nangka (Malay)', 
+                  ' Butir nangka (Malay)', 
+                  ' Lebai (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upjap_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upjap_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7879&what=species', 
+                 'img-name': 'Upeneus_japonicus__Upjap_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Upjap_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upjap_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7879&what=species&TotRec=2', 
+                 'img-name': 'Upeneus_japonicus__Upjap_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://artedi.nrm.se/nrmfish/images/tNRM55484.jpg', 
+                 'external-url': 'http://artedi.nrm.se/nrmfish/images/tNRM55484.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Houttuyn, 1782)', 
+ 'Max length': '15.699999809265 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Mullidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7879, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upjap_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Upeneus japonicus', 
+             'id': 7879, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7879'
+            }, 
+ 'Remark': 'Also Ref. 35545.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7879'
+          }, 
+ 'eles-seq': 1323
+}

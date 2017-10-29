@@ -1,0 +1,162 @@
+{
+ 'Common names': 
+                 [
+                  ' Indian threadfin (English)', 
+                  ' Mancong (Malay)', 
+                  ' Tassel fish (English)', 
+                  ' Threadfin (English)', 
+                  ' Kurau (Malay)', 
+                  ' Kurow (Malay)', 
+                  ' Senangin (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1190', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leind_u0.jpg', 
+                 'photographer': 'Photo by Yap, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leind_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4469&what=species', 
+                 'img-name': 'Leptomelanosoma_indicum__Leind_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2288', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leind_u1.jpg', 
+                 'photographer': 'Photo by Motomura, H.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Leind_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4469&what=species&TotRec=3', 
+                 'img-name': 'Leptomelanosoma_indicum__Leind_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Poind_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Poind_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4469&what=species&TotRec=3', 
+                 'img-name': 'Leptomelanosoma_indicum__Poind_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1346861130_119.30.45.97.jpg&w=300', 
+                 'photographer': 'Photo by Md.Shamsuddin Elias', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1346861130_119.30.45.97.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1346861130_119.30.45.97.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402128384_103.230.105.26.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402128384_103.230.105.26.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1402128384_103.230.105.26.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1403459952_101.2.162.34.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1403459952_101.2.162.34.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1403459952_101.2.162.34.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1429698850_202.4.173.58.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1429698850_202.4.173.58.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1429698850_202.4.173.58.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1470215630_180.250.84.170.jpg&w=300', 
+                 'photographer': 'Photo by Fahmi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1470215630_180.250.84.170.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1470215630_180.250.84.170.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fleptomelanosaindicum.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/leptomelanosaindicum.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__leptomelanosaindicum.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374061508_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374061508_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1374061508_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1374061527_182.178.46.15.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1374061527_182.178.46.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Leptomelanosoma_indicum__1374061527_182.178.46.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Shaw, 1804)', 
+ 'Max length': '100 NG (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Polynemidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4469, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Leind_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Leptomelanosoma indicum', 
+             'id': 4469, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4469'
+            }, 
+ 'Remark': 'Including Borneo (Ref. 5756).  One of the most important fishery species in the country (Ref. 57343).  Also Ref. 5756, 45350.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4469'
+          }, 
+ 'eles-seq': 658
+}

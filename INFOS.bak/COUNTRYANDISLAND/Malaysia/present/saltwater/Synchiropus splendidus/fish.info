@@ -1,0 +1,207 @@
+{
+ 'Common names': 
+                 [
+                  ' Mandarinfish (English)', 
+                  ' Bebaji batik (Malay)', 
+                  ' Bebaji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12644&what=species', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1909', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u6.jpg', 
+                 'photographer': 'Photo by Honeycutt, K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=474', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u4.jpg', 
+                 'photographer': 'Photo by Marsden, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2049', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_m0.jpg', 
+                 'photographer': 'Photo by Wehner, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_m0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_m0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=301', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u3.jpg', 
+                 'photographer': 'Photo by Murdy, E.O./Ferraris, C.J., Jr.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=12644&what=species&TotRec=7', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsynchiropus_splendidus_m_008.jpg&w=300', 
+                 'photographer': 'Photo by Wehner, Christian', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/synchiropus_splendidus_m_008.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__synchiropus_splendidus_m_008.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsynchiropus_splendidus_w_009.jpg&w=300', 
+                 'photographer': 'Photo by Wehner, Christian', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/synchiropus_splendidus_w_009.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__synchiropus_splendidus_w_009.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_4748.jpg&w=300', 
+                 'photographer': 'Photo by Michael Henke', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_4748.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__img_4748.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc_7290.jpg&w=300', 
+                 'photographer': 'Photo by Beverly Speed', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc_7290.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__dsc_7290.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1487064548_162.158.62.203.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1487064548_162.158.62.203.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__1487064548_162.158.62.203.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fsynchiropussplendidus03392p4040251.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/synchiropussplendidus03392p4040251.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__synchiropussplendidus03392p4040251.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_2899.jpg&w=300', 
+                 'photographer': 'Photo by Mark Pleasants', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_2899.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Synchiropus_splendidus__img_2899.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2992', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2992', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=65', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u2.jpg', 
+                 'photographer': '    Photo by Reyes, R.B.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Syspl_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12644&what=stamps', 
+                 'img-name': 'Synchiropus_splendidus__Syspl_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Herre, 1927)', 
+ 'Max length': '7 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Callionymidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12644, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Syspl_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Synchiropus splendidus', 
+             'id': 12644, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12644'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12644'
+          }, 
+ 'eles-seq': 1251
+}

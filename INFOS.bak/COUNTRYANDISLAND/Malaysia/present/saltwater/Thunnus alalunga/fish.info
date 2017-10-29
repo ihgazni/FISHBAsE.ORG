@@ -1,0 +1,244 @@
+{
+ 'Common names': 
+                 [
+                  ' Albacore (English)', 
+                  ' Tuna albakor (Malay)', 
+                  ' Aya (Malay)', 
+                  ' Kayu (Malay)', 
+                  ' Tonggol (Malay)', 
+                  ' Tuna (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1478', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u8.jpg', 
+                 'photographer': 'Photo by Bariche, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=142&what=species', 
+                 'img-name': 'Thunnus_alalunga__Thala_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=843', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u4.jpg', 
+                 'photographer': 'Photo by Archambault, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=789', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u2.jpg', 
+                 'photographer': 'Photo by Chow, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=575', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u6.jpg', 
+                 'photographer': 'Photo by Østergaard, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=514', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u1.jpg', 
+                 'photographer': 'Photo by Pennetti, E.A.L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=640', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u0.jpg', 
+                 'photographer': 'Photo by SeaFIC', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=904', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u5.jpg', 
+                 'photographer': 'Photo by Hofinger, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thala_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thala_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Thala_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=142&what=species&TotRec=10', 
+                 'img-name': 'Thunnus_alalunga__Thala_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc00124.jpg&w=300', 
+                 'photographer': 'Photo by John Koullapis', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc00124.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thunnus_alalunga__dsc00124.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1420988934_89.86.155.201.jpg&w=300', 
+                 'photographer': 'Photo by Gwendal Le Fol', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1420988934_89.86.155.201.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thunnus_alalunga__1420988934_89.86.155.201.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcimg0589.jpg&w=300', 
+                 'photographer': 'Photo by Thunnus alalunga', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cimg0589.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Thunnus_alalunga__cimg0589.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1455_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1455_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1456_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1456_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1456_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1456_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1458_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1458_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1458_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00031/i2004-1458_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=252', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=252', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=250', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u3.jpg', 
+                 'photographer': '    Photo by Rosal, R.E.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=142&what=stamps', 
+                 'img-name': 'Thunnus_alalunga__Thala_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=913', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u7.jpg', 
+                 'photographer': '    Photo by Lehmann, F.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Thala_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=142&what=stamps&TotRec=2', 
+                 'img-name': 'Thunnus_alalunga__Thala_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bonnaterre, 1788)', 
+ 'Max length': '140 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scombridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 142, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Thala_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Thunnus alalunga', 
+             'id': 142, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=142'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=142'
+          }, 
+ 'eles-seq': 1292
+}

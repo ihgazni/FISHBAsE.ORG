@@ -1,0 +1,36 @@
+{
+ 'Common names': 
+                 [
+                  ' Roughnose stingray (English)', 
+                  ' Pari daun (Malay)', 
+                  ' Pari (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [], 
+ 'Abundance': 'abundant (always seen in some numbers)', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Last, Manjaji & Yearsley, 2005', 
+ 'Max length': '45 WD (male) , 44.599998474121 WD (female)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': None, 
+                      'thumbnail-url': None
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pastinachus solocirostris', 
+             'id': 63343, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=63343'
+            }, 
+ 'Remark': 'Type locality, Mukah Fish Market, Mukah, Sarawak, Borneo, South China Sea, IPMB 38.32.03 (holotype of', 
+ 'Photo': 
+          {
+           'url': None
+          }, 
+ 'eles-seq': 902
+}

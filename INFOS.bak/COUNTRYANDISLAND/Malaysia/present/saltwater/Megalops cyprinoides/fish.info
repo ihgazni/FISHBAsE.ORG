@@ -1,0 +1,311 @@
+{
+ 'Common names': 
+                 [
+                  ' Indo-Pacific tarpon (English)', 
+                  ' Bulan bulan (Malay)', 
+                  ' Ladyfish (English)', 
+                  ' Moonfish (English)', 
+                  ' Tarpon (English)', 
+                  ' Banang (Malay)', 
+                  ' Banang pipih (Malay)', 
+                  ' Bandaran (Malay)', 
+                  ' Bulan (Malay)', 
+                  ' Bulan-bulan (Malay)', 
+                  ' Ikan bulan (Malay)', 
+                  ' Lian hu (Malay)', 
+                  ' Pipih (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=227&what=species', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mecyp_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mecyp_u1.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Mecyp_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u4.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=227&what=species&TotRec=7', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Foxeye-tarpon.jpg&w=300', 
+                 'photographer': 'Photo by www.gulliblestravels.co.uk', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/oxeye-tarpon.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__oxeye-tarpon.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fguamtarpon.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/guamtarpon.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__guamtarpon.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442392024_14.139.185.226.jpg&w=300', 
+                 'photographer': 'Photo by Eldho.p.s', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442392024_14.139.185.226.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1442392024_14.139.185.226.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1380082101_114.79.19.232.jpg&w=300', 
+                 'photographer': 'Photo by Eko Budi Kuncoro', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1380082101_114.79.19.232.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1380082101_114.79.19.232.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_0535.jpg&w=300', 
+                 'photographer': 'Photo by Ooi Chwen Ren', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_0535.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__img_0535.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1412085009_210.195.14.79.jpg&w=300', 
+                 'photographer': 'Photo by M S Kamarudin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1412085009_210.195.14.79.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1412085009_210.195.14.79.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmegalopscyprinoides.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/megalopscyprinoides.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__megalopscyprinoides.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364833007_182.178.40.241.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364833007_182.178.40.241.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1364833007_182.178.40.241.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365915118_182.178.95.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365915118_182.178.95.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1365915118_182.178.95.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390553416_182.178.126.110.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390553416_182.178.126.110.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1390553416_182.178.126.110.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390553446_182.178.126.110.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390553446_182.178.126.110.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1390553446_182.178.126.110.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1358782206_202.72.107.85.jpg&w=300', 
+                 'photographer': 'Photo by Fabio de assis', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1358782206_202.72.107.85.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1358782206_202.72.107.85.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Findopacifictarponimg_2764.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Francois Helias, Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/indopacifictarponimg_2764.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__indopacifictarponimg_2764.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Findopacifictarponimg_2770.jpg&w=300', 
+                 'photographer': 'Photo by Jean-Francois Helias, Fishing Adventures Thailand', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/indopacifictarponimg_2770.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__indopacifictarponimg_2770.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1352190490_182.52.96.131.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1352190490_182.52.96.131.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1352190490_182.52.96.131.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1353601749_182.52.96.6.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmunngkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1353601749_182.52.96.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Megalops_cyprinoides__1353601749_182.52.96.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=110', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u1.jpg', 
+                 'photographer': '    Photo by Pauly, I.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Mecyp_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=227&what=stamps', 
+                 'img-name': 'Megalops_cyprinoides__Mecyp_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Broussonet, 1782)', 
+ 'Max length': '150 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Megalopidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 227, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Mecyp_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Megalops cyprinoides', 
+             'id': 227, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=227'
+            }, 
+ 'Remark': 'Recorded from Pulau Tioman (Ref. 41184).  Peak landings are in December (west coast and East Malaysia) and in September (east coast) (Ref. 27550).  Also Ref. 5756, 9987.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=227'
+          }, 
+ 'eles-seq': 721
+}

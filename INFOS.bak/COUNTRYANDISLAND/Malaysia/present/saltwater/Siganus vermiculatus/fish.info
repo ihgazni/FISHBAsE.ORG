@@ -1,0 +1,139 @@
+{
+ 'Common names': 
+                 [
+                  ' Vermiculated spinefoot (English)', 
+                  ' Dengkis batik (Malay)', 
+                  ' Rabbitfish (English)', 
+                  ' Spinefoot (English)', 
+                  ' Belais (Malay)', 
+                  ' Belaris (Malay)', 
+                  ' Belibas (Malay)', 
+                  ' Bliais (Malay)', 
+                  ' Bonang-bonang (Malay)', 
+                  ' Debam (Malay)', 
+                  ' Dengkis (Malay)', 
+                  ' Gelibas (Malay)', 
+                  ' Ketang (Malay)', 
+                  ' Ketang lada (Malay)', 
+                  ' Lambai (Malay)', 
+                  ' Leban (Malay)', 
+                  ' Lumban (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2042', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Siver_u6.jpg', 
+                 'photographer': 'Photo by Greenfield, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Siver_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4561&what=species', 
+                 'img-name': 'Siganus_vermiculatus__Siver_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Siver_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Siver_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4561&what=species&TotRec=3', 
+                 'img-name': 'Siganus_vermiculatus__Siver_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Siver_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Siver_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4561&what=species&TotRec=3', 
+                 'img-name': 'Siganus_vermiculatus__Siver_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1445684877_103.230.105.1.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1445684877_103.230.105.1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_vermiculatus__1445684877_103.230.105.1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1390430647_80.218.91.186.jpg&w=300', 
+                 'photographer': 'Photo by Piero Malaer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1390430647_80.218.91.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_vermiculatus__1390430647_80.218.91.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1406966310_84.115.64.69.jpg&w=300', 
+                 'photographer': 'Photo by Juergen Jakobitsch', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1406966310_84.115.64.69.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_vermiculatus__1406966310_84.115.64.69.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375691281_182.52.96.47.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375691281_182.52.96.47.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_vermiculatus__1375691281_182.52.96.47.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1452839830_94.198.18.55.jpg&w=300', 
+                 'photographer': 'Photo by Markevich A.I.', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1452839830_94.198.18.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Siganus_vermiculatus__1452839830_94.198.18.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1835)', 
+ 'Max length': '45 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Siganidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4561, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Siver_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Siganus vermiculatus', 
+             'id': 4561, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4561'
+            }, 
+ 'Remark': 'Also Ref. 27550.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4561'
+          }, 
+ 'eles-seq': 1196
+}

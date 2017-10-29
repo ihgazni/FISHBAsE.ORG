@@ -1,0 +1,106 @@
+{
+ 'Common names': 
+                 [
+                  ' Bengal tongue sole (English)', 
+                  ' Lidah-lidah (Malay)', 
+                  ' Tonguefish (English)', 
+                  ' Tonguesole (English)', 
+                  ' Lidah (Malay)', 
+                  ' Sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cycyn_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cycyn_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=5456&what=species', 
+                 'img-name': 'Cynoglossus_cynoglossus__Cycyn_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscn3119.jpg&w=300', 
+                 'photographer': 'Photo by Mahmud Hasan Tuhin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscn3119.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cynoglossus_cynoglossus__dscn3119.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481435365_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481435365_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cynoglossus_cynoglossus__1481435365_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481435399_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481435399_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cynoglossus_cynoglossus__1481435399_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481435491_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481435491_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cynoglossus_cynoglossus__1481435491_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1481435541_188.114.102.55.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1481435541_188.114.102.55.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Cynoglossus_cynoglossus__1481435541_188.114.102.55.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '20 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Cynoglossidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 5456, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cycyn_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Cynoglossus cynoglossus', 
+             'id': 5456, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=5456'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=5456'
+          }, 
+ 'eles-seq': 349
+}

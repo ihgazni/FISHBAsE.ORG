@@ -1,0 +1,152 @@
+{
+ 'Common names': 
+                 [
+                  ' Pointed-nose stingray (English)', 
+                  ' Pari naga (Malay)', 
+                  " Jenkin's whipray (English)", 
+                  " Jenkins' whipray (English)", 
+                  ' Pari (Malay)', 
+                  ' Pari lalat (Malay)', 
+                  ' Pari pasir (Malay)', 
+                  ' Pari tanjung (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1675', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hijen_u0.jpg', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hijen_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12589&what=species', 
+                 'img-name': 'Himantura_jenkinsii__Hijen_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hidra_m0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hidra_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12589&what=species&TotRec=3', 
+                 'img-name': 'Himantura_jenkinsii__Hidra_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hijen_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hijen_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=12589&what=species&TotRec=3', 
+                 'img-name': 'Himantura_jenkinsii__Hijen_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1436893194_222.124.71.149.jpg&w=300', 
+                 'photographer': 'Photo by Galih Rakasiwi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1436893194_222.124.71.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__1436893194_222.124.71.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjenkinswhipray.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/jenkinswhipray.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__jenkinswhipray.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjenkinswhipray2.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/jenkinswhipray2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__jenkinswhipray2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fjenkinswhipray3.jpg&w=300', 
+                 'photographer': 'Photo by Jim Greenfield', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/jenkinswhipray3.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__jenkinswhipray3.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1337937557_118.173.81.101.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1337937557_118.173.81.101.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__1337937557_118.173.81.101.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371456235_101.109.245.97.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371456235_101.109.245.97.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__1371456235_101.109.245.97.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1378364982_182.52.138.68.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1378364982_182.52.138.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Himantura_jenkinsii__1378364982_182.52.138.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Annandale, 1909)', 
+ 'Max length': '130 WD (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12589, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hidra_m0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Himantura jenkinsii', 
+             'id': 12589, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12589'
+            }, 
+ 'Remark': 'Recorded during the 1994-2004 study (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12589'
+          }, 
+ 'eles-seq': 573
+}

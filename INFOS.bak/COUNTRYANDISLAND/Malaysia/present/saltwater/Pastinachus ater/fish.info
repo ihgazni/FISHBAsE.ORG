@@ -1,0 +1,57 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2247', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paatr_u0.jpg', 
+                 'photographer': 'Photo by Krajangdara, T. & M. Sumontha', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paatr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=65900&what=species', 
+                 'img-name': 'Pastinachus_ater__Paatr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371713119_182.52.68.125.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA and Montri SUMONTHA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371713119_182.52.68.125.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pastinachus_ater__1371713119_182.52.68.125.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Macleay, 1883)', 
+ 'Max length': '', 
+ 'Maturity': '', 
+ 'Family': 'Dasyatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 65900, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Paatr_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pastinachus ater', 
+             'id': 65900, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=65900'
+            }, 
+ 'Remark': 'Known from Sabah (Borneo) (Ref. 84289).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=65900'
+          }, 
+ 'eles-seq': 899
+}

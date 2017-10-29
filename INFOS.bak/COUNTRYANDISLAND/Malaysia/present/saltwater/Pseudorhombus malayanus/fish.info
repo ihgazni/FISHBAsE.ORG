@@ -1,0 +1,162 @@
+{
+ 'Common names': 
+                 [
+                  ' Malayan flounder (English)', 
+                  ' Sebelah Malaya (Malay)', 
+                  ' Flatfish (English)', 
+                  ' Flounder (English)', 
+                  ' Sebelah (Malay)', 
+                  ' Sisa Nabi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psmal_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psmal_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1368&what=species', 
+                 'img-name': 'Pseudorhombus_malayanus__Psmal_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Psmal_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psmal_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1368&what=species&TotRec=2', 
+                 'img-name': 'Pseudorhombus_malayanus__Psmal_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_9.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_9.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_4.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_7.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_7.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_5.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_5.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_8.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_8.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_11.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_11.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_6.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_arsius_1987-1414_6.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_5.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_5.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_4.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_6.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_6.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-1011_3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1999-1011_4.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1865', 
+ 'Max length': '21.6 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Paralichthyidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1368, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psmal_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudorhombus malayanus', 
+             'id': 1368, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1368'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1368'
+          }, 
+ 'eles-seq': 1049
+}

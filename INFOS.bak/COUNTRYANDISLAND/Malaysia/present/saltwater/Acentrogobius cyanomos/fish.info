@@ -1,0 +1,90 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1675', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Accya_u1.jpg', 
+                 'photographer': 'Photo by Devarapalli, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Accya_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25062&what=species', 
+                 'img-name': 'Acentrogobius_cyanomos__Accya_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Accya_u2.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Accya_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=25062&what=species&TotRec=4', 
+                 'img-name': 'Acentrogobius_cyanomos__Accya_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Accya_u4.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Accya_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=25062&what=species&TotRec=4', 
+                 'img-name': 'Acentrogobius_cyanomos__Accya_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2436', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Accya_u3.jpg', 
+                 'photographer': 'Photo by Hasan, M.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Accya_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=25062&what=species&TotRec=4', 
+                 'img-name': 'Acentrogobius_cyanomos__Accya_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Facentrogobius_cyanomos.jpg&w=300', 
+                 'photographer': 'Photo by Ukkrit Satapoomin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/acentrogobius_cyanomos.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Acentrogobius_cyanomos__acentrogobius_cyanomos.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1849)', 
+ 'Max length': '11.5 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25062, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Accya_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Acentrogobius cyanomos', 
+             'id': 25062, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25062'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25062'
+          }, 
+ 'eles-seq': 26
+}

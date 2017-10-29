@@ -1,0 +1,179 @@
+{
+ 'Common names': 
+                 [
+                  ' Snake mackerel (English)', 
+                  ' Tetimah tenggiri (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=124', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Geser_u0.jpg', 
+                 'photographer': 'Photo by JAMARC', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1041&what=species', 
+                 'img-name': 'Gempylus_serpens__Geser_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=570', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Geser_u1.jpg', 
+                 'photographer': 'Photo by Cambraia Duarte, P.M.N. (c)ImagDOP', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1041&what=species&TotRec=4', 
+                 'img-name': 'Gempylus_serpens__Geser_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=990', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Geser_u2.jpg', 
+                 'photographer': 'Photo by Santiago Barreiro, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1041&what=species&TotRec=4', 
+                 'img-name': 'Gempylus_serpens__Geser_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Geser_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1041&what=species&TotRec=4', 
+                 'img-name': 'Gempylus_serpens__Geser_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmeca002.jpg&w=300', 
+                 'photographer': 'Photo by Marcelo "Moorea" Polato', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/meca002.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__meca002.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fmeca003.jpg&w=300', 
+                 'photographer': 'Photo by Marcelo "Moorea" Polato', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/meca003.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__meca003.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp9190021.jpg&w=300', 
+                 'photographer': 'Photo by Guam DAWR', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p9190021.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__p9190021.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgemserpens.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gemserpens.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__gemserpens.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1389958300_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by KANNAN K', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1389958300_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__1389958300_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1435385025_117.211.16.14.jpg&w=300', 
+                 'photographer': 'Photo by SILEESH MULLASSERI', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1435385025_117.211.16.14.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__1435385025_117.211.16.14.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fme005.jpg&w=300', 
+                 'photographer': 'Photo by Lila Jean Primm', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/me005.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gempylus_serpens__me005.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Geser_l0.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1041&what=larvegg', 
+                 'img-name': 'Gempylus_serpens__Geser_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=329', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Geser_l1.gif', 
+                 'photographer': 'Photo by American Society of Ichthyologists and Herpetologists', 
+                 'img-url': 'http://www.fishbase.us/images/species/Geser_l1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1041&what=larvegg&TotRec=2', 
+                 'img-name': 'Gempylus_serpens__Geser_l1.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Cuvier, 1829', 
+ 'Max length': '100 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gempylidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1041, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Geser_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gempylus serpens', 
+             'id': 1041, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1041'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1041'
+          }, 
+ 'eles-seq': 482
+}

@@ -1,0 +1,106 @@
+{
+ 'Common names': 
+                 [
+                  ' Bald glassy (English)', 
+                  ' Seriding botak (Malay)', 
+                  ' Bald glassy perchlet (English)', 
+                  ' Naked-head glassy perchlet (English)', 
+                  ' Pridin (Malay)', 
+                  ' Seriding putih (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=169', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgym_u1.jpg', 
+                 'photographer': 'Photo by Hermosa, Jr., G.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgym_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4806&what=species', 
+                 'img-name': 'Ambassis_gymnocephalus__Amgym_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=488', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgym_u4.jpg', 
+                 'photographer': 'Photo by Krumme, U.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgym_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4806&what=species&TotRec=5', 
+                 'img-name': 'Ambassis_gymnocephalus__Amgym_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2245', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgym_u5.jpg', 
+                 'photographer': 'Photo by Ratmuangkhwang, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgym_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4806&what=species&TotRec=5', 
+                 'img-name': 'Ambassis_gymnocephalus__Amgym_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2245', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgym_u6.jpg', 
+                 'photographer': 'Photo by Ratmuangkhwang, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgym_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4806&what=species&TotRec=5', 
+                 'img-name': 'Ambassis_gymnocephalus__Amgym_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Amgym_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amgym_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4806&what=species&TotRec=5', 
+                 'img-name': 'Ambassis_gymnocephalus__Amgym_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1356630411_87.115.252.44.jpg&w=300', 
+                 'photographer': 'Photo by Ditch Townsend', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1356630411_87.115.252.44.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Ambassis_gymnocephalus__1356630411_87.115.252.44.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Lacepède, 1802)', 
+ 'Max length': '5.3 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Ambassidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4806, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amgym_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ambassis gymnocephalus', 
+             'id': 4806, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4806'
+            }, 
+ 'Remark': '.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4806'
+          }, 
+ 'eles-seq': 53
+}

@@ -1,0 +1,68 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2245', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pemin_u1.jpg', 
+                 'photographer': 'Photo by Ratmuangkhwang, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pemin_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7485&what=species', 
+                 'img-name': 'Periophthalmus_minutus__Pemin_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1924', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pemin_u2.jpg', 
+                 'photographer': 'Photo by Polgar, G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pemin_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7485&what=species&TotRec=3', 
+                 'img-name': 'Periophthalmus_minutus__Pemin_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1924', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pemin_u3.jpg', 
+                 'photographer': 'Photo by Polgar, G.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pemin_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7485&what=species&TotRec=3', 
+                 'img-name': 'Periophthalmus_minutus__Pemin_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Eggert, 1935', 
+ 'Max length': '7.8000001907349 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7485, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pemin_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Periophthalmus minutus', 
+             'id': 7485, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7485'
+            }, 
+ 'Remark': 'Known from Peninsular Malaysia (Ref. 83599).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7485'
+          }, 
+ 'eles-seq': 921
+}

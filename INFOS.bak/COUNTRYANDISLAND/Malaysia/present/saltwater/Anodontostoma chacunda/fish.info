@@ -1,0 +1,260 @@
+{
+ 'Common names': 
+                 [
+                  ' Chacunda gizzard shad (English)', 
+                  ' Kebasi kuasi (Malay)', 
+                  ' Bony bream (English)', 
+                  ' Chacunda shad (English)', 
+                  ' Gizzard shad (English)', 
+                  ' Shortfinned gizzard shad (English)', 
+                  ' Shortnosed gizzard shad (English)', 
+                  ' Bok kog (Malay)', 
+                  ' Kebasi (Malay)', 
+                  ' Kiaci (Malay)', 
+                  ' Kuasi (Malay)', 
+                  ' Landong (Malay)', 
+                  ' Nandang (Malay)', 
+                  ' Nandong (Malay)', 
+                  ' Pias (Malay)', 
+                  ' Selangat (Malay)', 
+                  ' Tamban (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1369', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u3.jpg', 
+                 'photographer': 'Photo by NREB, Sarawak/ DANIDA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=1619&what=species', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=501', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u6.jpg', 
+                 'photographer': 'Photo by Khan, M.M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1218', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u4.jpg', 
+                 'photographer': 'Photo by Klimpel, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ancha_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ancha_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u5.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ancha_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=1619&what=species&TotRec=9', 
+                 'img-name': 'Anodontostoma_chacunda__Ancha_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fanodontostoma_chacunda.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/anodontostoma_chacunda.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__anodontostoma_chacunda.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402119344_103.230.107.26.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402119344_103.230.107.26.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1402119344_103.230.107.26.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1428733712_103.230.104.5.jpg&w=300', 
+                 'photographer': 'Photo by Mohammad Eusuf Hasan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1428733712_103.230.104.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1428733712_103.230.104.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1434969517_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit K. Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1434969517_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1434969517_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1437378213_14.139.236.242.jpg&w=300', 
+                 'photographer': 'Photo by Amit Kumar Verma', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1437378213_14.139.236.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1437378213_14.139.236.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480329856_162.158.58.156.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Mahesh V', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480329856_162.158.58.156.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1480329856_162.158.58.156.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365784269_182.178.91.58.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365784269_182.178.91.58.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1365784269_182.178.91.58.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1492864148_162.158.165.204.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1492864148_162.158.165.204.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1492864148_162.158.165.204.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fkabasi.jpg&w=300', 
+                 'photographer': 'Photo by Ray Angelo B. Satorre', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/kabasi.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__kabasi.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375682772_182.52.96.47.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375682772_182.52.96.47.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Anodontostoma_chacunda__1375682772_182.52.96.47.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '20 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Clupeidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 1619, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ancha_u1.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Anodontostoma chacunda', 
+             'id': 1619, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=1619'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=1619'
+          }, 
+ 'eles-seq': 79
+}

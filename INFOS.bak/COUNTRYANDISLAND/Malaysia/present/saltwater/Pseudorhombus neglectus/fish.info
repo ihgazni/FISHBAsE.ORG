@@ -1,0 +1,104 @@
+{
+ 'Common names': 
+                 [
+                  ' Flounder (English)', 
+                  ' Sebelah garis dwi tanda (Malay)', 
+                  ' Largetooth flounder (English)', 
+                  ' Sebelah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psneg_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Psneg_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=10588&what=species', 
+                 'img-name': 'Pseudorhombus_neglectus__Psneg_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_9.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_9.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_8.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_8.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_7.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_7.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_6.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_6.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_5.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_5.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_4.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_4.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_neglectus_1987-140_1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_sp._1999-472.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_sp._1999-472.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-472.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/hq/sd00065/pseudor_malayanus_1999-472.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1865', 
+ 'Max length': '11 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Paralichthyidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 10588, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Psneg_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pseudorhombus neglectus', 
+             'id': 10588, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=10588'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=10588'
+          }, 
+ 'eles-seq': 1050
+}

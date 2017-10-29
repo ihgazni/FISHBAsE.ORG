@@ -1,0 +1,132 @@
+{
+ 'Common names': 
+                 [
+                  ' Thorny flathead (English)', 
+                  ' Baji badan berduri (Malay)', 
+                  ' Flathead (English)', 
+                  ' Baji-baji (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1344', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ropri_u3.jpg', 
+                 'photographer': 'Photo by Cherson, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ropri_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=15225&what=species', 
+                 'img-name': 'Rogadius_pristiger__Ropri_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2095', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ropri_u4.jpg', 
+                 'photographer': 'Photo by Tonozuka, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ropri_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=15225&what=species&TotRec=4', 
+                 'img-name': 'Rogadius_pristiger__Ropri_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ropri_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ropri_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=15225&what=species&TotRec=4', 
+                 'img-name': 'Rogadius_pristiger__Ropri_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Ropri_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Ropri_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=15225&what=species&TotRec=4', 
+                 'img-name': 'Rogadius_pristiger__Ropri_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0003-4165_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0003-4165_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0002-4165_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0002-4165_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6849_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6849_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6849_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6849_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6855_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6855_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6855_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6855_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6856_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6856_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6856_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00061/i0000-6856_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00036/i2005-1341_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00036/i2005-1341_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=656', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=656', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Cuvier, 1829)', 
+ 'Max length': '50 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Platycephalidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 15225, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Ropri_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rogadius pristiger', 
+             'id': 15225, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=15225'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=15225'
+          }, 
+ 'eles-seq': 1098
+}

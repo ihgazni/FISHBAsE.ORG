@@ -1,0 +1,455 @@
+{
+ 'Common names': 
+                 [
+                  ' Orange-spotted grouper (English)', 
+                  ' Kerapu bintik jingga (Malay)', 
+                  ' Brown-spotted grouper (English)', 
+                  ' Coral cod (English)', 
+                  ' Coral trout (English)', 
+                  ' Grouper (English)', 
+                  ' Reef cod (English)', 
+                  ' Sea bass (English)', 
+                  ' Chiok kau (Malay)', 
+                  ' Kerapu (Malay)', 
+                  ' Kerapu bintik (Malay)', 
+                  ' Kerapu bloso (Malay)', 
+                  ' Kerapu sungai (Malay)', 
+                  ' Kueh kau (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M, Aq, Lf', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=6465&what=species', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_ua.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u5.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u7.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u8.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_ub.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Epcoi_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u9.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Epcoi_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=6465&what=species&TotRec=13', 
+                 'img-name': 'Epinephelus_coioides__Epcoi_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F23122008148.jpg&w=300', 
+                 'photographer': 'Photo by Daniel Westcott', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/23122008148.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__23122008148.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5235x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5235x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__img_5235x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5236y.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5236y.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__img_5236y.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1402124029_103.230.107.26.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1402124029_103.230.107.26.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1402124029_103.230.107.26.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341324986_117.230.235.223.jpg&w=300', 
+                 'photographer': 'Photo by Arunkumar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341324986_117.230.235.223.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1341324986_117.230.235.223.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341325598_117.230.235.223.jpg&w=300', 
+                 'photographer': 'Photo by Arunkumar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341325598_117.230.235.223.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1341325598_117.230.235.223.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379750678_117.207.247.239.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha, V.A.Iswarya Deepti and K.V.L. Shrikanya Rao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379750678_117.207.247.239.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1379750678_117.207.247.239.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1379750811_117.207.247.239.jpg&w=300', 
+                 'photographer': 'Photo by K. Sujatha, V.A.Iswarya Deepti and K.V.L. Shrikanya Rao', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1379750811_117.207.247.239.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1379750811_117.207.247.239.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1384249994_1.38.27.131.jpg&w=300', 
+                 'photographer': 'Photo by Swatipriyanka Sen', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1384249994_1.38.27.131.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1384249994_1.38.27.131.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1495638143_172.68.144.129.jpg&w=300', 
+                 'photographer': 'Photo by N M KRISHNA AND V G RAO', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1495638143_172.68.144.129.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1495638143_172.68.144.129.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1375775511_37.221.21.211.jpg&w=300', 
+                 'photographer': 'Photo by Parviz Tavakoli-Kolour', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1375775511_37.221.21.211.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1375775511_37.221.21.211.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoioides.jpg&w=300', 
+                 'photographer': 'Photo by Mustafa A. Almukhtar', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coioides.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__coioides.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1397291456_149.255.255.242.jpg&w=300', 
+                 'photographer': 'Photo by Mustafa A. AlMukhtar and Audai AlMansoori', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1397291456_149.255.255.242.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1397291456_149.255.255.242.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364622385_182.178.2.149.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364622385_182.178.2.149.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1364622385_182.178.2.149.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413908617_39.44.216.6.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413908617_39.44.216.6.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1413908617_39.44.216.6.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1413908649_39.44.255.177.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1413908649_39.44.255.177.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1413908649_39.44.255.177.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frico_hamour102810.jpg&w=300', 
+                 'photographer': 'Photo by Ray Angelo B. Satorre', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rico_hamour102810.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__rico_hamour102810.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_4147.jpg&w=300', 
+                 'photographer': 'Photo by Abdullajid U. Basali', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_4147.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__img_4147.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1355803751_182.52.96.78.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1355803751_182.52.96.78.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1355803751_182.52.96.78.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367980466_182.52.96.221.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367980466_182.52.96.221.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__1367980466_182.52.96.221.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fepcoi1.jpg&w=300', 
+                 'photographer': 'Photo by John Burt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/epcoi1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__epcoi1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fepcoipg.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/epcoipg.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__epcoipg.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Forange_spotted_grouper.jpg&w=300', 
+                 'photographer': 'Photo by Syed Ijlal Hussain', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/orange_spotted_grouper.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__orange_spotted_grouper.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fburt_epcoi.jpg&w=300', 
+                 'photographer': 'Photo by John Burt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/burt_epcoi.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Epinephelus_coioides__burt_epcoi.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Hamilton, 1822)', 
+ 'Max length': '120 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Serranidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 6465, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Epcoi_u6.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Epinephelus coioides', 
+             'id': 6465, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=6465'
+            }, 
+ 'Remark': 'Museum: BPBM 26388; SU 32756. Also Ref. 4787.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=6465'
+          }, 
+ 'eles-seq': 435
+}

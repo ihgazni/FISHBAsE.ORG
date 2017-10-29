@@ -1,0 +1,102 @@
+{
+ 'Common names': 
+                 [
+                  ' Blenny (English)', 
+                  ' Bleni ekor bintik (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Blbil_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7569&what=species', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Blbil_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7569&what=species&TotRec=6', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Blbil_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7569&what=species&TotRec=6', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Blbil_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7569&what=species&TotRec=6', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=122', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Blbil_m0.gif', 
+                 'photographer': 'Photo by Springer, V.G./Williams, J.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_m0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=7569&what=species&TotRec=6', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_m0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=122', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Blbil_f0.gif', 
+                 'photographer': 'Photo by Springer, V.G./Williams, J.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Blbil_f0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=7569&what=species&TotRec=6', 
+                 'img-name': 'Blenniella_bilitonensis__Blbil_f0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1858)', 
+ 'Max length': '16 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Blenniidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7569, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Blbil_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Blenniella bilitonensis', 
+             'id': 7569, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7569'
+            }, 
+ 'Remark': 'Museum: Tioman I., BPBM 21952, 21953. Pulau Rawa, AMS I.29688-001. Sabah, Manukan I., off Kota Kinabalu, WAM P.30400-002 (Ref. 9962).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7569'
+          }, 
+ 'eles-seq': 136
+}

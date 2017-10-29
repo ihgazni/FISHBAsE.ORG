@@ -1,0 +1,50 @@
+{
+ 'Common names': 
+                 [
+                  ' Golden cusk (English)', 
+                  ' Belukor batu (Malay)', 
+                  ' Brotula (English)', 
+                  ' Cusk-eel (English)', 
+                  ' Belukor (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=101', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Siimb_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Siimb_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8193&what=species', 
+                 'img-name': 'Sirembo_imberbis__Siimb_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Temminck & Schlegel, 1846)', 
+ 'Max length': '20 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ophidiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8193, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Siimb_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Sirembo imberbis', 
+             'id': 8193, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8193'
+            }, 
+ 'Remark': 'Collected from Sarawak (Ref. 27550).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8193'
+          }, 
+ 'eles-seq': 1207
+}

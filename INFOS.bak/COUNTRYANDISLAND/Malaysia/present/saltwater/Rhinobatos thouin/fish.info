@@ -1,0 +1,120 @@
+{
+ 'Common names': 
+                 [
+                  ' Clubnose guitarfish (English)', 
+                  ' Pari-kemejan muncung panjang (Malay)', 
+                  ' Fiddle shark (English)', 
+                  ' Guitarfish (English)', 
+                  " Shaw's shovelnose guitarfish (English)", 
+                  ' Shovelnose ray (English)', 
+                  ' Thouin ray (English)', 
+                  ' Yu cemangi (Malay)', 
+                  ' Yu kemejan (Malay)', 
+                  ' Yu kia-kia (Malay)', 
+                  ' Yu pengajam (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=87', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtho_u4.jpg', 
+                 'photographer': 'Photo by FishBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtho_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12578&what=species', 
+                 'img-name': 'Rhinobatos_thouin__Rhtho_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtho_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rhtho_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=12578&what=species&TotRec=2', 
+                 'img-name': 'Rhinobatos_thouin__Rhtho_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365909319_182.178.95.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365909319_182.178.95.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhinobatos_thouin__1365909319_182.178.95.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365909357_182.178.95.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365909357_182.178.95.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhinobatos_thouin__1365909357_182.178.95.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367079603_182.178.80.166.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367079603_182.178.80.166.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhinobatos_thouin__1367079603_182.178.80.166.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1368636668_182.178.91.116.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1368636668_182.178.91.116.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rhinobatos_thouin__1368636668_182.178.91.116.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Anonymous [Lacepède], 1798)', 
+ 'Max length': '280  (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Rhinobatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12578, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rhtho_u4.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rhinobatos thouin', 
+             'id': 12578, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12578'
+            }, 
+ 'Remark': 'Recorded during 1999-2004 study (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12578'
+          }, 
+ 'eles-seq': 1086
+}

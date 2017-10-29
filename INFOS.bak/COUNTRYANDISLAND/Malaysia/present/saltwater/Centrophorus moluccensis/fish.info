@@ -1,0 +1,94 @@
+{
+ 'Common names': 
+                 [
+                  ' Smallfin gulper shark (English)', 
+                  ' Yu minyak (Malay)', 
+                  ' Endeavour dogfish (English)', 
+                  ' Smallfin gulpershark (English)', 
+                  ' Yu duri (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M, Fi', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cemol_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Cemol_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=651&what=species', 
+                 'img-name': 'Centrophorus_moluccensis__Cemol_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341183175_202.151.82.115.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341183175_202.151.82.115.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Centrophorus_moluccensis__1341183175_202.151.82.115.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341183333_202.151.82.115.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341183333_202.151.82.115.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Centrophorus_moluccensis__1341183333_202.151.82.115.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1341183435_202.151.82.115.jpg&w=300', 
+                 'photographer': 'Photo by Brent Tibbatts', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1341183435_202.151.82.115.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Centrophorus_moluccensis__1341183435_202.151.82.115.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1338179055_118.173.73.179.jpg&w=300', 
+                 'photographer': 'Photo by Tassapon KRAJANGDARA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1338179055_118.173.73.179.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Centrophorus_moluccensis__1338179055_118.173.73.179.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1860', 
+ 'Max length': '100 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Centrophoridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 651, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Cemol_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Centrophorus moluccensis', 
+             'id': 651, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=651'
+            }, 
+ 'Remark': 'Recorded in the study during 1999-2004; first record (Ref. 53392).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=651'
+          }, 
+ 'eles-seq': 209
+}

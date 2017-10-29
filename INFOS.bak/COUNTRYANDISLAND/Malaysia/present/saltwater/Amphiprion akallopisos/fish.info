@@ -1,0 +1,95 @@
+{
+ 'Common names': 
+                 [
+                  ' Skunk clownfish (English)', 
+                  ' Inggu uban (Malay)', 
+                  ' Clown fish (English)', 
+                  ' Sea anemone (English)', 
+                  ' Bombin (Malay)', 
+                  ' Gombing (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=746', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amaka_u0.jpg', 
+                 'photographer': 'Photo by Fenner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amaka_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8017&what=species', 
+                 'img-name': 'Amphiprion_akallopisos__Amaka_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=810', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amaka_u1.jpg', 
+                 'photographer': 'Photo by Tomeno, V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amaka_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8017&what=species&TotRec=4', 
+                 'img-name': 'Amphiprion_akallopisos__Amaka_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1143', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amaka_u2.jpg', 
+                 'photographer': 'Photo by Adams, M.J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amaka_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=8017&what=species&TotRec=4', 
+                 'img-name': 'Amphiprion_akallopisos__Amaka_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1548', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amaka_u3.jpg', 
+                 'photographer': 'Photo by Broman, A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Amaka_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=8017&what=species&TotRec=4', 
+                 'img-name': 'Amphiprion_akallopisos__Amaka_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Famphiprion_akallopisos_curieuse2010_8422_v.jpg&w=300', 
+                 'photographer': 'Photo by Roberto Pillon', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/amphiprion_akallopisos_curieuse2010_8422_v.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Amphiprion_akallopisos__amphiprion_akallopisos_curieuse2010_8422_v.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1853', 
+ 'Max length': '11 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Pomacentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8017, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Amaka_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Amphiprion akallopisos', 
+             'id': 8017, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8017'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8017'
+          }, 
+ 'eles-seq': 68
+}

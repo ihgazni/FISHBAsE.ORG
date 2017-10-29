@@ -1,0 +1,104 @@
+{
+ 'Common names': 
+                 [
+                  ' Minute leatherjacket (English)', 
+                  ' Kerosok karang (Malay)', 
+                  ' Leatherjacket (English)', 
+                  ' Barat-barat (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=992', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rumin_u0.jpg', 
+                 'photographer': 'Photo by Neussner, O.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rumin_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=7989&what=species', 
+                 'img-name': 'Rudarius_minutus__Rumin_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=992', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rumin_u1.jpg', 
+                 'photographer': 'Photo by Neussner, O.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rumin_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=7989&what=species&TotRec=4', 
+                 'img-name': 'Rudarius_minutus__Rumin_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=992', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rumin_u2.jpg', 
+                 'photographer': 'Photo by Neussner, O.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rumin_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=7989&what=species&TotRec=4', 
+                 'img-name': 'Rudarius_minutus__Rumin_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Rumin_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Rumin_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=7989&what=species&TotRec=4', 
+                 'img-name': 'Rudarius_minutus__Rumin_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484551575_172.68.6.18.jpg&w=300', 
+                 'photographer': 'Photo by vinai arunraktaworn', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484551575_172.68.6.18.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rudarius_minutus__1484551575_172.68.6.18.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484551640_172.68.6.18.jpg&w=300', 
+                 'photographer': 'Photo by vinai arunraktaworn', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484551640_172.68.6.18.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rudarius_minutus__1484551640_172.68.6.18.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Tyler, 1970', 
+ 'Max length': '5 SL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Monacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 7989, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Rumin_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rudarius minutus', 
+             'id': 7989, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=7989'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=7989'
+          }, 
+ 'eles-seq': 1100
+}

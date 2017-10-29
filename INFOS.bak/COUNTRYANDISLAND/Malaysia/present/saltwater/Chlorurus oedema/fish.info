@@ -1,0 +1,98 @@
+{
+ 'Common names': 
+                 [
+                  ' Knothead parrotfish (English)', 
+                  ' Bayan benjol (Malay)', 
+                  ' Darkcapped parrotfish (English)', 
+                  ' Egghead parrotfish (English)', 
+                  ' Parrotfish (English)', 
+                  ' Bayan (Malay)', 
+                  ' Kalat (Malay)', 
+                  ' Ketarap (Malay)', 
+                  ' Perencong (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choed_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Choed_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8394&what=species', 
+                 'img-name': 'Chlorurus_oedema__Choed_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Choed_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Choed_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8394&what=species&TotRec=2', 
+                 'img-name': 'Chlorurus_oedema__Choed_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1451919242_41.56.203.191.jpg&w=300', 
+                 'photographer': 'Photo by Robert Koch', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1451919242_41.56.203.191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chlorurus_oedema__1451919242_41.56.203.191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1451919315_41.56.203.191.jpg&w=300', 
+                 'photographer': 'Photo by Robert Koch', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1451919315_41.56.203.191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chlorurus_oedema__1451919315_41.56.203.191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1451917965_41.56.203.191.jpg&w=300', 
+                 'photographer': 'Photo by Robert Koch', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1451917965_41.56.203.191.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Chlorurus_oedema__1451917965_41.56.203.191.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Snyder, 1909)', 
+ 'Max length': '42 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scaridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8394, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Choed_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chlorurus oedema', 
+             'id': 8394, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8394'
+            }, 
+ 'Remark': 'Also Ref. 5756.  Known from Sabah and Sarawak (Ref. 90102).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8394'
+          }, 
+ 'eles-seq': 283
+}

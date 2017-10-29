@@ -1,0 +1,46 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2006', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saobs_u0.jpg', 
+                 'photographer': 'Photo by Townsend, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Saobs_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=59843&what=species', 
+                 'img-name': 'Salarias_obscurus__Saobs_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bath, 1992', 
+ 'Max length': '13 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Blenniidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 59843, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Saobs_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Salarias obscurus', 
+             'id': 59843, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=59843'
+            }, 
+ 'Remark': 'Sabah', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=59843'
+          }, 
+ 'eles-seq': 1104
+}

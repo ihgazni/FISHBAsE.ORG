@@ -1,0 +1,84 @@
+{
+ 'Common names': 
+                 [
+                  ' Whitelipped eel catfish (English)', 
+                  ' Semilang perut putih (Malay)', 
+                  ' Eel catfish (English)', 
+                  ' Semilang (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Paalb_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Paalb_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=12097&what=species', 
+                 'img-name': 'Paraplotosus_albilabris__Paalb_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-9544_rn2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-9544_rn2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-9544_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/a-9544_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_rn2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_rn2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p3.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p3.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p2.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p2.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00056/ia-9544_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Valenciennes, 1840)', 
+ 'Max length': '134 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Plotosidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 12097, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Paalb_u1.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Paraplotosus albilabris', 
+             'id': 12097, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=12097'
+            }, 
+ 'Remark': 'Juvenile specimen(s) recorded from Sabah (Ref. 31103). Also from ref. 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=12097'
+          }, 
+ 'eles-seq': 881
+}

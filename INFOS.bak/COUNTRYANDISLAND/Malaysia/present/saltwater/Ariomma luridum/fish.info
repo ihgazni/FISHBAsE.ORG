@@ -1,0 +1,51 @@
+{
+ 'Common names': 
+                 [
+                  ' Ariommid (English)', 
+                  ' Jepun tirus (Malay)', 
+                  ' Driftfish (English)', 
+                  ' Pomfret (English)', 
+                  ' Slender ariomma (English)', 
+                  ' Ikan jepun (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Arlur_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Arlur_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8233&what=species', 
+                 'img-name': 'Ariomma_luridum__Arlur_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Jordan & Snyder, 1904', 
+ 'Max length': '35 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Ariommatidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8233, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Arlur_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Ariomma luridum', 
+             'id': 8233, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8233'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8233'
+          }, 
+ 'eles-seq': 99
+}

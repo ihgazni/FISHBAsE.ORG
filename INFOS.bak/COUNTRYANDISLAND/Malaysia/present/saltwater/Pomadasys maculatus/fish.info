@@ -1,0 +1,276 @@
+{
+ 'Common names': 
+                 [
+                  ' Saddle grunt (English)', 
+                  ' Gerut-gerut sebokoh (Malay)', 
+                  ' Blotched grunter (English)', 
+                  ' Blotched javelin-fish (English)', 
+                  ' Grunter (English)', 
+                  ' Saddle grunter (English)', 
+                  ' Spotted silver grunter (English)', 
+                  ' Ambah (Malay)', 
+                  ' Beaung (Malay)', 
+                  ' Celak mata (Malay)', 
+                  ' Chelek mata (Malay)', 
+                  ' Gerut-gerut (Malay)', 
+                  ' Gohot (Malay)', 
+                  ' Ikan kepala batu (Malay)', 
+                  ' Kepala batu (Malay)', 
+                  ' Kepala besar (Malay)', 
+                  ' Megehut (Malay)', 
+                  ' Mengkerong (Malay)', 
+                  ' Mengkerung (Malay)', 
+                  ' Ompak (Malay)', 
+                  ' Rokok (Malay)', 
+                  ' Sebokoh (Malay)', 
+                  ' Sebokok (Malay)', 
+                  ' Selukut (Malay)', 
+                  ' Serkut (Malay)', 
+                  ' Tambagau (Malay)', 
+                  ' Tebal pipi (Malay)', 
+                  ' Umpak (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2415', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_um.jpg', 
+                 'photographer': 'Photo by Bogorodsky, S.V.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_um.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4447&what=species', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_um.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_u4.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_u6.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pomac_u3.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u3.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u3.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pomac_u2.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pomac_u4.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u4.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u4.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Pomac_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1573', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_uh.jpg', 
+                 'photographer': 'Photo by CAFS', 
+                 'img-url': 'http://www.fishbase.us/images/species/Pomac_uh.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4447&what=species&TotRec=9', 
+                 'img-name': 'Pomadasys_maculatus__Pomac_uh.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpommacu.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pommacu.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__pommacu.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1405068863_210.212.232.209.jpg&w=300', 
+                 'photographer': 'Photo by SHASHI BHUSHAN', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1405068863_210.212.232.209.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1405068863_210.212.232.209.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486457037_162.158.155.112.jpg&w=300', 
+                 'photographer': 'Photo by Bharadiya sangita A', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486457037_162.158.155.112.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1486457037_162.158.155.112.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371884856_182.178.57.199.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371884856_182.178.57.199.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1371884856_182.178.57.199.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1371884875_182.178.57.199.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1371884875_182.178.57.199.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1371884875_182.178.57.199.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1460642094_162.158.31.220.jpg&w=300', 
+                 'photographer': 'Photo by Kashif Ayoub', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1460642094_162.158.31.220.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1460642094_162.158.31.220.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1492858440_162.158.165.204.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1492858440_162.158.165.204.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1492858440_162.158.165.204.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1369710185_182.52.96.15.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1369710185_182.52.96.15.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1369710185_182.52.96.15.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486528759_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486528759_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1486528759_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486611975_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486611975_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Pomadasys_maculatus__1486611975_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1864', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1864', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch, 1793)', 
+ 'Max length': '59 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Haemulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4447, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Pomac_um.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Pomadasys maculatus', 
+             'id': 4447, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4447'
+            }, 
+ 'Remark': 'Museum: Penan, MUFS 3363, 3379 (Ref. 27973).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4447'
+          }, 
+ 'eles-seq': 990
+}

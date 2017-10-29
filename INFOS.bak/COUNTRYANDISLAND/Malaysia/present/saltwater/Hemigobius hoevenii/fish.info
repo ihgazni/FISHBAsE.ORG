@@ -1,0 +1,79 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Fr, Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hehoe_u0.jpg', 
+                 'photographer': 'Photo by The Fish Database of Taiwan', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hehoe_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=25078&what=species', 
+                 'img-name': 'Hemigobius_hoevenii__Hehoe_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1753', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hehoe_u1.jpg', 
+                 'photographer': 'Photo by WWF-Canon / Vidthayanon, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hehoe_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=25078&what=species&TotRec=2', 
+                 'img-name': 'Hemigobius_hoevenii__Hehoe_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhemigobiushoevenii19a.jpg&w=300', 
+                 'photographer': 'Photo by Dave Wilson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hemigobiushoevenii19a.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hemigobius_hoevenii__hemigobiushoevenii19a.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhemigob_hoevenii.jpg&w=300', 
+                 'photographer': 'Photo by Ukkrit Satapoomin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hemigob_hoevenii.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hemigobius_hoevenii__hemigob_hoevenii.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1851)', 
+ 'Max length': '6 TL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Gobiidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 25078, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hehoe_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hemigobius hoevenii', 
+             'id': 25078, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=25078'
+            }, 
+ 'Remark': 'Museum: Mangrove at Bamgangan, SW of Sandakan, Sabah, ZSM 27559 (Ref. 43716). Kabili River, North Borneo, CAS 33168 (Ref. 44011).', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=25078'
+          }, 
+ 'eles-seq': 551
+}

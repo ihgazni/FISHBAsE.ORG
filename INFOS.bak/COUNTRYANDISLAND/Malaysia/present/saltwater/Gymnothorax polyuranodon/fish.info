@@ -1,0 +1,104 @@
+{
+ 'Common names': 
+                 [
+                  ' Freshwater moray (English)', 
+                  ' Belut-laut sawa (Malay)', 
+                  ' Moray eel (English)', 
+                  ' Belut (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=691', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypol_u2.jpg', 
+                 'photographer': 'Photo by Pöllabauer, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gypol_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=17227&what=species', 
+                 'img-name': 'Gymnothorax_polyuranodon__Gypol_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypol_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gypol_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=17227&what=species&TotRec=3', 
+                 'img-name': 'Gymnothorax_polyuranodon__Gypol_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=51', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypol_u4.jpg', 
+                 'photographer': 'Photo by IRD/C. Ledru', 
+                 'img-url': 'http://www.fishbase.us/images/species/Gypol_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=17227&what=species&TotRec=3', 
+                 'img-name': 'Gymnothorax_polyuranodon__Gypol_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1432141683_42.60.144.46.jpg&w=300', 
+                 'photographer': 'Photo by Goh Yong Teng', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1432141683_42.60.144.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_polyuranodon__1432141683_42.60.144.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1432141818_42.60.144.46.jpg&w=300', 
+                 'photographer': 'Photo by Goh Yong Teng', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1432141818_42.60.144.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_polyuranodon__1432141818_42.60.144.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1432143182_42.60.144.46.jpg&w=300', 
+                 'photographer': 'Photo by Goh Yong Teng', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1432143182_42.60.144.46.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Gymnothorax_polyuranodon__1432143182_42.60.144.46.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1854)', 
+ 'Max length': '150 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Muraenidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 17227, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Gypol_u2.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Gymnothorax polyuranodon', 
+             'id': 17227, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=17227'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=17227'
+          }, 
+ 'eles-seq': 524
+}

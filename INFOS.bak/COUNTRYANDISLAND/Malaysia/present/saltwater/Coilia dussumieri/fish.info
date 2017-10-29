@@ -1,0 +1,158 @@
+{
+ 'Common names': 
+                 [
+                  ' Goldspotted grenadier anchovy (English)', 
+                  ' Bulu ayam tanda emas (Malay)', 
+                  ' Grenadier anchovy (English)', 
+                  ' Bilis bulu ayam (Malay)', 
+                  ' Bulu ayam (Malay)', 
+                  ' Gonjeng (Malay)', 
+                  ' Gunting (Malay)', 
+                  ' Hong boi (Malay)', 
+                  ' Lawi ayam (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1645', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Codus_u0.jpg', 
+                 'photographer': 'Photo by Sen, S.K.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Codus_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=625&what=species', 
+                 'img-name': 'Coilia_dussumieri__Codus_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Codus_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Codus_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=625&what=species&TotRec=2', 
+                 'img-name': 'Coilia_dussumieri__Codus_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcolilia_dussumieri.jpg&w=300', 
+                 'photographer': 'Photo by Balaram Mahalder', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/colilia_dussumieri.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__colilia_dussumieri.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcoilia.jpg&w=300', 
+                 'photographer': 'Photo by A. K.M. Mahi Uddin, Dr. Mohammad Ali Azadi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/coilia.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__coilia.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421476935_112.79.39.210.jpg&w=300', 
+                 'photographer': 'Photo by DR. BIJAY KALI MAHAPATRA', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421476935_112.79.39.210.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1421476935_112.79.39.210.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365220448_182.178.14.5.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365220448_182.178.14.5.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1365220448_182.178.14.5.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366040852_182.178.32.137.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366040852_182.178.32.137.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1366040852_182.178.32.137.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1366040874_182.178.32.137.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1366040874_182.178.32.137.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1366040874_182.178.32.137.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399008671_182.178.102.92.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399008671_182.178.102.92.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1399008671_182.178.102.92.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399008702_182.178.102.92.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399008702_182.178.102.92.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Coilia_dussumieri__1399008702_182.178.102.92.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/ib-3099_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/ib-3099_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Valenciennes, 1848', 
+ 'Max length': '21 TL (mixed)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 625, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Codus_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Coilia dussumieri', 
+             'id': 625, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=625'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=625'
+          }, 
+ 'eles-seq': 321
+}

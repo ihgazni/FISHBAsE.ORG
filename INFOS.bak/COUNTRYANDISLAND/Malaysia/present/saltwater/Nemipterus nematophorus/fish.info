@@ -1,0 +1,98 @@
+{
+ 'Common names': 
+                 [
+                  ' Doublewhip threadfin bream (English)', 
+                  ' Kerisi dwifilamen (Malay)', 
+                  ' Threadfin bream (English)', 
+                  ' Aji-aji (Malay)', 
+                  ' Gurisi merah (Malay)', 
+                  ' Kerisi (Malay)', 
+                  ' Kurusi (Bajau) (Malay)', 
+                  ' Merah (Malay)', 
+                  ' Pasir-pasir (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nenem_u1.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nenem_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4558&what=species', 
+                 'img-name': 'Nemipterus_nematophorus__Nenem_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nenem_u3.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nenem_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4558&what=species&TotRec=3', 
+                 'img-name': 'Nemipterus_nematophorus__Nenem_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Nenem_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Nenem_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4558&what=species&TotRec=3', 
+                 'img-name': 'Nemipterus_nematophorus__Nenem_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_3570.jpg&w=300', 
+                 'photographer': 'Photo by Sachinandan Dutta', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_3570.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Nemipterus_nematophorus__img_3570.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1385724926_210.212.251.114.jpg&w=300', 
+                 'photographer': 'Photo by R.Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1385724926_210.212.251.114.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Nemipterus_nematophorus__1385724926_210.212.251.114.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bleeker, 1854)', 
+ 'Max length': '25 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Nemipteridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4558, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Nenem_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Nemipterus nematophorus', 
+             'id': 4558, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4558'
+            }, 
+ 'Remark': 'In East Malaysian waters, highest catches occur in depths of more than 50 m.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4558'
+          }, 
+ 'eles-seq': 786
+}

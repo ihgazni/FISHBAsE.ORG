@@ -1,0 +1,60 @@
+{
+ 'Common names': 
+                 [
+                  " Vityaz's frostfish (English)", 
+                  ' Timah-kabut lang (Malay)', 
+                  ' Frostfish (English)', 
+                  ' Timah (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Bevit_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Bevit_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8566&what=species', 
+                 'img-name': 'Benthodesmus_vityazi__Bevit_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Bevit_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Bevit_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8566&what=species&TotRec=2', 
+                 'img-name': 'Benthodesmus_vityazi__Bevit_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Parin & Becker, 1970', 
+ 'Max length': '77 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Trichiuridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8566, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Bevit_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Benthodesmus vityazi', 
+             'id': 8566, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8566'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8566'
+          }, 
+ 'eles-seq': 135
+}

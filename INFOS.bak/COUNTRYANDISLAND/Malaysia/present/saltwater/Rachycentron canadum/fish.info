@@ -1,0 +1,577 @@
+{
+ 'Common names': 
+                 [
+                  ' Cobia (English)', 
+                  ' Aruan tasek (Malay)', 
+                  ' Black kingfish (English)', 
+                  ' Runner (English)', 
+                  ' Sergeant fish (English)', 
+                  ' Buntut karbo (Malay)', 
+                  ' Gabus laut (Malay)', 
+                  ' Hai lay (Malay)', 
+                  ' Jaman (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1932', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u8.jpg', 
+                 'photographer': 'Photo by Marine Conservation Cambodia (MCC)', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=3542&what=species', 
+                 'img-name': 'Rachycentron_canadum__Racan_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2213', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u9.jpg', 
+                 'photographer': 'Photo by Cox, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=268', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u0.jpg', 
+                 'photographer': 'Photo by Flescher, D.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=686', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u4.jpg', 
+                 'photographer': 'Photo by Olsen, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1218', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u5.jpg', 
+                 'photographer': 'Photo by Klimpel, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=726', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u6.jpg', 
+                 'photographer': 'Photo by Camrrubi, J.-F.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1634', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u7.jpg', 
+                 'photographer': 'Photo by McLean, E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u2.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Racan_u1.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u1.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u1.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=135', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Racan_u0.gif', 
+                 'photographer': 'Photo by SFSA', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_b0.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_b0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_b0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2254', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_b1.jpg', 
+                 'photographer': 'Photo by OsteoBase', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_b1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=3542&what=species&TotRec=13', 
+                 'img-name': 'Rachycentron_canadum__Racan_b1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_5237x.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_5237x.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__img_5237x.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1346243917_200.128.60.77.jpg&w=300', 
+                 'photographer': 'Photo by Carla Isobel Elliff', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1346243917_200.128.60.77.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1346243917_200.128.60.77.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fgpcobiaargentique.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/gpcobiaargentique.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__gpcobiaargentique.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fuwcobia10kg.jpg&w=300', 
+                 'photographer': 'Photo by Jeff Camrrubi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/uwcobia10kg.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__uwcobia10kg.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frachycentroncanadum.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rachycentroncanadum.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__rachycentroncanadum.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdsc_0167.jpg&w=300', 
+                 'photographer': 'Photo by K.V. Akhilesh', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dsc_0167.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__dsc_0167.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1349689853_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by ASHOK MAHARSHI VEMURI', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1349689853_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1349689853_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1442314939_14.139.185.226.jpg&w=300', 
+                 'photographer': 'Photo by Kiranya.B', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1442314939_14.139.185.226.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1442314939_14.139.185.226.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1480328862_162.158.58.156.jpg&w=300', 
+                 'photographer': 'Photo by Mahesh V', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1480328862_162.158.58.156.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1480328862_162.158.58.156.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484127234_162.158.50.36.jpg&w=300', 
+                 'photographer': 'Photo by Shailendra Patil', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484127234_162.158.50.36.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1484127234_162.158.50.36.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fcobia.jpg&w=300', 
+                 'photographer': 'Photo by Wau', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/cobia.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__cobia.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F000_0067.jpg&w=300', 
+                 'photographer': 'Photo by Nor', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/000_0067.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__000_0067.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F00036.jpg&w=300', 
+                 'photographer': 'Photo by shirley chang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/00036.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__00036.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1365907302_182.178.95.68.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1365907302_182.178.95.68.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1365907302_182.178.95.68.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399181711_182.178.19.253.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399181711_182.178.19.253.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1399181711_182.178.19.253.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1399181724_182.178.19.253.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1399181724_182.178.19.253.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1399181724_182.178.19.253.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1410335236_118.103.236.195.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1410335236_118.103.236.195.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1410335236_118.103.236.195.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1478705430_162.158.23.108.jpg&w=300', 
+                 'photographer': 'Photo by Asadullah Ali Muhammad', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1478705430_162.158.23.108.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1478705430_162.158.23.108.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F01_rachycentron_canadum_%2528cobia%2529.jpg&w=300', 
+                 'photographer': 'Photo by Colin Teo/SplashingTime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/01_rachycentron_canadum_%28cobia%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__01_rachycentron_canadum_%28cobia%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F02_rachycentron_canadum_%2528cobia%2529.jpg&w=300', 
+                 'photographer': 'Photo by Colin Teo/SplashingTime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/02_rachycentron_canadum_%28cobia%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__02_rachycentron_canadum_%28cobia%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F03_rachycentron_canadum_%2528cobia%2529.jpg&w=300', 
+                 'photographer': 'Photo by Colin Teo/SplashingTime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/03_rachycentron_canadum_%28cobia%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__03_rachycentron_canadum_%28cobia%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F04_rachycentron_canadum_%2528cobia%2529.jpg&w=300', 
+                 'photographer': 'Photo by Colin Teo/SplashingTime.com', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/04_rachycentron_canadum_%28cobia%29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__04_rachycentron_canadum_%28cobia%29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486544375_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486544375_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1486544375_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1486544444_172.68.106.90.jpg&w=300', 
+                 'photographer': 'Photo by Sahat Ratmuangkhwang', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1486544444_172.68.106.90.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1486544444_172.68.106.90.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1405940742_155.223.244.54.jpg&w=300', 
+                 'photographer': 'Photo by Okan Akyol', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1405940742_155.223.244.54.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__1405940742_155.223.244.54.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frachycentroncanadumjuv1.jpg&w=300', 
+                 'photographer': 'Photo by Barrett L. Christie', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rachycentroncanadumjuv1.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__rachycentroncanadumjuv1.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Frachycentroncanadumjuv2.jpg&w=300', 
+                 'photographer': 'Photo by Barrett L. Christie', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/rachycentroncanadumjuv2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__rachycentroncanadumjuv2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fwinne2008.jpg&w=300', 
+                 'photographer': 'Photo by Allen Billingsley', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/winne2008.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Rachycentron_canadum__winne2008.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=485', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u3.jpg', 
+                 'photographer': '    Photo by Bottini, P.  ', 
+                 'img-url': 'http://www.fishbase.us/images/species/Racan_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=3542&what=stamps', 
+                 'img-name': 'Rachycentron_canadum__Racan_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'stamps'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Linnaeus, 1766)', 
+ 'Max length': '200 FL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Rachycentridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 3542, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Racan_u8.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Rachycentron canadum', 
+             'id': 3542, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=3542'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=3542'
+          }, 
+ 'eles-seq': 1071
+}

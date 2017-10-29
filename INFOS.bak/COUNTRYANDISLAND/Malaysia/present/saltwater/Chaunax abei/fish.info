@@ -1,0 +1,71 @@
+{
+ 'Common names': 
+                 [
+                  ' Anglerfish (English)', 
+                  ' Kertatok merah (Malay)', 
+                  ' Sea toad (English)', 
+                  ' Kertatok (Malay)', 
+                  ' Lepu (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=41', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u0.jpg', 
+                 'photographer': 'Photo by Shao, K.T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chabe_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=8236&what=species', 
+                 'img-name': 'Chaunax_abei__Chabe_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=2052', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u3.jpg', 
+                 'photographer': 'Photo by Ho, H.-C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Chabe_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=8236&what=species&TotRec=2', 
+                 'img-name': 'Chaunax_abei__Chabe_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/i1977-0048_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/i1977-0048_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/ib-3112_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00060/ib-3112_p1.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Le Danois, 1978', 
+ 'Max length': '30 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Chaunacidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 8236, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Chabe_u3.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Chaunax abei', 
+             'id': 8236, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=8236'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=8236'
+          }, 
+ 'eles-seq': 252
+}

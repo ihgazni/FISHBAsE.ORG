@@ -1,0 +1,72 @@
+{
+ 'Common names': 
+                 [
+                  ''
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upgut_u0.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Upgut_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=62425&what=species', 
+                 'img-name': 'Upeneus_guttatus__Upgut_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1423714945_60.48.123.186.jpg&w=300', 
+                 'photographer': 'Photo by Halimah Mohamed', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1423714945_60.48.123.186.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Upeneus_guttatus__1423714945_60.48.123.186.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1965-0017.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1965-0017.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1967-0555.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1967-0555.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1982-0044.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00062/1982-0044.jpg', 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Day, 1868)', 
+ 'Max length': '16 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Mullidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 62425, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Upgut_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Upeneus guttatus', 
+             'id': 62425, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=62425'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=62425'
+          }, 
+ 'eles-seq': 1322
+}

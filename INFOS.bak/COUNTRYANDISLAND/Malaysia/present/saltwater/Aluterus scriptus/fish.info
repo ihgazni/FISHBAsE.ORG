@@ -1,0 +1,560 @@
+{
+ 'Common names': 
+                 [
+                  ' Scrawled filefish (English)', 
+                  ' Barat-barat celoreng biru (Malay)', 
+                  ' Scribbled filefish (English)', 
+                  ' Scribbled leatherjacket (English)', 
+                  ' Barat-barat (Malay)', 
+                  ' Kerosok (Malay)', 
+                  ' Kerosok padi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=725', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u7.jpg', 
+                 'photographer': 'Photo by Petrinos, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u7.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4275&what=species', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u7.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=382', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u9.jpg', 
+                 'photographer': 'Photo by Patzner, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u9.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u9.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=1764', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_ua.jpg', 
+                 'photographer': 'Photo by Munson, L.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_ua.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_ua.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_uc.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_uc.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_uc.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=806', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_ud.jpg', 
+                 'photographer': 'Photo by Wirtz, P.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_ud.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=3&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_ud.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=313', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u5.jpg', 
+                 'photographer': 'Photo by Cook, D.C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u5.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=4&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u5.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=343', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u6.jpg', 
+                 'photographer': 'Photo by Minguell, C.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u6.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=5&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u6.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=264', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u3.jpg', 
+                 'photographer': 'Photo by Kochzius, M.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u3.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=6&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u3.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=173', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u1.jpg', 
+                 'photographer': 'Photo by Venier, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=7&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=173', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u2.jpg', 
+                 'photographer': 'Photo by Venier, J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u2.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=8&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u2.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=164', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u4.jpg', 
+                 'photographer': 'Photo by Yin, Robert', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u4.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=9&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u4.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=777', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u8.jpg', 
+                 'photographer': 'Photo by Wuertz, S.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u8.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=10&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u8.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_u0.jpg', 
+                 'photographer': 'Photo by CSIRO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=11&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=42', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_ub.jpg', 
+                 'photographer': 'Photo by Winterbottom, R.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_ub.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=12&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_ub.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alscr_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=13&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alscr_j0.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=14&ID=4275&what=species&TotRec=16', 
+                 'img-name': 'Aluterus_scriptus__Alscr_j0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1020851.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1020851.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__p1020851.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1020852.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1020852.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__p1020852.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1020853.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1020853.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__p1020853.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fp1020854.jpg&w=300', 
+                 'photographer': 'Photo by Aylin Ulman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/p1020854.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__p1020854.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fscrawled_filefishimg_0111.jpg&w=300', 
+                 'photographer': 'Photo by Testudo Terrapin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/scrawled_filefishimg_0111.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__scrawled_filefishimg_0111.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fscrawled_filefishimg_0178.jpg&w=300', 
+                 'photographer': 'Photo by Testudo Terrapin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/scrawled_filefishimg_0178.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__scrawled_filefishimg_0178.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falusc.jpg&w=300', 
+                 'photographer': 'Photo by R. Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/alusc.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__alusc.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1484737817_162.158.50.66.jpg&w=300', 
+                 'photographer': 'Photo by Raju Saravanan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1484737817_162.158.50.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1484737817_162.158.50.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1447759373_185.10.82.13.jpg&w=300', 
+                 'photographer': 'Photo by Peter Stedman', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1447759373_185.10.82.13.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1447759373_185.10.82.13.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F280.jpg&w=300', 
+                 'photographer': 'Photo by WALTER GHEFTER', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/280.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__280.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faluterus_scriptus.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aluterus_scriptus.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__aluterus_scriptus.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Faluterus_scriptus_2.jpg&w=300', 
+                 'photographer': 'Photo by Rainer Kretzberg', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/aluterus_scriptus_2.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__aluterus_scriptus_2.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_4083_crp.jpg&w=300', 
+                 'photographer': 'Photo by Duquennois, Philippe', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_4083_crp.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__img_4083_crp.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fpezlija.jpg&w=300', 
+                 'photographer': 'Photo by V', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/pezlija.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__pezlija.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367250441_182.178.19.237.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367250441_182.178.19.237.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1367250441_182.178.19.237.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367250463_182.178.19.237.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367250463_182.178.19.237.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1367250463_182.178.19.237.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367250480_182.178.19.237.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367250480_182.178.19.237.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1367250480_182.178.19.237.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1396290666_39.48.7.94.jpg&w=300', 
+                 'photographer': 'Photo by Muhammad Moazzam Khan', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1396290666_39.48.7.94.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1396290666_39.48.7.94.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falscr1rs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/alscr1rs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__alscr1rs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falscr2rs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/alscr2rs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__alscr2rs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Falscr3rs.jpg&w=300', 
+                 'photographer': 'Photo by Richard Field', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/alscr3rs.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__alscr3rs.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1421484062_184.74.240.29.jpg&w=300', 
+                 'photographer': 'Photo by Dr. Abrahamsson', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1421484062_184.74.240.29.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1421484062_184.74.240.29.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ffb_8415.jpg&w=300', 
+                 'photographer': 'Photo by Gianemilio Rusconi', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/fb_8415.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__fb_8415.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414087501_2.108.108.28.jpg&w=300', 
+                 'photographer': 'Photo by Carsten Lau', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414087501_2.108.108.28.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1414087501_2.108.108.28.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1482315498_188.114.102.48.jpg&w=300', 
+                 'photographer': 'Photo by Trevor Meyer', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1482315498_188.114.102.48.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1482315498_188.114.102.48.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1364935127_197.152.112.75.jpg&w=300', 
+                 'photographer': 'Photo by Rub', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1364935127_197.152.112.75.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Aluterus_scriptus__1364935127_197.152.112.75.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-0869_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00059/i0000-0869_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/ib-1970_rn1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/ib-1970_rn1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/ib-1970_p1.jpg', 
+                 'external-url': 'http://dsiphoto.mnhn.fr/gicim/sd00039/ib-1970_p1.jpg', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2206', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2206', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1817', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=1817', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=358', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=358', 
+                 'type': None
+                }, 
+                {
+                 'summary-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2926', 
+                 'external-url': 'http://www.fishbase.us/FishWatcher/Record.php?autoctr=2926', 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alscr_l0.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_l0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=4275&what=larvegg', 
+                 'img-name': 'Aluterus_scriptus__Alscr_l0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=876', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Alscr_j0.gif', 
+                 'photographer': 'Photo by Beltrán-León, B.S./Raul Ríos Herrera', 
+                 'img-url': 'http://www.fishbase.us/images/species/Alscr_j0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=4275&what=larvegg&TotRec=2', 
+                 'img-name': 'Aluterus_scriptus__Alscr_j0.gif', 
+                 'external-url': None, 
+                 'type': 'larvegg'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Osbeck, 1765)', 
+ 'Max length': '110 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Monacanthidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 4275, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Alscr_uc.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Aluterus scriptus', 
+             'id': 4275, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=4275'
+            }, 
+ 'Remark': 'Not esteemed as a food fish in the country (Ref. 27550).  Also Ref. 5756.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=4275'
+          }, 
+ 'eles-seq': 50
+}

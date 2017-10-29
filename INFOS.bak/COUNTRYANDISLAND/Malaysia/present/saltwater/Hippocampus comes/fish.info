@@ -1,0 +1,152 @@
+{
+ 'Common names': 
+                 [
+                  ' Tiger tail seahorse (English)', 
+                  ' Kuda laut rimau (Malay)', 
+                  ' Seahorse (English)', 
+                  ' Korek telinga (Malay)', 
+                  ' Kuda laut (Malay)', 
+                  ' Tangkur kuda (Malay)', 
+                  ' Undok-undok (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicom_f0.jpg', 
+                 'photographer': 'Photo by Lourie, S.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicom_f0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=53792&what=species', 
+                 'img-name': 'Hippocampus_comes__Hicom_f0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=465', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Hicom_u0.gif', 
+                 'photographer': 'Photo by Richardson, Laurence J.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Hicom_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=53792&what=species&TotRec=2', 
+                 'img-name': 'Hippocampus_comes__Hicom_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippocampuscomes%2528tigertailseahorse%2529f.malapascua_wm.jpg&w=300', 
+                 'photographer': 'Photo by Karen Honeycutt', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippocampuscomes%28tigertailseahorse%29f.malapascua_wm.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_comes__hippocampuscomes%28tigertailseahorse%29f.malapascua_wm.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fhippo_comes.jpg&w=300', 
+                 'photographer': 'Photo by Ukkrit Satapoomin', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/hippo_comes.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_comes__hippo_comes.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Ftigertailfem.jpg&w=300', 
+                 'photographer': 'Photo by David Butcher', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/tigertailfem.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_comes__tigertailfem.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fdscn0416.jpg&w=300', 
+                 'photographer': 'Photo by josephine chai', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/dscn0416.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Hippocampus_comes__dscn0416.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'thumbnail-url': None, 
+                 'photographer': None, 
+                 'img-url': None, 
+                 'summary-url': None, 
+                 'external-url': None, 
+                 'type': None
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Cantor, 1849', 
+ 'Max length': '18.7 OT (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Syngnathidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 53792, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Hicom_f0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Hippocampus comes', 
+             'id': 53792, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=53792'
+            }, 
+ 'Remark': 'Penang. Type locality (Ref. 48635). Also Ref. 90102.', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=53792'
+          }, 
+ 'eles-seq': 585
+}

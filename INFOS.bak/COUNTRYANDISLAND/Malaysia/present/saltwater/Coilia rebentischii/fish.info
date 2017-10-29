@@ -1,0 +1,50 @@
+{
+ 'Common names': 
+                 [
+                  ' Many-fingered grenadier anchovy (English)', 
+                  ' Bulu ayam reben (Malay)', 
+                  ' Grenadier anchovy (English)', 
+                  ' Bulu ayam (Malay)', 
+                  ' Gonjeng (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Coreb_u0.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Coreb_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=633&what=species', 
+                 'img-name': 'Coilia_rebentischii__Coreb_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': 'Bleeker, 1858', 
+ 'Max length': '15.199999809265 SL (male)', 
+ 'Maturity': '', 
+ 'Family': 'Engraulidae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 633, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Coreb_u0.gif'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Coilia rebentischii', 
+             'id': 633, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=633'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=633'
+          }, 
+ 'eles-seq': 324
+}

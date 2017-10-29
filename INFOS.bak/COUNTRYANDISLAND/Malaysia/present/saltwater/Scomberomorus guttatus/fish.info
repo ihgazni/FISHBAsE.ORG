@@ -1,0 +1,160 @@
+{
+ 'Common names': 
+                 [
+                  ' Indo-Pacific king mackerel (English)', 
+                  ' Tenggiri papan (Malay)', 
+                  ' Spanish mackerel (English)', 
+                  ' Spotted mackerel (English)', 
+                  ' Spotted spanish mackerel (English)', 
+                  ' Dengkeh (Malay)', 
+                  ' Iyot (Malay)', 
+                  ' Luding (Malay)', 
+                  ' Tandau (Malay)', 
+                  ' Teik kar (Malay)', 
+                  ' Tenggiri (Malay)', 
+                  ' Tenggiri batang (Malay)', 
+                  ' Tenggiri bunga (Malay)', 
+                  ' Tohok (Malay)', 
+                  ' Tohok langgi (Malay)', 
+                  ' Tohok langi (Malay)'
+                 ], 
+ 'info-dir': '../INFOS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Occurrence': 'native', 
+ 'Info': ' Br, M', 
+ 'All-Photos': 
+               [
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=128', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scgut_u0.jpg', 
+                 'photographer': 'Photo by Gloerfelt-Tarp, T.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scgut_u0.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?ID=123&what=species', 
+                 'img-name': 'Scomberomorus_guttatus__Scgut_u0.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=50', 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scgut_u1.jpg', 
+                 'photographer': 'Photo by Randall, J.E.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scgut_u1.jpg', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=0&ID=123&what=species&TotRec=4', 
+                 'img-name': 'Scomberomorus_guttatus__Scgut_u1.jpg', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=823', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Scgut_u2.gif', 
+                 'photographer': 'Photo by FAO', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scgut_u2.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=1&ID=123&what=species&TotRec=4', 
+                 'img-name': 'Scomberomorus_guttatus__Scgut_u2.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': 'http://www.fishbase.us/Collaborators/CollaboratorSummary.php?ID=7', 
+                 'img-type': 'gif', 
+                 'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/gif/tn_Scgut_u0.gif', 
+                 'photographer': 'Photo by Cada, L.A.', 
+                 'img-url': 'http://www.fishbase.us/images/species/Scgut_u0.gif', 
+                 'summary-url': 'http://www.fishbase.us/photos/PicturesSummary.php?StartRow=2&ID=123&what=species&TotRec=4', 
+                 'img-name': 'Scomberomorus_guttatus__Scgut_u0.gif', 
+                 'external-url': None, 
+                 'type': 'species'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2Fimg_6427.jpg&w=300', 
+                 'photographer': 'Photo by Sachinandan Dutta', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/img_6427.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__img_6427.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1380075629_117.240.235.66.jpg&w=300', 
+                 'photographer': 'Photo by KANNAN K and  RANJITH L', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1380075629_117.240.235.66.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__1380075629_117.240.235.66.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1367057513_182.178.95.132.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1367057513_182.178.95.132.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__1367057513_182.178.95.132.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414850154_39.44.189.243.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414850154_39.44.189.243.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__1414850154_39.44.189.243.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1414850202_39.44.189.243.jpg&w=300', 
+                 'photographer': 'Photo by Hamid Badar Osmany', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1414850202_39.44.189.243.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__1414850202_39.44.189.243.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }, 
+                {
+                 'colaborator-url': None, 
+                 'img-type': 'jpg', 
+                 'thumbnail-url': 'http://www.fishbase.us/photos/workimagethumb.php?s=http%3A%2F%2Fwww.fishbase.us%2Ftools%2FUploadPhoto%2Fuploads%2F1419177142_82.156.224.224.jpg&w=300', 
+                 'photographer': 'Photo by Peter van der Sluijs', 
+                 'img-url': 'http://www.fishbase.us/tools/UploadPhoto/uploads/1419177142_82.156.224.224.jpg', 
+                 'summary-url': '#', 
+                 'img-name': 'Scomberomorus_guttatus__1419177142_82.156.224.224.jpg', 
+                 'external-url': None, 
+                 'type': 'uploads'
+                }
+               ], 
+ 'Abundance': '', 
+ 'images-dir': '../PICS/COUNTRYANDISLAND/Malaysia/present/saltwater/', 
+ 'Author': '(Bloch & Schneider, 1801)', 
+ 'Max length': '76 TL (unsexed)', 
+ 'Maturity': '', 
+ 'Family': 'Scombridae', 
+ 'Presenting-Photo': 
+                     {
+                      'ID': 123, 
+                      'thumbnail-url': 'http://www.fishbase.us/images/thumbnails/jpg/tn_Scgut_u0.jpg'
+                     }, 
+ 'Species': 
+            {
+             'name': 'Scomberomorus guttatus', 
+             'id': 123, 
+             'url': 'http://www.fishbase.us/country/CountrySpeciesSummary.php?c_code=458&id=123'
+            }, 
+ 'Remark': '', 
+ 'Photo': 
+          {
+           'url': 'http://www.fishbase.us//photos/ThumbnailsSummary.php?ID=123'
+          }, 
+ 'eles-seq': 1162
+}
